@@ -1,0 +1,1547 @@
+EventID,EventType,EventDate,BookingLocation,Region,Team,Product,SourceSystem,Severity,IssueType
+E0000334,Limit Breach,2025-01-07,,,Front Office,Structured Products,Core Banking,Medium,Missing BookingLocation
+E0000392,Data Quality Issue,2025-01-08,,,Client Onboarding,Discretionary,Core Banking,High,Missing BookingLocation
+E0000595,Processing Error,2025-01-11,,,Operations,Advisory,CRM,Low,Missing BookingLocation
+E0000890,Incident,2025-01-16,,,Compliance & Controls,Lombard Lending,Monitoring Tool,Medium,Missing BookingLocation
+E0001268,Processing Error,2025-01-23,,,Client Onboarding,Lombard Lending,CRM,High,Missing BookingLocation
+E0001285,Limit Breach,2025-01-23,,,Front Office,Lombard Lending,Email Intake,Medium,Missing BookingLocation
+E0001602,Processing Error,2025-01-29,,,Operations,Advisory,CRM,Medium,Missing BookingLocation
+E0001635,High-Risk Transaction,2025-01-30,,,Front Office,Execution-only,CRM,Low,Missing BookingLocation
+E0001866,High-Risk Transaction,2025-02-04,,,Front Office,Discretionary,Core Banking,Low,Missing BookingLocation
+E0001981,Reconciliation Break,2025-02-06,,,Operations,Lombard Lending,Workflow,Low,Missing BookingLocation
+E0002141,Incident,2025-02-08,,,Operations,Execution-only,CRM,Low,Missing BookingLocation
+E0002326,Incident,2025-02-12,,,Operations,Execution-only,CRM,Low,Missing BookingLocation
+E0002998,Processing Error,2025-02-23,,,Operations,Lombard Lending,Core Banking,High,Missing BookingLocation
+E0003053,Data Quality Issue,2025-02-24,,,Front Office,Lombard Lending,CRM,Low,Missing BookingLocation
+E0003763,Complaint,2025-03-09,,,Compliance & Controls,Advisory,CRM,High,Missing BookingLocation
+E0004057,Processing Error,2025-03-13,,,Operations,Advisory,CRM,Low,Missing BookingLocation
+E0004076,Processing Error,2025-03-13,,,Operations,Execution-only,Workflow,Medium,Missing BookingLocation
+E0004371,High-Risk Transaction,2025-03-18,,,Front Office,Structured Products,Workflow,High,Missing BookingLocation
+E0004577,Data Quality Issue,2025-03-21,,,Client Onboarding,Discretionary,CRM,Medium,Missing BookingLocation
+E0004684,Data Quality Issue,2025-03-24,,,Front Office,Execution-only,Email Intake,Medium,Missing BookingLocation
+E0005130,Incident,2025-03-31,,,Operations,Lombard Lending,Workflow,Low,Missing BookingLocation
+E0005337,Processing Error,2025-04-04,,,Operations,Execution-only,CRM,Medium,Missing BookingLocation
+E0005795,Processing Error,2025-04-11,,,Operations,Advisory,CRM,High,Missing BookingLocation
+E0005842,KYC Review Overdue,2025-04-12,,,Front Office,Execution-only,Workflow,Medium,Missing BookingLocation
+E0006705,Data Quality Issue,2025-04-26,,,Operations,Discretionary,CRM,High,Missing BookingLocation
+E0008259,Incident,2025-05-22,,,Compliance & Controls,Discretionary,Monitoring Tool,Medium,Missing BookingLocation
+E0008846,Overdue Task,2025-06-01,,,Front Office,Advisory,Workflow,Low,Missing BookingLocation
+E0009163,KYC Review Overdue,2025-06-06,,,Front Office,Lombard Lending,Workflow,Medium,Missing BookingLocation
+E0009457,Processing Error,2025-06-12,,,Front Office,Execution-only,Workflow,Low,Missing BookingLocation
+E0009738,Processing Error,2025-06-17,,,Operations,Execution-only,CRM,Medium,Missing BookingLocation
+E0009762,Processing Error,2025-06-17,,,Operations,Lombard Lending,Monitoring Tool,Medium,Missing BookingLocation
+E0010819,Reconciliation Break,2025-07-07,,,Operations,Lombard Lending,Monitoring Tool,Low,Missing BookingLocation
+E0011357,High-Risk Transaction,2025-07-17,,,Front Office,Execution-only,CRM,Critical,Missing BookingLocation
+E0011530,High-Risk Transaction,2025-07-20,,,Front Office,Structured Products,CRM,Critical,Missing BookingLocation
+E0011954,Processing Error,2025-07-27,,,Operations,Advisory,Monitoring Tool,Low,Missing BookingLocation
+E0013084,Processing Error,2025-08-18,,,Client Onboarding,Lombard Lending,CRM,Medium,Missing BookingLocation
+E0013220,Limit Breach,2025-08-21,,,Front Office,Structured Products,Monitoring Tool,Medium,Missing BookingLocation
+E0013404,Data Quality Issue,2025-08-25,,,Client Onboarding,Lombard Lending,Monitoring Tool,Medium,Missing BookingLocation
+E0013692,Processing Error,2025-08-30,,,Operations,Discretionary,Monitoring Tool,Low,Missing BookingLocation
+E0013732,Reconciliation Break,2025-08-31,,,Operations,Advisory,Monitoring Tool,Low,Missing BookingLocation
+E0014329,Processing Error,2025-09-12,,,Operations,Discretionary,Monitoring Tool,Low,Missing BookingLocation
+E0014340,Data Quality Issue,2025-09-12,,,Operations,Discretionary,Workflow,Low,Missing BookingLocation
+E0014416,Data Quality Issue,2025-09-14,,,Client Onboarding,Lombard Lending,Core Banking,High,Missing BookingLocation
+E0014447,Processing Error,2025-09-14,,,Operations,Discretionary,Monitoring Tool,Low,Missing BookingLocation
+E0015017,Processing Error,2025-09-26,,,Operations,Discretionary,Email Intake,Low,Missing BookingLocation
+E0015983,Reconciliation Break,2025-10-14,,,Operations,Advisory,Email Intake,Low,Missing BookingLocation
+E0016553,Processing Error,2025-10-26,,,Front Office,Execution-only,Core Banking,Medium,Missing BookingLocation
+E0017378,Processing Error,2025-11-10,,,Operations,Structured Products,Email Intake,Low,Missing BookingLocation
+E0018170,Processing Error,2025-11-25,,,Operations,Execution-only,Monitoring Tool,Medium,Missing BookingLocation
+E0018260,Processing Error,2025-11-27,,,Operations,Advisory,Workflow,Low,Missing BookingLocation
+E0018309,High-Risk Transaction,2025-11-27,,,Front Office,Lombard Lending,Email Intake,High,Missing BookingLocation
+E0018500,Processing Error,2025-12-01,,,Operations,Advisory,Core Banking,High,Missing BookingLocation
+E0018569,Processing Error,2025-12-02,,,Operations,Discretionary,Email Intake,Low,Missing BookingLocation
+E0019063,Processing Error,2025-12-12,,,Operations,Advisory,Workflow,Medium,Missing BookingLocation
+E0019244,Incident,2025-12-15,,,Operations,Discretionary,Core Banking,Medium,Missing BookingLocation
+E0019705,Processing Error,2025-12-24,,,Front Office,Discretionary,CRM,Medium,Missing BookingLocation
+E0019758,Reconciliation Break,2025-12-24,,,Operations,Execution-only,Workflow,High,Missing BookingLocation
+E0019776,Processing Error,2025-12-25,,,Operations,Discretionary,Monitoring Tool,Medium,Missing BookingLocation
+E0019810,Processing Error,2025-12-25,,,Front Office,Discretionary,CRM,Medium,Missing BookingLocation
+E0019870,High-Risk Transaction,2025-12-26,,,Front Office,Structured Products,Monitoring Tool,Low,Missing BookingLocation
+E0001310,Overdue Task,2025-01-24,Geneva,EMEA,Client Onboarding,,Monitoring Tool,Medium,Missing Product
+E0002157,High-Risk Transaction,2025-02-09,Zurich,EMEA,Front Office,,CRM,Medium,Missing Product
+E0002752,High-Risk Transaction,2025-02-19,London,EMEA,Front Office,,CRM,Medium,Missing Product
+E0002836,High-Risk Transaction,2025-02-20,Hong Kong,APAC,Front Office,,CRM,Medium,Missing Product
+E0003344,Incident,2025-03-01,Geneva,EMEA,Client Onboarding,,Email Intake,Medium,Missing Product
+E0003650,Reconciliation Break,2025-03-06,New York,Americas,Operations,,Workflow,Low,Missing Product
+E0003936,Reconciliation Break,2025-03-11,New York,Americas,Front Office,,Workflow,Medium,Missing Product
+E0004508,Data Quality Issue,2025-03-20,Hong Kong,APAC,Front Office,,Workflow,Low,Missing Product
+E0005117,Reconciliation Break,2025-03-31,London,EMEA,Front Office,,CRM,Low,Missing Product
+E0005135,Reconciliation Break,2025-03-31,New York,Americas,Operations,,Email Intake,Low,Missing Product
+E0005868,Processing Error,2025-04-13,Geneva,EMEA,Operations,,Monitoring Tool,High,Missing Product
+E0006694,Processing Error,2025-04-25,Hong Kong,APAC,Operations,,Workflow,Medium,Missing Product
+E0007770,Processing Error,2025-05-15,Zurich,EMEA,Operations,,Core Banking,Low,Missing Product
+E0007807,Processing Error,2025-05-15,London,EMEA,Operations,,Workflow,Low,Missing Product
+E0008491,Data Quality Issue,2025-05-26,New York,Americas,Client Onboarding,,CRM,Medium,Missing Product
+E0008631,Processing Error,2025-05-29,Zurich,EMEA,Operations,,Core Banking,Low,Missing Product
+E0008908,Processing Error,2025-06-02,London,EMEA,Operations,,CRM,Low,Missing Product
+E0009583,High-Risk Transaction,2025-06-14,New York,Americas,Front Office,,CRM,High,Missing Product
+E0009824,High-Risk Transaction,2025-06-19,Zurich,EMEA,Front Office,,Email Intake,High,Missing Product
+E0010693,Processing Error,2025-07-04,London,EMEA,Operations,,Monitoring Tool,Medium,Missing Product
+E0010932,Reconciliation Break,2025-07-09,Zurich,EMEA,Operations,,CRM,High,Missing Product
+E0011410,Reconciliation Break,2025-07-18,Zurich,EMEA,Operations,,Core Banking,Low,Missing Product
+E0011689,Reconciliation Break,2025-07-23,Zurich,EMEA,Compliance & Controls,,Workflow,Low,Missing Product
+E0011740,Processing Error,2025-07-23,Singapore,APAC,Operations,,Email Intake,Medium,Missing Product
+E0011997,KYC Review Overdue,2025-07-28,London,EMEA,Front Office,,CRM,Low,Missing Product
+E0012694,Processing Error,2025-08-11,London,EMEA,Operations,,Workflow,Low,Missing Product
+E0013237,High-Risk Transaction,2025-08-21,London,EMEA,Compliance & Controls,,Monitoring Tool,Low,Missing Product
+E0013380,Processing Error,2025-08-24,New York,Americas,Operations,,CRM,Medium,Missing Product
+E0013424,Overdue Task,2025-08-25,New York,Americas,Client Onboarding,,CRM,High,Missing Product
+E0013567,Processing Error,2025-08-27,Hong Kong,APAC,Operations,,Workflow,Low,Missing Product
+E0014646,High-Risk Transaction,2025-09-18,Singapore,APAC,Front Office,,Workflow,Medium,Missing Product
+E0014826,Processing Error,2025-09-22,Singapore,APAC,Client Onboarding,,Core Banking,Critical,Missing Product
+E0015445,Processing Error,2025-10-03,Hong Kong,APAC,Operations,,Workflow,Medium,Missing Product
+E0015461,KYC Review Overdue,2025-10-04,Geneva,EMEA,Operations,,CRM,Low,Missing Product
+E0015488,Processing Error,2025-10-04,Singapore,APAC,Operations,,CRM,Critical,Missing Product
+E0016683,High-Risk Transaction,2025-10-28,New York,Americas,Front Office,,Core Banking,Low,Missing Product
+E0016726,Processing Error,2025-10-29,Geneva,EMEA,Operations,,Workflow,High,Missing Product
+E0016763,Processing Error,2025-10-30,Zurich,EMEA,Operations,,Monitoring Tool,High,Missing Product
+E0017726,Reconciliation Break,2025-11-17,Zurich,EMEA,Operations,,Email Intake,Low,Missing Product
+E0018177,Processing Error,2025-11-25,London,EMEA,Operations,,CRM,Critical,Missing Product
+E0001767,High-Risk Transaction,2026-01-15,London,EMEA,Front Office,Discretionary,Core Banking,Medium,Future EventDate
+E0004812,Processing Error,2026-01-15,Zurich,EMEA,Client Onboarding,Structured Products,Workflow,Low,Future EventDate
+E0005169,Processing Error,2026-01-15,Zurich,EMEA,Operations,Advisory,Workflow,Low,Future EventDate
+E0005221,Processing Error,2026-01-15,Hong Kong,APAC,Front Office,Discretionary,Core Banking,Medium,Future EventDate
+E0006364,Processing Error,2026-01-15,Geneva,EMEA,Operations,Advisory,Workflow,Medium,Future EventDate
+E0007182,Overdue Task,2026-01-15,New York,Americas,Front Office,Structured Products,CRM,Low,Future EventDate
+E0008293,Limit Breach,2026-01-15,Zurich,EMEA,Front Office,Discretionary,CRM,High,Future EventDate
+E0009777,Overdue Task,2026-01-15,Geneva,EMEA,Client Onboarding,Discretionary,Workflow,Low,Future EventDate
+E0010150,High-Risk Transaction,2026-01-15,Singapore,APAC,Front Office,Discretionary,Email Intake,Medium,Future EventDate
+E0010168,Incident,2026-01-15,Zurich,EMEA,Operations,Discretionary,Monitoring Tool,Medium,Future EventDate
+E0012307,Processing Error,2026-01-15,New York,Americas,Operations,Discretionary,Monitoring Tool,Medium,Future EventDate
+E0012556,High-Risk Transaction,2026-01-15,Geneva,EMEA,Front Office,Lombard Lending,Email Intake,Critical,Future EventDate
+E0013335,Reconciliation Break,2026-01-15,London,EMEA,Operations,Advisory,Core Banking,Medium,Future EventDate
+E0014406,Limit Breach,2026-01-15,Singapore,APAC,Front Office,Structured Products,Workflow,Low,Future EventDate
+E0014707,Incident,2026-01-15,Zurich,EMEA,Front Office,Lombard Lending,Workflow,Medium,Future EventDate
+E0014919,Processing Error,2026-01-15,Geneva,EMEA,Operations,Execution-only,Workflow,Low,Future EventDate
+E0015318,Processing Error,2026-01-15,Zurich,EMEA,Operations,Advisory,Workflow,Low,Future EventDate
+E0016192,Processing Error,2026-01-15,London,EMEA,Operations,Structured Products,Workflow,Medium,Future EventDate
+E0017015,Data Quality Issue,2026-01-15,Singapore,APAC,Client Onboarding,Lombard Lending,Email Intake,Low,Future EventDate
+E0019610,Data Quality Issue,2026-01-15,New York,Americas,Client Onboarding,Execution-only,CRM,Low,Future EventDate
+E0000055,Reconciliation Break,2025-01-02,Zurich,EMEA,Front Office,Advisory,Monitoring Tool,Low,Negative Amount
+E0000731,High-Risk Transaction,2025-01-14,London,EMEA,Front Office,Execution-only,Monitoring Tool,Low,Negative Amount
+E0001362,High-Risk Transaction,2025-01-25,Zurich,EMEA,Front Office,Execution-only,CRM,Low,Negative Amount
+E0004380,Data Quality Issue,2025-03-19,Zurich,EMEA,Front Office,Discretionary,Workflow,Low,Negative Amount
+E0005969,High-Risk Transaction,2025-04-14,Hong Kong,APAC,Front Office,Discretionary,Workflow,Low,Negative Amount
+E0006236,Incident,2025-04-18,New York,Americas,Compliance & Controls,Execution-only,Core Banking,Low,Negative Amount
+E0006842,Processing Error,2025-04-28,London,EMEA,Operations,Advisory,Email Intake,Medium,Negative Amount
+E0007393,Reconciliation Break,2025-05-08,Zurich,EMEA,Operations,Execution-only,Workflow,High,Negative Amount
+E0008220,Incident,2025-05-22,Zurich,EMEA,Operations,Execution-only,Email Intake,Low,Negative Amount
+E0010159,Limit Breach,2025-06-24,Singapore,APAC,Front Office,Structured Products,Workflow,High,Negative Amount
+E0010481,Processing Error,2025-06-30,Singapore,APAC,Operations,Execution-only,Core Banking,Medium,Negative Amount
+E0013706,Limit Breach,2025-08-30,London,EMEA,Front Office,Structured Products,Workflow,Medium,Negative Amount
+E0014485,Incident,2025-09-15,New York,Americas,Operations,Lombard Lending,Email Intake,Medium,Negative Amount
+E0015034,Incident,2025-09-26,London,EMEA,Operations,Execution-only,CRM,Low,Negative Amount
+E0016457,High-Risk Transaction,2025-10-24,Zurich,EMEA,Front Office,Execution-only,Workflow,Medium,Negative Amount
+E0016861,High-Risk Transaction,2025-10-31,New York,Americas,Front Office,Structured Products,Workflow,High,Negative Amount
+E0017299,Processing Error,2025-11-08,Hong Kong,APAC,Operations,Discretionary,Workflow,Low,Negative Amount
+E0017397,Limit Breach,2025-11-10,Hong Kong,APAC,Front Office,Structured Products,Workflow,Low,Negative Amount
+E0017471,Processing Error,2025-11-12,Geneva,EMEA,Operations,Advisory,Core Banking,Medium,Negative Amount
+E0018421,Limit Breach,2025-11-30,Zurich,EMEA,Front Office,Execution-only,Email Intake,Medium,Negative Amount
+E0000017,Data Quality Issue,2025-01-01,London,EMEA,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0000018,High-Risk Transaction,2025-01-01,London,EMEA,Front Office,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0000020,Data Quality Issue,2025-01-01,London,EMEA,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0000032,Data Quality Issue,2025-01-01,New York,Americas,Front Office,Structured Products,Monitoring Tool,Low,Missing Mandatory Fields
+E0000076,Data Quality Issue,2025-01-02,London,EMEA,Client Onboarding,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0000077,Reconciliation Break,2025-01-02,London,EMEA,Operations,Discretionary,Monitoring Tool,Critical,Missing Mandatory Fields
+E0000090,Data Quality Issue,2025-01-02,London,EMEA,Operations,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0000102,Data Quality Issue,2025-01-02,New York,Americas,Client Onboarding,Lombard Lending,Monitoring Tool,Low,Missing Mandatory Fields
+E0000126,Data Quality Issue,2025-01-03,Zurich,EMEA,Compliance & Controls,Execution-only,CRM,Low,Missing Mandatory Fields
+E0000133,Overdue Task,2025-01-03,Geneva,EMEA,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0000148,Processing Error,2025-01-03,New York,Americas,Operations,Execution-only,Core Banking,Critical,Missing Mandatory Fields
+E0000162,High-Risk Transaction,2025-01-03,Singapore,APAC,Front Office,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0000174,Data Quality Issue,2025-01-04,Zurich,EMEA,Client Onboarding,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0000175,Processing Error,2025-01-04,Zurich,EMEA,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0000204,Data Quality Issue,2025-01-04,Singapore,APAC,Compliance & Controls,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0000206,Processing Error,2025-01-04,Singapore,APAC,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0000222,Processing Error,2025-01-05,Geneva,EMEA,Operations,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0000246,KYC Review Overdue,2025-01-05,Hong Kong,APAC,Front Office,Execution-only,CRM,Low,Missing Mandatory Fields
+E0000268,High-Risk Transaction,2025-01-06,Geneva,EMEA,Front Office,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0000280,Data Quality Issue,2025-01-06,London,EMEA,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0000299,Processing Error,2025-01-06,Singapore,APAC,Operations,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0000304,Processing Error,2025-01-06,Singapore,APAC,Operations,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0000352,Data Quality Issue,2025-01-07,London,EMEA,Client Onboarding,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0000372,High-Risk Transaction,2025-01-08,Zurich,EMEA,Front Office,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0000373,Data Quality Issue,2025-01-08,Zurich,EMEA,Front Office,Advisory,CRM,Low,Missing Mandatory Fields
+E0000398,Data Quality Issue,2025-01-08,London,EMEA,Operations,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0000400,Processing Error,2025-01-08,London,EMEA,Operations,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0000402,High-Risk Transaction,2025-01-08,London,EMEA,Front Office,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0000420,Data Quality Issue,2025-01-08,Singapore,APAC,Operations,Discretionary,Workflow,High,Missing Mandatory Fields
+E0000426,Data Quality Issue,2025-01-08,Hong Kong,APAC,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0000427,Overdue Task,2025-01-08,Hong Kong,APAC,Client Onboarding,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0000432,Data Quality Issue,2025-01-09,Zurich,EMEA,Front Office,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0000437,Reconciliation Break,2025-01-09,Zurich,EMEA,Operations,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0000439,Reconciliation Break,2025-01-09,Zurich,EMEA,Operations,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0000468,Data Quality Issue,2025-01-09,New York,Americas,Operations,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0000528,Processing Error,2025-01-10,New York,Americas,Front Office,Execution-only,CRM,High,Missing Mandatory Fields
+E0000535,Data Quality Issue,2025-01-10,New York,Americas,Client Onboarding,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0000583,Reconciliation Break,2025-01-11,New York,Americas,Operations,Advisory,CRM,Medium,Missing Mandatory Fields
+E0000623,High-Risk Transaction,2025-01-12,London,EMEA,Operations,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0000684,High-Risk Transaction,2025-01-13,New York,Americas,Front Office,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0000712,Data Quality Issue,2025-01-14,Zurich,EMEA,Front Office,Structured Products,Email Intake,Medium,Missing Mandatory Fields
+E0000715,Data Quality Issue,2025-01-14,Zurich,EMEA,Operations,Structured Products,CRM,High,Missing Mandatory Fields
+E0000725,Processing Error,2025-01-14,Geneva,EMEA,Operations,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0000733,High-Risk Transaction,2025-01-14,London,EMEA,Front Office,Lombard Lending,Monitoring Tool,Low,Missing Mandatory Fields
+E0000755,Reconciliation Break,2025-01-14,Hong Kong,APAC,Operations,Structured Products,Workflow,Medium,Missing Mandatory Fields
+E0000767,Processing Error,2025-01-15,Zurich,EMEA,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0000769,Data Quality Issue,2025-01-15,Zurich,EMEA,Client Onboarding,Execution-only,Workflow,High,Missing Mandatory Fields
+E0000774,Reconciliation Break,2025-01-15,Geneva,EMEA,Compliance & Controls,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0000778,Incident,2025-01-15,London,EMEA,Operations,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0000780,Data Quality Issue,2025-01-15,London,EMEA,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0000832,Processing Error,2025-01-16,Zurich,EMEA,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0000841,Overdue Task,2025-01-16,Geneva,EMEA,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0000845,High-Risk Transaction,2025-01-16,London,EMEA,Front Office,Advisory,Workflow,High,Missing Mandatory Fields
+E0000866,Overdue Task,2025-01-16,New York,Americas,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0000867,Reconciliation Break,2025-01-16,New York,Americas,Front Office,Lombard Lending,Monitoring Tool,Low,Missing Mandatory Fields
+E0000877,Processing Error,2025-01-16,Singapore,APAC,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0000879,Data Quality Issue,2025-01-16,Singapore,APAC,Front Office,Lombard Lending,Workflow,High,Missing Mandatory Fields
+E0000899,Processing Error,2025-01-17,Zurich,EMEA,Operations,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0000901,Data Quality Issue,2025-01-17,Zurich,EMEA,Operations,Discretionary,Email Intake,High,Missing Mandatory Fields
+E0000928,Data Quality Issue,2025-01-17,New York,Americas,Client Onboarding,Discretionary,CRM,High,Missing Mandatory Fields
+E0000941,Data Quality Issue,2025-01-17,Singapore,APAC,Operations,Lombard Lending,CRM,High,Missing Mandatory Fields
+E0000942,Incident,2025-01-17,Hong Kong,APAC,Front Office,Advisory,Workflow,High,Missing Mandatory Fields
+E0000947,Processing Error,2025-01-17,Hong Kong,APAC,Front Office,Execution-only,Monitoring Tool,High,Missing Mandatory Fields
+E0000951,Data Quality Issue,2025-01-17,Hong Kong,APAC,Front Office,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0000961,Processing Error,2025-01-18,Geneva,EMEA,Operations,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0000968,Reconciliation Break,2025-01-18,London,EMEA,Front Office,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0000976,Reconciliation Break,2025-01-18,London,EMEA,Operations,Structured Products,Workflow,Low,Missing Mandatory Fields
+E0000984,Data Quality Issue,2025-01-18,New York,Americas,Operations,Lombard Lending,Monitoring Tool,Low,Missing Mandatory Fields
+E0000985,Data Quality Issue,2025-01-18,New York,Americas,Client Onboarding,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0001017,Data Quality Issue,2025-01-19,Geneva,EMEA,Client Onboarding,Execution-only,CRM,Low,Missing Mandatory Fields
+E0001024,Reconciliation Break,2025-01-19,London,EMEA,Operations,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0001071,Data Quality Issue,2025-01-20,Zurich,EMEA,Client Onboarding,Structured Products,Core Banking,Low,Missing Mandatory Fields
+E0001080,Processing Error,2025-01-20,London,EMEA,Operations,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0001109,Reconciliation Break,2025-01-20,Hong Kong,APAC,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0001127,Processing Error,2025-01-21,Geneva,EMEA,Operations,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0001139,Data Quality Issue,2025-01-21,London,EMEA,Operations,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0001155,Data Quality Issue,2025-01-21,New York,Americas,Operations,Lombard Lending,Email Intake,Medium,Missing Mandatory Fields
+E0001159,Processing Error,2025-01-21,Singapore,APAC,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0001166,Data Quality Issue,2025-01-21,Hong Kong,APAC,Front Office,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0001222,Data Quality Issue,2025-01-22,Singapore,APAC,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0001224,Data Quality Issue,2025-01-22,Singapore,APAC,Front Office,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0001225,High-Risk Transaction,2025-01-22,Singapore,APAC,Front Office,Lombard Lending,Email Intake,Medium,Missing Mandatory Fields
+E0001259,Incident,2025-01-23,London,EMEA,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0001296,High-Risk Transaction,2025-01-24,Zurich,EMEA,Front Office,Discretionary,Workflow,High,Missing Mandatory Fields
+E0001329,Data Quality Issue,2025-01-24,New York,Americas,Operations,Advisory,Workflow,Low,Missing Mandatory Fields
+E0001382,Data Quality Issue,2025-01-25,New York,Americas,Operations,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0001402,Processing Error,2025-01-26,Zurich,EMEA,Operations,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0001416,High-Risk Transaction,2025-01-26,London,EMEA,Front Office,Lombard Lending,Workflow,High,Missing Mandatory Fields
+E0001438,Data Quality Issue,2025-01-27,Zurich,EMEA,Front Office,Advisory,Email Intake,High,Missing Mandatory Fields
+E0001448,Processing Error,2025-01-27,Zurich,EMEA,Operations,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0001461,Processing Error,2025-01-27,London,EMEA,Operations,Advisory,Email Intake,Critical,Missing Mandatory Fields
+E0001466,Processing Error,2025-01-27,London,EMEA,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0001493,Data Quality Issue,2025-01-27,Hong Kong,APAC,Front Office,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0001517,High-Risk Transaction,2025-01-28,Geneva,EMEA,Compliance & Controls,Structured Products,CRM,High,Missing Mandatory Fields
+E0001527,Processing Error,2025-01-28,New York,Americas,Operations,Advisory,CRM,Low,Missing Mandatory Fields
+E0001541,Data Quality Issue,2025-01-28,Singapore,APAC,Operations,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0001553,Incident,2025-01-29,Zurich,EMEA,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0001609,High-Risk Transaction,2025-01-30,Zurich,EMEA,Front Office,Advisory,Workflow,Low,Missing Mandatory Fields
+E0001650,High-Risk Transaction,2025-01-30,New York,Americas,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0001658,KYC Review Overdue,2025-01-30,Singapore,APAC,Compliance & Controls,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0001662,Data Quality Issue,2025-01-30,Singapore,APAC,Operations,Lombard Lending,Monitoring Tool,Medium,Missing Mandatory Fields
+E0001703,Processing Error,2025-01-31,New York,Americas,Operations,Structured Products,Core Banking,Low,Missing Mandatory Fields
+E0001721,Data Quality Issue,2025-01-31,Hong Kong,APAC,Operations,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0001734,Limit Breach,2025-02-01,London,EMEA,Front Office,Execution-only,CRM,Critical,Missing Mandatory Fields
+E0001758,Overdue Task,2025-02-02,Geneva,EMEA,Compliance & Controls,Advisory,Workflow,High,Missing Mandatory Fields
+E0001767,High-Risk Transaction,2026-01-15,London,EMEA,Front Office,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0001769,Limit Breach,2025-02-02,London,EMEA,Operations,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0001801,Processing Error,2025-02-03,Zurich,EMEA,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0001803,Data Quality Issue,2025-02-03,Geneva,EMEA,Front Office,Advisory,CRM,Low,Missing Mandatory Fields
+E0001814,Processing Error,2025-02-03,London,EMEA,Operations,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0001826,High-Risk Transaction,2025-02-03,London,EMEA,Front Office,Structured Products,Email Intake,Medium,Missing Mandatory Fields
+E0001850,Data Quality Issue,2025-02-03,Singapore,APAC,Client Onboarding,Structured Products,Core Banking,High,Missing Mandatory Fields
+E0001855,Data Quality Issue,2025-02-03,Hong Kong,APAC,Front Office,Discretionary,CRM,Low,Missing Mandatory Fields
+E0001881,Processing Error,2025-02-04,London,EMEA,Operations,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0001889,High-Risk Transaction,2025-02-04,New York,Americas,Front Office,Advisory,CRM,Low,Missing Mandatory Fields
+E0001897,KYC Review Overdue,2025-02-04,New York,Americas,Client Onboarding,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0001935,Data Quality Issue,2025-02-05,Geneva,EMEA,Client Onboarding,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0001949,Processing Error,2025-02-05,Singapore,APAC,Front Office,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0001952,Data Quality Issue,2025-02-05,Singapore,APAC,Operations,Advisory,CRM,Medium,Missing Mandatory Fields
+E0001965,Processing Error,2025-02-05,Hong Kong,APAC,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0001967,Data Quality Issue,2025-02-05,Hong Kong,APAC,Operations,Execution-only,Monitoring Tool,High,Missing Mandatory Fields
+E0001976,Data Quality Issue,2025-02-06,Zurich,EMEA,Client Onboarding,Discretionary,Monitoring Tool,High,Missing Mandatory Fields
+E0002002,Data Quality Issue,2025-02-06,London,EMEA,Front Office,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0002024,High-Risk Transaction,2025-02-06,Singapore,APAC,Front Office,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0002033,Data Quality Issue,2025-02-06,Singapore,APAC,Client Onboarding,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0002061,Incident,2025-02-07,Geneva,EMEA,Client Onboarding,Execution-only,Workflow,High,Missing Mandatory Fields
+E0002116,Data Quality Issue,2025-02-08,Geneva,EMEA,Client Onboarding,Lombard Lending,Monitoring Tool,Low,Missing Mandatory Fields
+E0002119,Processing Error,2025-02-08,London,EMEA,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0002129,Data Quality Issue,2025-02-08,New York,Americas,Client Onboarding,Advisory,Core Banking,High,Missing Mandatory Fields
+E0002156,Data Quality Issue,2025-02-09,Zurich,EMEA,Front Office,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0002167,Reconciliation Break,2025-02-09,London,EMEA,Front Office,Advisory,Workflow,Low,Missing Mandatory Fields
+E0002179,Data Quality Issue,2025-02-09,New York,Americas,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0002184,Processing Error,2025-02-09,Singapore,APAC,Client Onboarding,Advisory,CRM,Medium,Missing Mandatory Fields
+E0002221,High-Risk Transaction,2025-02-10,London,EMEA,Front Office,Advisory,CRM,Critical,Missing Mandatory Fields
+E0002231,High-Risk Transaction,2025-02-10,New York,Americas,Front Office,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0002255,Data Quality Issue,2025-02-10,Hong Kong,APAC,Client Onboarding,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0002257,Processing Error,2025-02-11,Zurich,EMEA,Operations,Advisory,Workflow,Low,Missing Mandatory Fields
+E0002267,Incident,2025-02-11,Geneva,EMEA,Operations,Advisory,CRM,Low,Missing Mandatory Fields
+E0002268,Incident,2025-02-11,Geneva,EMEA,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0002283,High-Risk Transaction,2025-02-11,New York,Americas,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0002305,Processing Error,2025-02-11,Hong Kong,APAC,Front Office,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0002313,Data Quality Issue,2025-02-12,Zurich,EMEA,Front Office,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0002315,Processing Error,2025-02-12,Zurich,EMEA,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0002336,High-Risk Transaction,2025-02-12,London,EMEA,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0002342,Processing Error,2025-02-12,London,EMEA,Operations,Structured Products,Workflow,Medium,Missing Mandatory Fields
+E0002360,KYC Review Overdue,2025-02-12,Singapore,APAC,Client Onboarding,Lombard Lending,Workflow,Medium,Missing Mandatory Fields
+E0002362,High-Risk Transaction,2025-02-12,Hong Kong,APAC,Front Office,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0002376,Incident,2025-02-13,Zurich,EMEA,Front Office,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0002397,Data Quality Issue,2025-02-13,Geneva,EMEA,Front Office,Structured Products,Monitoring Tool,High,Missing Mandatory Fields
+E0002412,Reconciliation Break,2025-02-13,London,EMEA,Operations,Structured Products,Core Banking,Medium,Missing Mandatory Fields
+E0002433,Data Quality Issue,2025-02-13,Hong Kong,APAC,Operations,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0002456,High-Risk Transaction,2025-02-14,Geneva,EMEA,Front Office,Structured Products,Workflow,Medium,Missing Mandatory Fields
+E0002478,Data Quality Issue,2025-02-14,Singapore,APAC,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0002501,Incident,2025-02-15,Geneva,EMEA,Front Office,Execution-only,CRM,High,Missing Mandatory Fields
+E0002504,Data Quality Issue,2025-02-15,Geneva,EMEA,Operations,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0002516,Data Quality Issue,2025-02-15,New York,Americas,Client Onboarding,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0002528,Reconciliation Break,2025-02-15,Hong Kong,APAC,Compliance & Controls,Advisory,Monitoring Tool,High,Missing Mandatory Fields
+E0002543,Processing Error,2025-02-16,Geneva,EMEA,Operations,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0002563,Reconciliation Break,2025-02-16,New York,Americas,Operations,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0002567,Limit Breach,2025-02-16,Singapore,APAC,Front Office,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0002576,Data Quality Issue,2025-02-16,Hong Kong,APAC,Client Onboarding,Advisory,Workflow,High,Missing Mandatory Fields
+E0002585,Processing Error,2025-02-17,Zurich,EMEA,Operations,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0002591,Data Quality Issue,2025-02-17,Zurich,EMEA,Operations,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0002624,Data Quality Issue,2025-02-17,London,EMEA,Client Onboarding,Lombard Lending,CRM,Medium,Missing Mandatory Fields
+E0002633,High-Risk Transaction,2025-02-17,New York,Americas,Front Office,Execution-only,CRM,Low,Missing Mandatory Fields
+E0002656,Data Quality Issue,2025-02-17,Hong Kong,APAC,Client Onboarding,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0002663,High-Risk Transaction,2025-02-18,Zurich,EMEA,Front Office,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0002664,Data Quality Issue,2025-02-18,Zurich,EMEA,Front Office,Discretionary,CRM,High,Missing Mandatory Fields
+E0002670,Overdue Task,2025-02-18,Zurich,EMEA,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0002698,Processing Error,2025-02-18,New York,Americas,Operations,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0002713,Data Quality Issue,2025-02-18,New York,Americas,Compliance & Controls,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0002735,Reconciliation Break,2025-02-19,Zurich,EMEA,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0002737,Data Quality Issue,2025-02-19,Geneva,EMEA,Front Office,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0002747,Incident,2025-02-19,London,EMEA,Operations,Advisory,CRM,Medium,Missing Mandatory Fields
+E0002753,Overdue Task,2025-02-19,London,EMEA,Front Office,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0002755,Data Quality Issue,2025-02-19,London,EMEA,Operations,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0002779,Processing Error,2025-02-19,Singapore,APAC,Operations,Lombard Lending,CRM,Medium,Missing Mandatory Fields
+E0002782,Processing Error,2025-02-19,Hong Kong,APAC,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0002806,Processing Error,2025-02-20,Geneva,EMEA,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0002845,Processing Error,2025-02-21,Zurich,EMEA,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0002848,Processing Error,2025-02-21,Zurich,EMEA,Operations,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0002852,High-Risk Transaction,2025-02-21,Geneva,EMEA,Front Office,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0002859,Processing Error,2025-02-21,London,EMEA,Operations,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0002897,Processing Error,2025-02-21,Singapore,APAC,Operations,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0002909,Data Quality Issue,2025-02-21,Hong Kong,APAC,Client Onboarding,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0002929,Processing Error,2025-02-22,Geneva,EMEA,Operations,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0002931,Data Quality Issue,2025-02-22,London,EMEA,Client Onboarding,Advisory,CRM,Low,Missing Mandatory Fields
+E0002937,Data Quality Issue,2025-02-22,London,EMEA,Client Onboarding,Lombard Lending,Monitoring Tool,Medium,Missing Mandatory Fields
+E0002939,Data Quality Issue,2025-02-22,New York,Americas,Front Office,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0002946,Data Quality Issue,2025-02-22,Singapore,APAC,Client Onboarding,Discretionary,CRM,Low,Missing Mandatory Fields
+E0002955,Data Quality Issue,2025-02-22,Hong Kong,APAC,Client Onboarding,Advisory,Email Intake,Critical,Missing Mandatory Fields
+E0003023,Incident,2025-02-24,Geneva,EMEA,Front Office,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0003037,Incident,2025-02-24,Geneva,EMEA,Compliance & Controls,Structured Products,Monitoring Tool,Low,Missing Mandatory Fields
+E0003053,Data Quality Issue,2025-02-24,,,Front Office,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0003058,Processing Error,2025-02-24,New York,Americas,Front Office,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0003074,High-Risk Transaction,2025-02-24,Singapore,APAC,Front Office,Discretionary,Email Intake,High,Missing Mandatory Fields
+E0003082,Incident,2025-02-24,Hong Kong,APAC,Client Onboarding,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0003108,Data Quality Issue,2025-02-25,London,EMEA,Front Office,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0003126,High-Risk Transaction,2025-02-25,New York,Americas,Front Office,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0003135,Reconciliation Break,2025-02-25,Singapore,APAC,Operations,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0003170,Limit Breach,2025-02-26,Geneva,EMEA,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0003196,Reconciliation Break,2025-02-26,New York,Americas,Operations,Structured Products,Workflow,Medium,Missing Mandatory Fields
+E0003198,Incident,2025-02-26,Singapore,APAC,Operations,Discretionary,Workflow,High,Missing Mandatory Fields
+E0003229,High-Risk Transaction,2025-02-27,London,EMEA,Front Office,Discretionary,CRM,Low,Missing Mandatory Fields
+E0003230,Processing Error,2025-02-27,London,EMEA,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0003232,Processing Error,2025-02-27,London,EMEA,Operations,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0003235,Reconciliation Break,2025-02-27,London,EMEA,Operations,Structured Products,Monitoring Tool,High,Missing Mandatory Fields
+E0003265,High-Risk Transaction,2025-02-28,Zurich,EMEA,Front Office,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0003270,Processing Error,2025-02-28,Zurich,EMEA,Operations,Structured Products,Workflow,Low,Missing Mandatory Fields
+E0003271,Data Quality Issue,2025-02-28,Geneva,EMEA,Front Office,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0003282,Reconciliation Break,2025-02-28,Geneva,EMEA,Operations,Execution-only,CRM,High,Missing Mandatory Fields
+E0003288,Processing Error,2025-02-28,London,EMEA,Operations,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0003290,Processing Error,2025-02-28,London,EMEA,Front Office,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0003307,Data Quality Issue,2025-02-28,New York,Americas,Operations,Lombard Lending,Core Banking,Low,Missing Mandatory Fields
+E0003308,Processing Error,2025-02-28,New York,Americas,Operations,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0003310,Data Quality Issue,2025-02-28,New York,Americas,Operations,Structured Products,Monitoring Tool,Medium,Missing Mandatory Fields
+E0003333,Processing Error,2025-03-01,Zurich,EMEA,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0003365,Reconciliation Break,2025-03-01,Singapore,APAC,Operations,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0003379,Incident,2025-03-01,Hong Kong,APAC,Operations,Structured Products,Workflow,Medium,Missing Mandatory Fields
+E0003386,Data Quality Issue,2025-03-02,Zurich,EMEA,Client Onboarding,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0003397,Limit Breach,2025-03-02,London,EMEA,Front Office,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0003419,KYC Review Overdue,2025-03-03,Zurich,EMEA,Client Onboarding,Advisory,Workflow,Low,Missing Mandatory Fields
+E0003432,Processing Error,2025-03-03,Zurich,EMEA,Operations,Structured Products,Monitoring Tool,High,Missing Mandatory Fields
+E0003434,Data Quality Issue,2025-03-03,Geneva,EMEA,Client Onboarding,Advisory,CRM,Medium,Missing Mandatory Fields
+E0003465,Data Quality Issue,2025-03-03,New York,Americas,Front Office,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0003478,High-Risk Transaction,2025-03-03,Hong Kong,APAC,Front Office,Advisory,Workflow,High,Missing Mandatory Fields
+E0003483,Data Quality Issue,2025-03-03,Hong Kong,APAC,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0003511,Data Quality Issue,2025-03-04,London,EMEA,Front Office,Discretionary,CRM,Low,Missing Mandatory Fields
+E0003515,Data Quality Issue,2025-03-04,London,EMEA,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0003534,Reconciliation Break,2025-03-04,Hong Kong,APAC,Operations,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0003564,Processing Error,2025-03-05,London,EMEA,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0003619,Processing Error,2025-03-06,Zurich,EMEA,Operations,Structured Products,CRM,Medium,Missing Mandatory Fields
+E0003620,Processing Error,2025-03-06,Zurich,EMEA,Operations,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0003630,High-Risk Transaction,2025-03-06,Geneva,EMEA,Front Office,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0003633,Processing Error,2025-03-06,London,EMEA,Operations,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0003642,Reconciliation Break,2025-03-06,New York,Americas,Operations,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0003643,Processing Error,2025-03-06,New York,Americas,Operations,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0003658,Limit Breach,2025-03-06,Singapore,APAC,Front Office,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0003674,Processing Error,2025-03-07,Zurich,EMEA,Operations,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0003676,Data Quality Issue,2025-03-07,Zurich,EMEA,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0003697,High-Risk Transaction,2025-03-07,London,EMEA,Front Office,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0003705,Processing Error,2025-03-07,New York,Americas,Operations,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0003717,Processing Error,2025-03-07,Hong Kong,APAC,Operations,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0003740,Reconciliation Break,2025-03-08,Geneva,EMEA,Client Onboarding,Lombard Lending,Workflow,Critical,Missing Mandatory Fields
+E0003742,Complaint,2025-03-08,London,EMEA,Front Office,Advisory,CRM,Low,Missing Mandatory Fields
+E0003743,Processing Error,2025-03-08,London,EMEA,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0003750,Reconciliation Break,2025-03-08,New York,Americas,Front Office,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0003751,Overdue Task,2025-03-08,New York,Americas,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0003760,High-Risk Transaction,2025-03-08,Hong Kong,APAC,Front Office,Structured Products,Email Intake,Medium,Missing Mandatory Fields
+E0003762,Data Quality Issue,2025-03-09,Zurich,EMEA,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0003768,Limit Breach,2025-03-09,Zurich,EMEA,Front Office,Lombard Lending,Monitoring Tool,High,Missing Mandatory Fields
+E0003789,Processing Error,2025-03-09,New York,Americas,Operations,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0003794,Data Quality Issue,2025-03-09,New York,Americas,Client Onboarding,Lombard Lending,CRM,Medium,Missing Mandatory Fields
+E0003822,KYC Review Overdue,2025-03-10,Zurich,EMEA,Operations,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0003880,Incident,2025-03-10,Hong Kong,APAC,Client Onboarding,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0003899,Reconciliation Break,2025-03-11,Zurich,EMEA,Client Onboarding,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0003907,Overdue Task,2025-03-11,Geneva,EMEA,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0003953,Limit Breach,2025-03-11,Singapore,APAC,Front Office,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0003962,Data Quality Issue,2025-03-11,Hong Kong,APAC,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0003970,Processing Error,2025-03-12,Zurich,EMEA,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0003972,Processing Error,2025-03-12,Zurich,EMEA,Operations,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0003988,Data Quality Issue,2025-03-12,Geneva,EMEA,Client Onboarding,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0004010,High-Risk Transaction,2025-03-12,London,EMEA,Front Office,Lombard Lending,Workflow,Medium,Missing Mandatory Fields
+E0004024,Processing Error,2025-03-12,Singapore,APAC,Front Office,Advisory,CRM,High,Missing Mandatory Fields
+E0004027,Data Quality Issue,2025-03-12,Singapore,APAC,Front Office,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0004063,Data Quality Issue,2025-03-13,Geneva,EMEA,Client Onboarding,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0004077,Data Quality Issue,2025-03-13,London,EMEA,Operations,Execution-only,CRM,Critical,Missing Mandatory Fields
+E0004086,Incident,2025-03-13,New York,Americas,Operations,Lombard Lending,Email Intake,Medium,Missing Mandatory Fields
+E0004091,Data Quality Issue,2025-03-13,Singapore,APAC,Front Office,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0004097,Reconciliation Break,2025-03-13,Singapore,APAC,Operations,Lombard Lending,Core Banking,Low,Missing Mandatory Fields
+E0004113,Data Quality Issue,2025-03-14,Zurich,EMEA,Client Onboarding,Discretionary,Email Intake,Critical,Missing Mandatory Fields
+E0004114,Incident,2025-03-14,Zurich,EMEA,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0004120,Data Quality Issue,2025-03-14,Zurich,EMEA,Operations,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0004138,Data Quality Issue,2025-03-14,London,EMEA,Client Onboarding,Discretionary,CRM,Low,Missing Mandatory Fields
+E0004143,Data Quality Issue,2025-03-14,London,EMEA,Client Onboarding,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0004157,Processing Error,2025-03-14,New York,Americas,Operations,Execution-only,Workflow,High,Missing Mandatory Fields
+E0004161,Incident,2025-03-14,New York,Americas,Operations,Structured Products,Monitoring Tool,Critical,Missing Mandatory Fields
+E0004164,Limit Breach,2025-03-14,Singapore,APAC,Front Office,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0004179,Data Quality Issue,2025-03-14,Hong Kong,APAC,Client Onboarding,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0004182,High-Risk Transaction,2025-03-15,Zurich,EMEA,Front Office,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0004184,Reconciliation Break,2025-03-15,Zurich,EMEA,Operations,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0004199,Processing Error,2025-03-15,New York,Americas,Front Office,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0004200,Processing Error,2025-03-15,New York,Americas,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0004208,Data Quality Issue,2025-03-15,Singapore,APAC,Front Office,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0004214,Reconciliation Break,2025-03-15,Singapore,APAC,Operations,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0004229,Complaint,2025-03-16,London,EMEA,Front Office,Advisory,CRM,Medium,Missing Mandatory Fields
+E0004234,Data Quality Issue,2025-03-16,London,EMEA,Operations,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0004274,Data Quality Issue,2025-03-17,Geneva,EMEA,Client Onboarding,Advisory,Email Intake,High,Missing Mandatory Fields
+E0004285,Incident,2025-03-17,London,EMEA,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0004314,Overdue Task,2025-03-17,Singapore,APAC,Client Onboarding,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0004355,Data Quality Issue,2025-03-18,New York,Americas,Operations,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0004357,High-Risk Transaction,2025-03-18,New York,Americas,Front Office,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0004362,Processing Error,2025-03-18,New York,Americas,Operations,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0004367,Reconciliation Break,2025-03-18,Singapore,APAC,Front Office,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0004373,Incident,2025-03-18,Hong Kong,APAC,Operations,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0004391,Processing Error,2025-03-19,Geneva,EMEA,Operations,Lombard Lending,Core Banking,Low,Missing Mandatory Fields
+E0004424,Processing Error,2025-03-19,Hong Kong,APAC,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0004478,KYC Review Overdue,2025-03-20,London,EMEA,Operations,Structured Products,Workflow,Low,Missing Mandatory Fields
+E0004483,Incident,2025-03-20,New York,Americas,Compliance & Controls,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0004491,Processing Error,2025-03-20,New York,Americas,Operations,Structured Products,CRM,Medium,Missing Mandatory Fields
+E0004506,Processing Error,2025-03-20,Hong Kong,APAC,Client Onboarding,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0004508,Data Quality Issue,2025-03-20,Hong Kong,APAC,Front Office,,Workflow,Low,Missing Mandatory Fields
+E0004515,Data Quality Issue,2025-03-21,Zurich,EMEA,Operations,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0004524,Processing Error,2025-03-21,Geneva,EMEA,Operations,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0004564,Data Quality Issue,2025-03-21,Singapore,APAC,Operations,Advisory,Email Intake,High,Missing Mandatory Fields
+E0004565,High-Risk Transaction,2025-03-21,Singapore,APAC,Front Office,Discretionary,Core Banking,High,Missing Mandatory Fields
+E0004577,Data Quality Issue,2025-03-21,,,Client Onboarding,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0004629,Processing Error,2025-03-22,Singapore,APAC,Client Onboarding,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0004635,Incident,2025-03-22,Hong Kong,APAC,Operations,Advisory,CRM,Low,Missing Mandatory Fields
+E0004653,Processing Error,2025-03-23,Geneva,EMEA,Operations,Execution-only,Monitoring Tool,High,Missing Mandatory Fields
+E0004659,Processing Error,2025-03-23,London,EMEA,Operations,Execution-only,CRM,High,Missing Mandatory Fields
+E0004662,Processing Error,2025-03-23,New York,Americas,Operations,Advisory,Workflow,Low,Missing Mandatory Fields
+E0004667,Reconciliation Break,2025-03-23,New York,Americas,Front Office,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0004744,Incident,2025-03-25,Geneva,EMEA,Front Office,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0004774,Incident,2025-03-25,New York,Americas,Operations,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0004817,Data Quality Issue,2025-03-26,Geneva,EMEA,Operations,Structured Products,CRM,Medium,Missing Mandatory Fields
+E0004836,High-Risk Transaction,2025-03-26,New York,Americas,Front Office,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0004865,High-Risk Transaction,2025-03-27,Zurich,EMEA,Client Onboarding,Lombard Lending,Workflow,High,Missing Mandatory Fields
+E0004885,Data Quality Issue,2025-03-27,London,EMEA,Operations,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0004900,Data Quality Issue,2025-03-27,New York,Americas,Operations,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0004908,Reconciliation Break,2025-03-27,Hong Kong,APAC,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0004932,Reconciliation Break,2025-03-28,Zurich,EMEA,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0004939,High-Risk Transaction,2025-03-28,Geneva,EMEA,Front Office,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0004978,Data Quality Issue,2025-03-28,Singapore,APAC,Operations,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0004989,Processing Error,2025-03-28,Hong Kong,APAC,Client Onboarding,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0005017,Data Quality Issue,2025-03-29,Geneva,EMEA,Client Onboarding,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0005019,Processing Error,2025-03-29,Geneva,EMEA,Operations,Lombard Lending,Core Banking,Low,Missing Mandatory Fields
+E0005027,Processing Error,2025-03-29,New York,Americas,Operations,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0005059,Data Quality Issue,2025-03-30,Geneva,EMEA,Operations,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0005075,Processing Error,2025-03-30,Singapore,APAC,Operations,Discretionary,Core Banking,High,Missing Mandatory Fields
+E0005084,Processing Error,2025-03-30,Hong Kong,APAC,Operations,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0005085,Processing Error,2025-03-30,Hong Kong,APAC,Operations,Advisory,Workflow,Low,Missing Mandatory Fields
+E0005179,Processing Error,2025-04-01,Geneva,EMEA,Operations,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0005209,Data Quality Issue,2025-04-01,Singapore,APAC,Front Office,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0005223,Reconciliation Break,2025-04-01,Hong Kong,APAC,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0005241,Incident,2025-04-02,Geneva,EMEA,Front Office,Structured Products,Monitoring Tool,Medium,Missing Mandatory Fields
+E0005259,Processing Error,2025-04-02,Singapore,APAC,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0005294,High-Risk Transaction,2025-04-03,London,EMEA,Front Office,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0005321,Data Quality Issue,2025-04-03,Singapore,APAC,Client Onboarding,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0005352,Processing Error,2025-04-04,Geneva,EMEA,Operations,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0005359,Reconciliation Break,2025-04-04,London,EMEA,Client Onboarding,Advisory,CRM,High,Missing Mandatory Fields
+E0005360,Data Quality Issue,2025-04-04,London,EMEA,Client Onboarding,Advisory,Workflow,Low,Missing Mandatory Fields
+E0005374,Incident,2025-04-04,New York,Americas,Compliance & Controls,Discretionary,CRM,High,Missing Mandatory Fields
+E0005381,Processing Error,2025-04-04,New York,Americas,Operations,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0005388,KYC Review Overdue,2025-04-04,Singapore,APAC,Compliance & Controls,Advisory,CRM,Medium,Missing Mandatory Fields
+E0005410,Processing Error,2025-04-05,Zurich,EMEA,Operations,Execution-only,Monitoring Tool,High,Missing Mandatory Fields
+E0005426,Data Quality Issue,2025-04-05,London,EMEA,Operations,Structured Products,CRM,High,Missing Mandatory Fields
+E0005443,Complaint,2025-04-06,Zurich,EMEA,Front Office,Discretionary,Workflow,High,Missing Mandatory Fields
+E0005449,Processing Error,2025-04-06,Geneva,EMEA,Operations,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0005456,High-Risk Transaction,2025-04-06,London,EMEA,Front Office,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0005484,Processing Error,2025-04-07,Zurich,EMEA,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0005492,High-Risk Transaction,2025-04-07,Geneva,EMEA,Front Office,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0005502,Data Quality Issue,2025-04-07,London,EMEA,Client Onboarding,Discretionary,Core Banking,High,Missing Mandatory Fields
+E0005509,Processing Error,2025-04-07,New York,Americas,Operations,Advisory,Workflow,High,Missing Mandatory Fields
+E0005513,Data Quality Issue,2025-04-07,New York,Americas,Operations,Discretionary,Workflow,High,Missing Mandatory Fields
+E0005544,Data Quality Issue,2025-04-08,Zurich,EMEA,Operations,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0005548,Data Quality Issue,2025-04-08,Zurich,EMEA,Front Office,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0005551,Overdue Task,2025-04-08,Zurich,EMEA,Client Onboarding,Structured Products,Workflow,Medium,Missing Mandatory Fields
+E0005558,Reconciliation Break,2025-04-08,Geneva,EMEA,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0005584,Processing Error,2025-04-08,New York,Americas,Front Office,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0005596,Data Quality Issue,2025-04-08,Hong Kong,APAC,Operations,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0005614,Processing Error,2025-04-09,Zurich,EMEA,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0005622,High-Risk Transaction,2025-04-09,Zurich,EMEA,Front Office,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0005633,High-Risk Transaction,2025-04-09,Geneva,EMEA,Front Office,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0005660,Data Quality Issue,2025-04-09,Singapore,APAC,Client Onboarding,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0005691,Data Quality Issue,2025-04-10,Geneva,EMEA,Client Onboarding,Execution-only,CRM,High,Missing Mandatory Fields
+E0005695,Processing Error,2025-04-10,London,EMEA,Operations,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0005697,Processing Error,2025-04-10,London,EMEA,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0005702,Data Quality Issue,2025-04-10,London,EMEA,Front Office,Execution-only,Workflow,High,Missing Mandatory Fields
+E0005705,Processing Error,2025-04-10,London,EMEA,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0005718,Processing Error,2025-04-10,Singapore,APAC,Operations,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0005723,Data Quality Issue,2025-04-10,Singapore,APAC,Operations,Execution-only,Email Intake,Critical,Missing Mandatory Fields
+E0005765,Data Quality Issue,2025-04-11,London,EMEA,Client Onboarding,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0005768,High-Risk Transaction,2025-04-11,London,EMEA,Front Office,Lombard Lending,Monitoring Tool,Medium,Missing Mandatory Fields
+E0005777,High-Risk Transaction,2025-04-11,New York,Americas,Front Office,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0005802,Data Quality Issue,2025-04-11,Hong Kong,APAC,Operations,Lombard Lending,Monitoring Tool,Medium,Missing Mandatory Fields
+E0005806,Data Quality Issue,2025-04-12,Zurich,EMEA,Front Office,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0005811,Limit Breach,2025-04-12,Zurich,EMEA,Front Office,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0005845,Data Quality Issue,2025-04-12,Singapore,APAC,Front Office,Structured Products,CRM,Low,Missing Mandatory Fields
+E0005878,High-Risk Transaction,2025-04-13,London,EMEA,Operations,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0005884,Incident,2025-04-13,New York,Americas,Operations,Advisory,Workflow,Critical,Missing Mandatory Fields
+E0005893,Data Quality Issue,2025-04-13,Singapore,APAC,Front Office,Execution-only,CRM,Low,Missing Mandatory Fields
+E0005902,Reconciliation Break,2025-04-13,Hong Kong,APAC,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0005925,High-Risk Transaction,2025-04-14,London,EMEA,Front Office,Advisory,Workflow,High,Missing Mandatory Fields
+E0005941,Incident,2025-04-14,London,EMEA,Front Office,Lombard Lending,CRM,Medium,Missing Mandatory Fields
+E0005944,Processing Error,2025-04-14,London,EMEA,Operations,Lombard Lending,Email Intake,Medium,Missing Mandatory Fields
+E0005972,Data Quality Issue,2025-04-14,Hong Kong,APAC,Client Onboarding,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0005978,High-Risk Transaction,2025-04-15,Zurich,EMEA,Front Office,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0005995,Overdue Task,2025-04-15,Geneva,EMEA,Compliance & Controls,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0006084,Overdue Task,2025-04-16,New York,Americas,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0006092,Processing Error,2025-04-16,Singapore,APAC,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0006095,High-Risk Transaction,2025-04-16,Singapore,APAC,Front Office,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0006121,Data Quality Issue,2025-04-17,Zurich,EMEA,Compliance & Controls,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0006141,High-Risk Transaction,2025-04-17,London,EMEA,Front Office,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0006145,Data Quality Issue,2025-04-17,London,EMEA,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0006151,Reconciliation Break,2025-04-17,New York,Americas,Compliance & Controls,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0006193,Overdue Task,2025-04-18,Zurich,EMEA,Client Onboarding,Discretionary,Workflow,High,Missing Mandatory Fields
+E0006199,Data Quality Issue,2025-04-18,Zurich,EMEA,Operations,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0006202,Data Quality Issue,2025-04-18,Zurich,EMEA,Client Onboarding,Structured Products,Monitoring Tool,Low,Missing Mandatory Fields
+E0006212,Processing Error,2025-04-18,Geneva,EMEA,Operations,Structured Products,Monitoring Tool,Low,Missing Mandatory Fields
+E0006225,Overdue Task,2025-04-18,London,EMEA,Operations,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0006229,Processing Error,2025-04-18,New York,Americas,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0006235,Data Quality Issue,2025-04-18,New York,Americas,Client Onboarding,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0006242,Processing Error,2025-04-18,Singapore,APAC,Operations,Advisory,CRM,Low,Missing Mandatory Fields
+E0006267,Incident,2025-04-19,Zurich,EMEA,Compliance & Controls,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0006272,KYC Review Overdue,2025-04-19,Geneva,EMEA,Front Office,Discretionary,CRM,Low,Missing Mandatory Fields
+E0006304,Data Quality Issue,2025-04-19,Singapore,APAC,Operations,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0006326,Data Quality Issue,2025-04-20,Geneva,EMEA,Client Onboarding,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0006329,Processing Error,2025-04-20,Geneva,EMEA,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0006340,Data Quality Issue,2025-04-20,London,EMEA,Client Onboarding,Execution-only,Workflow,Critical,Missing Mandatory Fields
+E0006353,High-Risk Transaction,2025-04-20,Hong Kong,APAC,Front Office,Lombard Lending,Monitoring Tool,Critical,Missing Mandatory Fields
+E0006356,Data Quality Issue,2025-04-21,Zurich,EMEA,Client Onboarding,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0006359,High-Risk Transaction,2025-04-21,Zurich,EMEA,Front Office,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0006414,Data Quality Issue,2025-04-21,Hong Kong,APAC,Front Office,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0006483,Processing Error,2025-04-22,Singapore,APAC,Operations,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0006499,Incident,2025-04-23,Zurich,EMEA,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0006543,Processing Error,2025-04-23,New York,Americas,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0006608,High-Risk Transaction,2025-04-24,New York,Americas,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0006615,Complaint,2025-04-24,Hong Kong,APAC,Front Office,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0006622,High-Risk Transaction,2025-04-25,Zurich,EMEA,Front Office,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0006624,Processing Error,2025-04-25,Zurich,EMEA,Operations,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0006662,Data Quality Issue,2025-04-25,London,EMEA,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0006668,Overdue Task,2025-04-25,London,EMEA,Operations,Structured Products,CRM,Medium,Missing Mandatory Fields
+E0006669,Overdue Task,2025-04-25,London,EMEA,Operations,Structured Products,Workflow,Low,Missing Mandatory Fields
+E0006716,Data Quality Issue,2025-04-26,Geneva,EMEA,Client Onboarding,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0006736,High-Risk Transaction,2025-04-26,New York,Americas,Front Office,Discretionary,CRM,Low,Missing Mandatory Fields
+E0006742,Processing Error,2025-04-26,New York,Americas,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0006744,Data Quality Issue,2025-04-26,New York,Americas,Front Office,Lombard Lending,Monitoring Tool,High,Missing Mandatory Fields
+E0006781,High-Risk Transaction,2025-04-27,Geneva,EMEA,Front Office,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0006806,Data Quality Issue,2025-04-27,New York,Americas,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0006859,Processing Error,2025-04-28,New York,Americas,Operations,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0006875,Limit Breach,2025-04-28,Hong Kong,APAC,Front Office,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0006877,Incident,2025-04-29,Zurich,EMEA,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0006879,Processing Error,2025-04-29,Zurich,EMEA,Operations,Discretionary,Core Banking,High,Missing Mandatory Fields
+E0006908,Data Quality Issue,2025-04-29,London,EMEA,Operations,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0006911,Data Quality Issue,2025-04-29,London,EMEA,Client Onboarding,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0006933,Data Quality Issue,2025-04-29,Singapore,APAC,Client Onboarding,Structured Products,Monitoring Tool,Medium,Missing Mandatory Fields
+E0006952,High-Risk Transaction,2025-04-30,Zurich,EMEA,Operations,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0007015,Processing Error,2025-05-01,London,EMEA,Operations,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0007044,Overdue Task,2025-05-01,Singapore,APAC,Front Office,Structured Products,Workflow,Low,Missing Mandatory Fields
+E0007063,High-Risk Transaction,2025-05-02,Zurich,EMEA,Compliance & Controls,Discretionary,CRM,Critical,Missing Mandatory Fields
+E0007064,Data Quality Issue,2025-05-02,Zurich,EMEA,Front Office,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0007068,Data Quality Issue,2025-05-02,Zurich,EMEA,Client Onboarding,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0007076,Data Quality Issue,2025-05-02,London,EMEA,Client Onboarding,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0007096,High-Risk Transaction,2025-05-02,Singapore,APAC,Front Office,Lombard Lending,Workflow,Medium,Missing Mandatory Fields
+E0007106,Data Quality Issue,2025-05-03,Zurich,EMEA,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0007107,Data Quality Issue,2025-05-03,Zurich,EMEA,Client Onboarding,Structured Products,CRM,Medium,Missing Mandatory Fields
+E0007111,Processing Error,2025-05-03,Geneva,EMEA,Operations,Discretionary,CRM,High,Missing Mandatory Fields
+E0007140,Overdue Task,2025-05-03,New York,Americas,Client Onboarding,Structured Products,CRM,Medium,Missing Mandatory Fields
+E0007150,Processing Error,2025-05-03,Hong Kong,APAC,Operations,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0007194,High-Risk Transaction,2025-05-04,Hong Kong,APAC,Client Onboarding,Structured Products,CRM,High,Missing Mandatory Fields
+E0007201,Data Quality Issue,2025-05-05,Zurich,EMEA,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0007213,Processing Error,2025-05-05,London,EMEA,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0007218,Reconciliation Break,2025-05-05,New York,Americas,Operations,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0007220,Data Quality Issue,2025-05-05,New York,Americas,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0007226,Data Quality Issue,2025-05-05,New York,Americas,Client Onboarding,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0007229,Data Quality Issue,2025-05-05,New York,Americas,Front Office,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0007251,Processing Error,2025-05-05,Hong Kong,APAC,Operations,Lombard Lending,CRM,Medium,Missing Mandatory Fields
+E0007261,Data Quality Issue,2025-05-06,Zurich,EMEA,Operations,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0007271,Reconciliation Break,2025-05-06,Geneva,EMEA,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0007289,Incident,2025-05-06,New York,Americas,Operations,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0007324,KYC Review Overdue,2025-05-07,Zurich,EMEA,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0007337,Processing Error,2025-05-07,London,EMEA,Operations,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0007346,Data Quality Issue,2025-05-07,New York,Americas,Client Onboarding,Advisory,CRM,Medium,Missing Mandatory Fields
+E0007359,High-Risk Transaction,2025-05-07,Singapore,APAC,Front Office,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0007362,Data Quality Issue,2025-05-07,Singapore,APAC,Client Onboarding,Discretionary,CRM,High,Missing Mandatory Fields
+E0007390,Processing Error,2025-05-08,Zurich,EMEA,Operations,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0007393,Reconciliation Break,2025-05-08,Zurich,EMEA,Operations,Execution-only,Workflow,High,Missing Mandatory Fields
+E0007411,High-Risk Transaction,2025-05-08,London,EMEA,Front Office,Execution-only,CRM,Critical,Missing Mandatory Fields
+E0007416,Processing Error,2025-05-08,London,EMEA,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0007420,Data Quality Issue,2025-05-08,New York,Americas,Operations,Advisory,Core Banking,High,Missing Mandatory Fields
+E0007436,Incident,2025-05-08,Singapore,APAC,Operations,Lombard Lending,Core Banking,High,Missing Mandatory Fields
+E0007442,Incident,2025-05-08,Hong Kong,APAC,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0007446,Data Quality Issue,2025-05-08,Hong Kong,APAC,Operations,Structured Products,Email Intake,High,Missing Mandatory Fields
+E0007493,Processing Error,2025-05-09,Singapore,APAC,Client Onboarding,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0007495,Processing Error,2025-05-09,Singapore,APAC,Operations,Lombard Lending,Workflow,Medium,Missing Mandatory Fields
+E0007514,Processing Error,2025-05-10,London,EMEA,Front Office,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0007515,Data Quality Issue,2025-05-10,London,EMEA,Front Office,Advisory,Workflow,Critical,Missing Mandatory Fields
+E0007516,Data Quality Issue,2025-05-10,London,EMEA,Client Onboarding,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0007520,Incident,2025-05-10,London,EMEA,Front Office,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0007532,Data Quality Issue,2025-05-10,Singapore,APAC,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0007539,Processing Error,2025-05-10,Hong Kong,APAC,Operations,Structured Products,Monitoring Tool,Low,Missing Mandatory Fields
+E0007546,Processing Error,2025-05-11,Zurich,EMEA,Operations,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0007557,Processing Error,2025-05-11,Geneva,EMEA,Operations,Lombard Lending,Core Banking,Low,Missing Mandatory Fields
+E0007559,Data Quality Issue,2025-05-11,London,EMEA,Client Onboarding,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0007560,Processing Error,2025-05-11,London,EMEA,Compliance & Controls,Advisory,CRM,Medium,Missing Mandatory Fields
+E0007576,Reconciliation Break,2025-05-11,Singapore,APAC,Operations,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0007580,Data Quality Issue,2025-05-11,Singapore,APAC,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0007607,High-Risk Transaction,2025-05-12,Geneva,EMEA,Front Office,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0007616,Reconciliation Break,2025-05-12,Geneva,EMEA,Operations,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0007634,High-Risk Transaction,2025-05-12,London,EMEA,Front Office,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0007639,Processing Error,2025-05-12,New York,Americas,Operations,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0007650,Data Quality Issue,2025-05-12,Singapore,APAC,Compliance & Controls,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0007662,Data Quality Issue,2025-05-13,Zurich,EMEA,Front Office,Lombard Lending,Email Intake,Critical,Missing Mandatory Fields
+E0007667,Data Quality Issue,2025-05-13,Geneva,EMEA,Client Onboarding,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0007675,Data Quality Issue,2025-05-13,Geneva,EMEA,Client Onboarding,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0007687,Processing Error,2025-05-13,New York,Americas,Client Onboarding,Discretionary,Email Intake,High,Missing Mandatory Fields
+E0007701,Processing Error,2025-05-13,Hong Kong,APAC,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0007704,High-Risk Transaction,2025-05-13,Hong Kong,APAC,Compliance & Controls,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0007714,Data Quality Issue,2025-05-14,Zurich,EMEA,Client Onboarding,Execution-only,CRM,Critical,Missing Mandatory Fields
+E0007721,Data Quality Issue,2025-05-14,Geneva,EMEA,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0007726,Data Quality Issue,2025-05-14,London,EMEA,Front Office,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0007730,Data Quality Issue,2025-05-14,London,EMEA,Front Office,Execution-only,CRM,High,Missing Mandatory Fields
+E0007734,Data Quality Issue,2025-05-14,London,EMEA,Front Office,Lombard Lending,CRM,Medium,Missing Mandatory Fields
+E0007742,Reconciliation Break,2025-05-14,New York,Americas,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0007749,High-Risk Transaction,2025-05-14,Singapore,APAC,Front Office,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0007758,Data Quality Issue,2025-05-14,Hong Kong,APAC,Front Office,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0007768,Data Quality Issue,2025-05-15,Zurich,EMEA,Front Office,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0007777,Reconciliation Break,2025-05-15,Zurich,EMEA,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0007803,Incident,2025-05-15,London,EMEA,Front Office,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0007847,Processing Error,2025-05-16,Zurich,EMEA,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0007851,Data Quality Issue,2025-05-16,Zurich,EMEA,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0007854,High-Risk Transaction,2025-05-16,Zurich,EMEA,Compliance & Controls,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0007859,Processing Error,2025-05-16,Geneva,EMEA,Operations,Discretionary,Workflow,High,Missing Mandatory Fields
+E0007916,Data Quality Issue,2025-05-17,Zurich,EMEA,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0007918,High-Risk Transaction,2025-05-17,Zurich,EMEA,Front Office,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0007925,Processing Error,2025-05-17,Geneva,EMEA,Operations,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0007932,Incident,2025-05-17,London,EMEA,Operations,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0007965,KYC Review Overdue,2025-05-18,Geneva,EMEA,Operations,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0007999,Limit Breach,2025-05-19,Zurich,EMEA,Front Office,Execution-only,Workflow,High,Missing Mandatory Fields
+E0008040,Processing Error,2025-05-19,London,EMEA,Operations,Structured Products,Email Intake,Medium,Missing Mandatory Fields
+E0008057,High-Risk Transaction,2025-05-19,Singapore,APAC,Front Office,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0008062,High-Risk Transaction,2025-05-19,Singapore,APAC,Front Office,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0008063,Processing Error,2025-05-19,Singapore,APAC,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0008074,Data Quality Issue,2025-05-20,Zurich,EMEA,Operations,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0008083,Processing Error,2025-05-20,Geneva,EMEA,Operations,Advisory,CRM,Medium,Missing Mandatory Fields
+E0008098,Data Quality Issue,2025-05-20,London,EMEA,Client Onboarding,Advisory,Workflow,High,Missing Mandatory Fields
+E0008100,Processing Error,2025-05-20,London,EMEA,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0008120,Limit Breach,2025-05-20,New York,Americas,Front Office,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0008126,Complaint,2025-05-20,New York,Americas,Front Office,Lombard Lending,Monitoring Tool,Medium,Missing Mandatory Fields
+E0008132,Processing Error,2025-05-20,Singapore,APAC,Front Office,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0008133,Complaint,2025-05-20,Singapore,APAC,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0008146,Processing Error,2025-05-21,Zurich,EMEA,Front Office,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0008148,Data Quality Issue,2025-05-21,Zurich,EMEA,Front Office,Discretionary,CRM,Low,Missing Mandatory Fields
+E0008176,Data Quality Issue,2025-05-21,New York,Americas,Operations,Advisory,Core Banking,Critical,Missing Mandatory Fields
+E0008188,Data Quality Issue,2025-05-21,New York,Americas,Operations,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0008202,Data Quality Issue,2025-05-21,Singapore,APAC,Client Onboarding,Lombard Lending,Email Intake,Medium,Missing Mandatory Fields
+E0008205,Overdue Task,2025-05-21,Hong Kong,APAC,Compliance & Controls,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0008211,High-Risk Transaction,2025-05-21,Hong Kong,APAC,Front Office,Structured Products,Workflow,Medium,Missing Mandatory Fields
+E0008257,Data Quality Issue,2025-05-22,New York,Americas,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0008270,Data Quality Issue,2025-05-22,Singapore,APAC,Operations,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0008281,Data Quality Issue,2025-05-22,Hong Kong,APAC,Front Office,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0008336,High-Risk Transaction,2025-05-23,New York,Americas,Operations,Lombard Lending,Monitoring Tool,Medium,Missing Mandatory Fields
+E0008338,Data Quality Issue,2025-05-23,New York,Americas,Client Onboarding,Structured Products,Email Intake,Medium,Missing Mandatory Fields
+E0008346,Data Quality Issue,2025-05-23,Singapore,APAC,Client Onboarding,Execution-only,CRM,Low,Missing Mandatory Fields
+E0008347,Processing Error,2025-05-23,Singapore,APAC,Operations,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0008365,Processing Error,2025-05-24,Zurich,EMEA,Compliance & Controls,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0008384,Data Quality Issue,2025-05-24,New York,Americas,Compliance & Controls,Advisory,Workflow,Low,Missing Mandatory Fields
+E0008392,Data Quality Issue,2025-05-24,New York,Americas,Client Onboarding,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0008403,Limit Breach,2025-05-25,Zurich,EMEA,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0008417,Processing Error,2025-05-25,London,EMEA,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0008448,KYC Review Overdue,2025-05-25,Hong Kong,APAC,Client Onboarding,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0008460,Processing Error,2025-05-26,Zurich,EMEA,Operations,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0008507,Data Quality Issue,2025-05-26,Singapore,APAC,Client Onboarding,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0008513,Data Quality Issue,2025-05-26,Hong Kong,APAC,Client Onboarding,Execution-only,Monitoring Tool,High,Missing Mandatory Fields
+E0008517,Processing Error,2025-05-27,Zurich,EMEA,Operations,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0008518,Reconciliation Break,2025-05-27,Zurich,EMEA,Operations,Advisory,CRM,Critical,Missing Mandatory Fields
+E0008545,Processing Error,2025-05-27,London,EMEA,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0008546,Data Quality Issue,2025-05-27,London,EMEA,Client Onboarding,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0008552,Incident,2025-05-27,New York,Americas,Client Onboarding,Discretionary,CRM,Critical,Missing Mandatory Fields
+E0008562,Processing Error,2025-05-27,Singapore,APAC,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0008574,Overdue Task,2025-05-27,Hong Kong,APAC,Client Onboarding,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0008590,Processing Error,2025-05-28,Geneva,EMEA,Operations,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0008600,Data Quality Issue,2025-05-28,London,EMEA,Front Office,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0008606,Processing Error,2025-05-28,New York,Americas,Front Office,Advisory,CRM,Medium,Missing Mandatory Fields
+E0008616,Data Quality Issue,2025-05-28,Singapore,APAC,Client Onboarding,Advisory,CRM,High,Missing Mandatory Fields
+E0008625,Reconciliation Break,2025-05-28,Hong Kong,APAC,Operations,Discretionary,CRM,High,Missing Mandatory Fields
+E0008630,Processing Error,2025-05-28,Hong Kong,APAC,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0008654,Data Quality Issue,2025-05-29,London,EMEA,Client Onboarding,Advisory,CRM,Low,Missing Mandatory Fields
+E0008661,Incident,2025-05-29,London,EMEA,Front Office,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0008665,High-Risk Transaction,2025-05-29,London,EMEA,Front Office,Lombard Lending,Core Banking,High,Missing Mandatory Fields
+E0008666,KYC Review Overdue,2025-05-29,London,EMEA,Client Onboarding,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0008724,Reconciliation Break,2025-05-30,Geneva,EMEA,Operations,Execution-only,Monitoring Tool,High,Missing Mandatory Fields
+E0008725,Reconciliation Break,2025-05-30,Geneva,EMEA,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0008736,KYC Review Overdue,2025-05-30,London,EMEA,Client Onboarding,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0008762,Data Quality Issue,2025-05-30,Singapore,APAC,Compliance & Controls,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0008769,Processing Error,2025-05-30,Hong Kong,APAC,Front Office,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0008788,Data Quality Issue,2025-05-31,Zurich,EMEA,Operations,Advisory,Email Intake,Critical,Missing Mandatory Fields
+E0008798,Data Quality Issue,2025-05-31,Geneva,EMEA,Front Office,Discretionary,CRM,High,Missing Mandatory Fields
+E0008800,Data Quality Issue,2025-05-31,Geneva,EMEA,Client Onboarding,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0008802,High-Risk Transaction,2025-05-31,London,EMEA,Front Office,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0008835,High-Risk Transaction,2025-06-01,Zurich,EMEA,Front Office,Lombard Lending,Monitoring Tool,Medium,Missing Mandatory Fields
+E0008839,Overdue Task,2025-06-01,Zurich,EMEA,Front Office,Structured Products,CRM,Low,Missing Mandatory Fields
+E0008862,Data Quality Issue,2025-06-01,New York,Americas,Client Onboarding,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0008894,Reconciliation Break,2025-06-02,Geneva,EMEA,Operations,Advisory,CRM,Medium,Missing Mandatory Fields
+E0008911,Data Quality Issue,2025-06-02,London,EMEA,Client Onboarding,Structured Products,Core Banking,Medium,Missing Mandatory Fields
+E0008916,KYC Review Overdue,2025-06-02,New York,Americas,Client Onboarding,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0008963,Data Quality Issue,2025-06-03,London,EMEA,Operations,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0008964,Processing Error,2025-06-03,London,EMEA,Client Onboarding,Discretionary,Workflow,High,Missing Mandatory Fields
+E0008984,High-Risk Transaction,2025-06-03,Singapore,APAC,Front Office,Execution-only,CRM,High,Missing Mandatory Fields
+E0008993,Reconciliation Break,2025-06-03,Singapore,APAC,Operations,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0008998,High-Risk Transaction,2025-06-03,Hong Kong,APAC,Front Office,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0009016,Data Quality Issue,2025-06-04,Zurich,EMEA,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0009020,High-Risk Transaction,2025-06-04,Geneva,EMEA,Front Office,Advisory,Workflow,High,Missing Mandatory Fields
+E0009024,Overdue Task,2025-06-04,Geneva,EMEA,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0009035,Processing Error,2025-06-04,London,EMEA,Operations,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0009042,Reconciliation Break,2025-06-04,London,EMEA,Operations,Lombard Lending,Monitoring Tool,Low,Missing Mandatory Fields
+E0009055,Limit Breach,2025-06-04,New York,Americas,Compliance & Controls,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0009058,Data Quality Issue,2025-06-04,Singapore,APAC,Front Office,Execution-only,Monitoring Tool,Critical,Missing Mandatory Fields
+E0009081,High-Risk Transaction,2025-06-05,Geneva,EMEA,Front Office,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0009084,Processing Error,2025-06-05,Geneva,EMEA,Operations,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0009121,High-Risk Transaction,2025-06-05,Hong Kong,APAC,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0009132,Reconciliation Break,2025-06-06,Zurich,EMEA,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0009136,High-Risk Transaction,2025-06-06,Zurich,EMEA,Front Office,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0009141,Reconciliation Break,2025-06-06,Geneva,EMEA,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0009177,Processing Error,2025-06-06,Hong Kong,APAC,Operations,Execution-only,CRM,High,Missing Mandatory Fields
+E0009193,Processing Error,2025-06-07,London,EMEA,Operations,Advisory,CRM,Low,Missing Mandatory Fields
+E0009203,Processing Error,2025-06-07,New York,Americas,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0009208,Data Quality Issue,2025-06-07,Singapore,APAC,Operations,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0009211,Data Quality Issue,2025-06-07,Hong Kong,APAC,Operations,Discretionary,Email Intake,High,Missing Mandatory Fields
+E0009219,Complaint,2025-06-08,Zurich,EMEA,Front Office,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0009225,High-Risk Transaction,2025-06-08,Geneva,EMEA,Operations,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0009228,Processing Error,2025-06-08,London,EMEA,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0009234,Overdue Task,2025-06-08,London,EMEA,Operations,Structured Products,CRM,High,Missing Mandatory Fields
+E0009237,High-Risk Transaction,2025-06-08,New York,Americas,Front Office,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0009238,Reconciliation Break,2025-06-08,New York,Americas,Operations,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0009253,Reconciliation Break,2025-06-09,Zurich,EMEA,Operations,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0009267,High-Risk Transaction,2025-06-09,Geneva,EMEA,Front Office,Lombard Lending,Monitoring Tool,Low,Missing Mandatory Fields
+E0009278,Complaint,2025-06-09,London,EMEA,Front Office,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0009282,Data Quality Issue,2025-06-09,London,EMEA,Compliance & Controls,Lombard Lending,Monitoring Tool,Medium,Missing Mandatory Fields
+E0009291,High-Risk Transaction,2025-06-09,New York,Americas,Front Office,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0009340,Data Quality Issue,2025-06-10,London,EMEA,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0009347,Processing Error,2025-06-10,London,EMEA,Client Onboarding,Lombard Lending,Core Banking,High,Missing Mandatory Fields
+E0009354,Processing Error,2025-06-10,New York,Americas,Client Onboarding,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0009388,Processing Error,2025-06-11,Geneva,EMEA,Operations,Lombard Lending,Workflow,Medium,Missing Mandatory Fields
+E0009398,Data Quality Issue,2025-06-11,London,EMEA,Client Onboarding,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0009403,Data Quality Issue,2025-06-11,New York,Americas,Front Office,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0009404,Data Quality Issue,2025-06-11,New York,Americas,Client Onboarding,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0009415,Data Quality Issue,2025-06-11,Singapore,APAC,Client Onboarding,Discretionary,CRM,Low,Missing Mandatory Fields
+E0009426,Data Quality Issue,2025-06-12,Zurich,EMEA,Front Office,Advisory,Core Banking,High,Missing Mandatory Fields
+E0009439,Limit Breach,2025-06-12,Geneva,EMEA,Front Office,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0009462,Data Quality Issue,2025-06-12,London,EMEA,Client Onboarding,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0009512,Processing Error,2025-06-13,Geneva,EMEA,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0009514,Data Quality Issue,2025-06-13,Geneva,EMEA,Client Onboarding,Discretionary,Core Banking,High,Missing Mandatory Fields
+E0009526,Reconciliation Break,2025-06-13,London,EMEA,Operations,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0009528,Data Quality Issue,2025-06-13,London,EMEA,Operations,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0009529,Data Quality Issue,2025-06-13,London,EMEA,Client Onboarding,Discretionary,CRM,Low,Missing Mandatory Fields
+E0009556,Limit Breach,2025-06-14,Zurich,EMEA,Front Office,Advisory,Workflow,Critical,Missing Mandatory Fields
+E0009559,KYC Review Overdue,2025-06-14,Zurich,EMEA,Client Onboarding,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0009563,Processing Error,2025-06-14,Zurich,EMEA,Operations,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0009595,Processing Error,2025-06-14,Hong Kong,APAC,Operations,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0009610,Processing Error,2025-06-15,Geneva,EMEA,Operations,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0009613,Processing Error,2025-06-15,London,EMEA,Operations,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0009614,High-Risk Transaction,2025-06-15,London,EMEA,Front Office,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0009615,Processing Error,2025-06-15,London,EMEA,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0009617,Processing Error,2025-06-15,London,EMEA,Operations,Lombard Lending,CRM,Medium,Missing Mandatory Fields
+E0009635,Processing Error,2025-06-16,Zurich,EMEA,Front Office,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0009682,Processing Error,2025-06-16,New York,Americas,Operations,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0009684,Reconciliation Break,2025-06-16,New York,Americas,Operations,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0009688,Data Quality Issue,2025-06-16,New York,Americas,Client Onboarding,Structured Products,Workflow,High,Missing Mandatory Fields
+E0009689,Processing Error,2025-06-16,Singapore,APAC,Front Office,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0009693,Processing Error,2025-06-16,Hong Kong,APAC,Operations,Advisory,CRM,Low,Missing Mandatory Fields
+E0009708,Incident,2025-06-17,Zurich,EMEA,Operations,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0009736,Limit Breach,2025-06-17,London,EMEA,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0009776,Reconciliation Break,2025-06-18,Geneva,EMEA,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0009788,Reconciliation Break,2025-06-18,London,EMEA,Client Onboarding,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0009825,Data Quality Issue,2025-06-19,Zurich,EMEA,Front Office,Discretionary,Core Banking,Critical,Missing Mandatory Fields
+E0009833,Data Quality Issue,2025-06-19,Geneva,EMEA,Client Onboarding,Advisory,CRM,Medium,Missing Mandatory Fields
+E0009847,Processing Error,2025-06-19,London,EMEA,Operations,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0009872,Data Quality Issue,2025-06-19,Singapore,APAC,Front Office,Lombard Lending,Workflow,Medium,Missing Mandatory Fields
+E0009886,Overdue Task,2025-06-20,Zurich,EMEA,Front Office,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0009924,Data Quality Issue,2025-06-20,New York,Americas,Client Onboarding,Advisory,CRM,Low,Missing Mandatory Fields
+E0009929,Processing Error,2025-06-20,New York,Americas,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0009930,Incident,2025-06-20,New York,Americas,Client Onboarding,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0009933,High-Risk Transaction,2025-06-20,Singapore,APAC,Front Office,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0009937,Incident,2025-06-20,Singapore,APAC,Operations,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0009969,Processing Error,2025-06-21,London,EMEA,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0009999,Processing Error,2025-06-22,Geneva,EMEA,Compliance & Controls,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0010022,Data Quality Issue,2025-06-22,Singapore,APAC,Client Onboarding,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0010027,High-Risk Transaction,2025-06-22,Hong Kong,APAC,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0010045,Processing Error,2025-06-23,Zurich,EMEA,Front Office,Structured Products,CRM,Medium,Missing Mandatory Fields
+E0010061,Processing Error,2025-06-23,London,EMEA,Operations,Advisory,CRM,Medium,Missing Mandatory Fields
+E0010090,Data Quality Issue,2025-06-23,Singapore,APAC,Compliance & Controls,Advisory,Workflow,Low,Missing Mandatory Fields
+E0010100,Data Quality Issue,2025-06-23,Hong Kong,APAC,Front Office,Lombard Lending,Monitoring Tool,Medium,Missing Mandatory Fields
+E0010104,Data Quality Issue,2025-06-23,Hong Kong,APAC,Operations,Structured Products,Core Banking,Low,Missing Mandatory Fields
+E0010120,Processing Error,2025-06-24,Geneva,EMEA,Operations,Discretionary,CRM,High,Missing Mandatory Fields
+E0010154,High-Risk Transaction,2025-06-24,Singapore,APAC,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0010186,High-Risk Transaction,2025-06-25,London,EMEA,Front Office,Advisory,Monitoring Tool,High,Missing Mandatory Fields
+E0010212,Processing Error,2025-06-25,Singapore,APAC,Operations,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0010226,Data Quality Issue,2025-06-26,Zurich,EMEA,Compliance & Controls,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0010270,Data Quality Issue,2025-06-26,New York,Americas,Front Office,Structured Products,CRM,Low,Missing Mandatory Fields
+E0010287,Processing Error,2025-06-27,Zurich,EMEA,Operations,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0010290,High-Risk Transaction,2025-06-27,Zurich,EMEA,Front Office,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0010295,Complaint,2025-06-27,Geneva,EMEA,Front Office,Advisory,CRM,Medium,Missing Mandatory Fields
+E0010305,Data Quality Issue,2025-06-27,London,EMEA,Front Office,Advisory,Workflow,High,Missing Mandatory Fields
+E0010309,Processing Error,2025-06-27,London,EMEA,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0010333,High-Risk Transaction,2025-06-27,Singapore,APAC,Operations,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0010342,Incident,2025-06-27,Hong Kong,APAC,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0010358,Data Quality Issue,2025-06-28,New York,Americas,Client Onboarding,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0010363,KYC Review Overdue,2025-06-28,New York,Americas,Compliance & Controls,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0010365,Processing Error,2025-06-28,New York,Americas,Operations,Structured Products,Email Intake,High,Missing Mandatory Fields
+E0010411,High-Risk Transaction,2025-06-29,Singapore,APAC,Front Office,Discretionary,Monitoring Tool,High,Missing Mandatory Fields
+E0010430,Processing Error,2025-06-30,Zurich,EMEA,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0010432,Data Quality Issue,2025-06-30,Zurich,EMEA,Compliance & Controls,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0010434,Overdue Task,2025-06-30,Zurich,EMEA,Front Office,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0010474,Processing Error,2025-06-30,Singapore,APAC,Operations,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0010495,Processing Error,2025-07-01,Zurich,EMEA,Operations,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0010499,Processing Error,2025-07-01,Zurich,EMEA,Front Office,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0010513,Data Quality Issue,2025-07-01,Geneva,EMEA,Client Onboarding,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0010538,Reconciliation Break,2025-07-01,New York,Americas,Front Office,Structured Products,Workflow,Low,Missing Mandatory Fields
+E0010552,Data Quality Issue,2025-07-01,Hong Kong,APAC,Front Office,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0010570,Processing Error,2025-07-02,Geneva,EMEA,Operations,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0010600,Incident,2025-07-02,Singapore,APAC,Compliance & Controls,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0010628,Processing Error,2025-07-03,London,EMEA,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0010636,Data Quality Issue,2025-07-03,London,EMEA,Client Onboarding,Structured Products,Workflow,Medium,Missing Mandatory Fields
+E0010653,Data Quality Issue,2025-07-03,Hong Kong,APAC,Front Office,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0010656,Processing Error,2025-07-03,Hong Kong,APAC,Operations,Advisory,CRM,High,Missing Mandatory Fields
+E0010670,Incident,2025-07-04,Zurich,EMEA,Compliance & Controls,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0010684,High-Risk Transaction,2025-07-04,London,EMEA,Front Office,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0010696,Data Quality Issue,2025-07-04,London,EMEA,Client Onboarding,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0010720,High-Risk Transaction,2025-07-04,Singapore,APAC,Front Office,Structured Products,CRM,Low,Missing Mandatory Fields
+E0010742,Overdue Task,2025-07-05,London,EMEA,Front Office,Structured Products,CRM,Medium,Missing Mandatory Fields
+E0010751,Processing Error,2025-07-05,New York,Americas,Operations,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0010782,Data Quality Issue,2025-07-06,London,EMEA,Front Office,Discretionary,Monitoring Tool,High,Missing Mandatory Fields
+E0010784,Processing Error,2025-07-06,London,EMEA,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0010788,Data Quality Issue,2025-07-06,London,EMEA,Operations,Lombard Lending,Workflow,Medium,Missing Mandatory Fields
+E0010798,Processing Error,2025-07-06,Singapore,APAC,Operations,Discretionary,Email Intake,High,Missing Mandatory Fields
+E0010812,High-Risk Transaction,2025-07-07,Zurich,EMEA,Front Office,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0010816,KYC Review Overdue,2025-07-07,Zurich,EMEA,Client Onboarding,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0010829,Processing Error,2025-07-07,Geneva,EMEA,Operations,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0010835,Processing Error,2025-07-07,London,EMEA,Operations,Advisory,CRM,Medium,Missing Mandatory Fields
+E0010838,Data Quality Issue,2025-07-07,London,EMEA,Operations,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0010847,Processing Error,2025-07-07,London,EMEA,Operations,Lombard Lending,Core Banking,Low,Missing Mandatory Fields
+E0010870,Incident,2025-07-07,Hong Kong,APAC,Operations,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0010874,Data Quality Issue,2025-07-08,Zurich,EMEA,Client Onboarding,Discretionary,CRM,Low,Missing Mandatory Fields
+E0010879,Processing Error,2025-07-08,Zurich,EMEA,Operations,Execution-only,Workflow,High,Missing Mandatory Fields
+E0010903,Processing Error,2025-07-08,New York,Americas,Operations,Advisory,CRM,Low,Missing Mandatory Fields
+E0010912,Processing Error,2025-07-08,Singapore,APAC,Front Office,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0010924,Reconciliation Break,2025-07-09,Zurich,EMEA,Operations,Advisory,CRM,Low,Missing Mandatory Fields
+E0010948,Data Quality Issue,2025-07-09,London,EMEA,Operations,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0010958,Processing Error,2025-07-09,New York,Americas,Front Office,Discretionary,Core Banking,High,Missing Mandatory Fields
+E0010982,KYC Review Overdue,2025-07-09,Hong Kong,APAC,Client Onboarding,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0011001,Processing Error,2025-07-10,Zurich,EMEA,Operations,Structured Products,Email Intake,Medium,Missing Mandatory Fields
+E0011011,Data Quality Issue,2025-07-10,Geneva,EMEA,Operations,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0011031,Data Quality Issue,2025-07-10,Singapore,APAC,Front Office,Structured Products,Monitoring Tool,Low,Missing Mandatory Fields
+E0011046,Processing Error,2025-07-11,Zurich,EMEA,Operations,Lombard Lending,Workflow,Medium,Missing Mandatory Fields
+E0011055,Data Quality Issue,2025-07-11,Geneva,EMEA,Client Onboarding,Execution-only,CRM,Low,Missing Mandatory Fields
+E0011059,Complaint,2025-07-11,London,EMEA,Front Office,Discretionary,CRM,High,Missing Mandatory Fields
+E0011064,Processing Error,2025-07-11,London,EMEA,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0011117,KYC Review Overdue,2025-07-12,London,EMEA,Front Office,Structured Products,Core Banking,Low,Missing Mandatory Fields
+E0011123,Processing Error,2025-07-12,New York,Americas,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0011127,Data Quality Issue,2025-07-12,Singapore,APAC,Front Office,Advisory,CRM,Medium,Missing Mandatory Fields
+E0011163,Data Quality Issue,2025-07-13,New York,Americas,Front Office,Lombard Lending,Email Intake,High,Missing Mandatory Fields
+E0011177,High-Risk Transaction,2025-07-13,Hong Kong,APAC,Front Office,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0011206,Data Quality Issue,2025-07-14,New York,Americas,Front Office,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0011207,Data Quality Issue,2025-07-14,New York,Americas,Front Office,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0011212,Limit Breach,2025-07-14,Singapore,APAC,Operations,Advisory,CRM,Medium,Missing Mandatory Fields
+E0011221,Processing Error,2025-07-14,Hong Kong,APAC,Operations,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0011248,Data Quality Issue,2025-07-15,Geneva,EMEA,Compliance & Controls,Advisory,CRM,Medium,Missing Mandatory Fields
+E0011257,Data Quality Issue,2025-07-15,London,EMEA,Front Office,Advisory,CRM,Low,Missing Mandatory Fields
+E0011262,Processing Error,2025-07-15,London,EMEA,Operations,Execution-only,Email Intake,Critical,Missing Mandatory Fields
+E0011274,Processing Error,2025-07-15,New York,Americas,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0011281,Incident,2025-07-15,Hong Kong,APAC,Operations,Advisory,Workflow,High,Missing Mandatory Fields
+E0011286,Processing Error,2025-07-16,Zurich,EMEA,Operations,Advisory,Core Banking,High,Missing Mandatory Fields
+E0011287,Reconciliation Break,2025-07-16,Zurich,EMEA,Compliance & Controls,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0011329,Reconciliation Break,2025-07-16,New York,Americas,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0011345,High-Risk Transaction,2025-07-16,Singapore,APAC,Front Office,Lombard Lending,Core Banking,Low,Missing Mandatory Fields
+E0011349,Overdue Task,2025-07-16,Hong Kong,APAC,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0011374,Data Quality Issue,2025-07-17,London,EMEA,Front Office,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0011388,Reconciliation Break,2025-07-17,New York,Americas,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0011389,Processing Error,2025-07-17,New York,Americas,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0011392,Processing Error,2025-07-17,New York,Americas,Operations,Lombard Lending,Workflow,Medium,Missing Mandatory Fields
+E0011399,Data Quality Issue,2025-07-17,Singapore,APAC,Front Office,Lombard Lending,Monitoring Tool,Medium,Missing Mandatory Fields
+E0011411,Data Quality Issue,2025-07-18,Zurich,EMEA,Client Onboarding,Advisory,Email Intake,Critical,Missing Mandatory Fields
+E0011412,Processing Error,2025-07-18,Zurich,EMEA,Operations,Discretionary,Workflow,High,Missing Mandatory Fields
+E0011440,High-Risk Transaction,2025-07-18,New York,Americas,Front Office,Execution-only,Monitoring Tool,High,Missing Mandatory Fields
+E0011453,Incident,2025-07-18,Singapore,APAC,Operations,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0011466,Processing Error,2025-07-19,Zurich,EMEA,Operations,Advisory,Monitoring Tool,High,Missing Mandatory Fields
+E0011494,Processing Error,2025-07-19,New York,Americas,Operations,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0011501,High-Risk Transaction,2025-07-19,Singapore,APAC,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0011511,Data Quality Issue,2025-07-20,Zurich,EMEA,Client Onboarding,Discretionary,Monitoring Tool,High,Missing Mandatory Fields
+E0011513,Processing Error,2025-07-20,Zurich,EMEA,Operations,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0011559,Data Quality Issue,2025-07-20,Hong Kong,APAC,Client Onboarding,Lombard Lending,Workflow,High,Missing Mandatory Fields
+E0011582,Data Quality Issue,2025-07-21,Geneva,EMEA,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0011594,Incident,2025-07-21,London,EMEA,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0011617,High-Risk Transaction,2025-07-21,Singapore,APAC,Front Office,Structured Products,Core Banking,Low,Missing Mandatory Fields
+E0011621,Processing Error,2025-07-21,Hong Kong,APAC,Operations,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0011637,Data Quality Issue,2025-07-22,Zurich,EMEA,Compliance & Controls,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0011675,High-Risk Transaction,2025-07-22,Singapore,APAC,Operations,Structured Products,CRM,Medium,Missing Mandatory Fields
+E0011677,Reconciliation Break,2025-07-22,Hong Kong,APAC,Compliance & Controls,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0011687,Processing Error,2025-07-23,Zurich,EMEA,Front Office,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0011696,Processing Error,2025-07-23,Zurich,EMEA,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0011716,High-Risk Transaction,2025-07-23,London,EMEA,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0011722,Limit Breach,2025-07-23,London,EMEA,Front Office,Structured Products,Core Banking,Low,Missing Mandatory Fields
+E0011768,Data Quality Issue,2025-07-24,Geneva,EMEA,Client Onboarding,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0011798,Processing Error,2025-07-24,New York,Americas,Operations,Lombard Lending,CRM,Medium,Missing Mandatory Fields
+E0011804,Overdue Task,2025-07-24,Singapore,APAC,Front Office,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0011816,Processing Error,2025-07-25,Zurich,EMEA,Operations,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0011825,Processing Error,2025-07-25,Geneva,EMEA,Operations,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0011835,Processing Error,2025-07-25,London,EMEA,Operations,Structured Products,Monitoring Tool,Low,Missing Mandatory Fields
+E0011849,Processing Error,2025-07-25,New York,Americas,Operations,Lombard Lending,Email Intake,Medium,Missing Mandatory Fields
+E0011867,Reconciliation Break,2025-07-26,Zurich,EMEA,Operations,Advisory,Workflow,Low,Missing Mandatory Fields
+E0011887,Processing Error,2025-07-26,Geneva,EMEA,Operations,Structured Products,Core Banking,High,Missing Mandatory Fields
+E0011892,Data Quality Issue,2025-07-26,London,EMEA,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0011915,Data Quality Issue,2025-07-26,Hong Kong,APAC,Front Office,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0011937,Data Quality Issue,2025-07-27,New York,Americas,Client Onboarding,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0011946,Processing Error,2025-07-27,Singapore,APAC,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0011950,High-Risk Transaction,2025-07-27,Singapore,APAC,Front Office,Lombard Lending,Core Banking,Critical,Missing Mandatory Fields
+E0011966,Limit Breach,2025-07-28,Zurich,EMEA,Front Office,Execution-only,CRM,Low,Missing Mandatory Fields
+E0011970,Reconciliation Break,2025-07-28,Zurich,EMEA,Front Office,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0011972,Overdue Task,2025-07-28,Zurich,EMEA,Front Office,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0011975,Limit Breach,2025-07-28,Geneva,EMEA,Front Office,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0011987,Reconciliation Break,2025-07-28,London,EMEA,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0011997,KYC Review Overdue,2025-07-28,London,EMEA,Front Office,,CRM,Low,Missing Mandatory Fields
+E0012000,Data Quality Issue,2025-07-28,New York,Americas,Operations,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0012049,Complaint,2025-07-29,New York,Americas,Front Office,Advisory,CRM,Medium,Missing Mandatory Fields
+E0012053,Limit Breach,2025-07-29,New York,Americas,Compliance & Controls,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0012057,Limit Breach,2025-07-29,Singapore,APAC,Operations,Discretionary,Workflow,High,Missing Mandatory Fields
+E0012058,Incident,2025-07-29,Singapore,APAC,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0012064,Processing Error,2025-07-29,Hong Kong,APAC,Operations,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0012082,Overdue Task,2025-07-30,Geneva,EMEA,Operations,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0012087,Data Quality Issue,2025-07-30,London,EMEA,Client Onboarding,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0012093,Data Quality Issue,2025-07-30,London,EMEA,Operations,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0012099,Data Quality Issue,2025-07-30,New York,Americas,Client Onboarding,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0012125,High-Risk Transaction,2025-07-30,Hong Kong,APAC,Operations,Structured Products,CRM,Medium,Missing Mandatory Fields
+E0012130,Processing Error,2025-07-31,Zurich,EMEA,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0012138,Data Quality Issue,2025-07-31,Zurich,EMEA,Client Onboarding,Structured Products,Email Intake,Medium,Missing Mandatory Fields
+E0012146,Processing Error,2025-07-31,London,EMEA,Operations,Advisory,CRM,Critical,Missing Mandatory Fields
+E0012167,Processing Error,2025-07-31,Singapore,APAC,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0012178,High-Risk Transaction,2025-07-31,Hong Kong,APAC,Front Office,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0012197,Processing Error,2025-08-01,Geneva,EMEA,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0012225,Overdue Task,2025-08-01,Singapore,APAC,Client Onboarding,Advisory,CRM,Low,Missing Mandatory Fields
+E0012234,KYC Review Overdue,2025-08-01,Hong Kong,APAC,Operations,Advisory,Email Intake,High,Missing Mandatory Fields
+E0012304,Reconciliation Break,2025-08-03,London,EMEA,Operations,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0012309,Processing Error,2025-08-03,New York,Americas,Operations,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0012311,Data Quality Issue,2025-08-03,New York,Americas,Front Office,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0012338,Overdue Task,2025-08-04,London,EMEA,Compliance & Controls,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0012355,Data Quality Issue,2025-08-04,Singapore,APAC,Client Onboarding,Discretionary,Workflow,High,Missing Mandatory Fields
+E0012396,High-Risk Transaction,2025-08-05,London,EMEA,Front Office,Lombard Lending,Monitoring Tool,High,Missing Mandatory Fields
+E0012401,Data Quality Issue,2025-08-05,New York,Americas,Operations,Advisory,CRM,High,Missing Mandatory Fields
+E0012404,High-Risk Transaction,2025-08-05,New York,Americas,Front Office,Discretionary,CRM,Low,Missing Mandatory Fields
+E0012413,Reconciliation Break,2025-08-05,New York,Americas,Operations,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0012448,KYC Review Overdue,2025-08-06,London,EMEA,Compliance & Controls,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0012462,Limit Breach,2025-08-06,New York,Americas,Operations,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0012468,Data Quality Issue,2025-08-06,New York,Americas,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0012484,Processing Error,2025-08-06,Hong Kong,APAC,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0012488,Data Quality Issue,2025-08-07,Zurich,EMEA,Front Office,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0012502,High-Risk Transaction,2025-08-07,Geneva,EMEA,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0012530,Limit Breach,2025-08-07,Singapore,APAC,Front Office,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0012545,Data Quality Issue,2025-08-07,Hong Kong,APAC,Client Onboarding,Lombard Lending,Email Intake,Medium,Missing Mandatory Fields
+E0012550,Processing Error,2025-08-08,Zurich,EMEA,Front Office,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0012563,Data Quality Issue,2025-08-08,London,EMEA,Client Onboarding,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0012569,High-Risk Transaction,2025-08-08,London,EMEA,Client Onboarding,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0012575,Processing Error,2025-08-08,New York,Americas,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0012594,Processing Error,2025-08-09,Zurich,EMEA,Operations,Discretionary,Core Banking,High,Missing Mandatory Fields
+E0012615,Processing Error,2025-08-09,New York,Americas,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0012640,Data Quality Issue,2025-08-10,Geneva,EMEA,Client Onboarding,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0012674,Data Quality Issue,2025-08-11,Zurich,EMEA,Client Onboarding,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0012679,Processing Error,2025-08-11,Zurich,EMEA,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0012690,Reconciliation Break,2025-08-11,Geneva,EMEA,Operations,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0012713,Data Quality Issue,2025-08-11,Singapore,APAC,Operations,Advisory,Workflow,Low,Missing Mandatory Fields
+E0012724,Data Quality Issue,2025-08-11,Singapore,APAC,Compliance & Controls,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0012739,Processing Error,2025-08-12,Zurich,EMEA,Front Office,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0012762,High-Risk Transaction,2025-08-12,London,EMEA,Front Office,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0012766,Processing Error,2025-08-12,London,EMEA,Operations,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0012789,Processing Error,2025-08-12,Hong Kong,APAC,Operations,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0012802,Data Quality Issue,2025-08-13,Zurich,EMEA,Front Office,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0012806,Incident,2025-08-13,Zurich,EMEA,Compliance & Controls,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0012814,Processing Error,2025-08-13,Geneva,EMEA,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0012824,High-Risk Transaction,2025-08-13,London,EMEA,Front Office,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0012841,Limit Breach,2025-08-13,New York,Americas,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0012859,Data Quality Issue,2025-08-14,Zurich,EMEA,Front Office,Advisory,CRM,Low,Missing Mandatory Fields
+E0012875,Processing Error,2025-08-14,Geneva,EMEA,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0012884,High-Risk Transaction,2025-08-14,London,EMEA,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0012897,Processing Error,2025-08-14,New York,Americas,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0012904,Reconciliation Break,2025-08-14,New York,Americas,Operations,Structured Products,Core Banking,Low,Missing Mandatory Fields
+E0012915,Processing Error,2025-08-14,Singapore,APAC,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0012930,Processing Error,2025-08-15,Geneva,EMEA,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0012932,Processing Error,2025-08-15,London,EMEA,Front Office,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0012934,Reconciliation Break,2025-08-15,London,EMEA,Operations,Advisory,CRM,Medium,Missing Mandatory Fields
+E0012962,Data Quality Issue,2025-08-15,Hong Kong,APAC,Compliance & Controls,Advisory,Core Banking,High,Missing Mandatory Fields
+E0012971,Data Quality Issue,2025-08-16,Zurich,EMEA,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0012981,High-Risk Transaction,2025-08-16,London,EMEA,Front Office,Advisory,Monitoring Tool,High,Missing Mandatory Fields
+E0012982,Data Quality Issue,2025-08-16,London,EMEA,Client Onboarding,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0013001,Data Quality Issue,2025-08-17,Zurich,EMEA,Client Onboarding,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0013046,High-Risk Transaction,2025-08-18,Zurich,EMEA,Front Office,Structured Products,Workflow,High,Missing Mandatory Fields
+E0013050,Processing Error,2025-08-18,Geneva,EMEA,Operations,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0013063,Processing Error,2025-08-18,London,EMEA,Operations,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0013065,Reconciliation Break,2025-08-18,London,EMEA,Compliance & Controls,Lombard Lending,Monitoring Tool,Medium,Missing Mandatory Fields
+E0013066,Data Quality Issue,2025-08-18,London,EMEA,Compliance & Controls,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0013104,Data Quality Issue,2025-08-19,Zurich,EMEA,Compliance & Controls,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0013115,Incident,2025-08-19,Geneva,EMEA,Front Office,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0013124,Reconciliation Break,2025-08-19,London,EMEA,Operations,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0013132,KYC Review Overdue,2025-08-19,New York,Americas,Compliance & Controls,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0013143,Processing Error,2025-08-19,Singapore,APAC,Operations,Advisory,CRM,Low,Missing Mandatory Fields
+E0013151,Processing Error,2025-08-19,Hong Kong,APAC,Operations,Advisory,CRM,Medium,Missing Mandatory Fields
+E0013154,Data Quality Issue,2025-08-19,Hong Kong,APAC,Operations,Advisory,CRM,High,Missing Mandatory Fields
+E0013155,Data Quality Issue,2025-08-19,Hong Kong,APAC,Client Onboarding,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0013158,Data Quality Issue,2025-08-19,Hong Kong,APAC,Compliance & Controls,Execution-only,Workflow,High,Missing Mandatory Fields
+E0013164,Data Quality Issue,2025-08-20,Zurich,EMEA,Client Onboarding,Advisory,Workflow,High,Missing Mandatory Fields
+E0013173,High-Risk Transaction,2025-08-20,Geneva,EMEA,Front Office,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0013174,Processing Error,2025-08-20,Geneva,EMEA,Client Onboarding,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0013197,Overdue Task,2025-08-20,Singapore,APAC,Operations,Lombard Lending,Workflow,Medium,Missing Mandatory Fields
+E0013200,Processing Error,2025-08-20,Hong Kong,APAC,Operations,Advisory,Workflow,High,Missing Mandatory Fields
+E0013204,Limit Breach,2025-08-20,Hong Kong,APAC,Front Office,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0013224,Processing Error,2025-08-21,Geneva,EMEA,Operations,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0013234,Processing Error,2025-08-21,London,EMEA,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0013236,Processing Error,2025-08-21,London,EMEA,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0013246,Data Quality Issue,2025-08-21,Singapore,APAC,Operations,Advisory,Workflow,High,Missing Mandatory Fields
+E0013252,Data Quality Issue,2025-08-21,Singapore,APAC,Front Office,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0013261,High-Risk Transaction,2025-08-21,Hong Kong,APAC,Front Office,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0013295,High-Risk Transaction,2025-08-22,New York,Americas,Front Office,Execution-only,CRM,Low,Missing Mandatory Fields
+E0013318,Processing Error,2025-08-23,Zurich,EMEA,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0013339,Processing Error,2025-08-23,London,EMEA,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0013404,Data Quality Issue,2025-08-25,,,Client Onboarding,Lombard Lending,Monitoring Tool,Medium,Missing Mandatory Fields
+E0013409,Processing Error,2025-08-25,London,EMEA,Operations,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0013417,Data Quality Issue,2025-08-25,London,EMEA,Client Onboarding,Lombard Lending,Workflow,High,Missing Mandatory Fields
+E0013418,Data Quality Issue,2025-08-25,London,EMEA,Client Onboarding,Lombard Lending,Core Banking,Low,Missing Mandatory Fields
+E0013419,Data Quality Issue,2025-08-25,London,EMEA,Front Office,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0013449,Data Quality Issue,2025-08-25,Singapore,APAC,Client Onboarding,Discretionary,CRM,High,Missing Mandatory Fields
+E0013451,High-Risk Transaction,2025-08-25,Singapore,APAC,Front Office,Lombard Lending,CRM,High,Missing Mandatory Fields
+E0013511,Complaint,2025-08-26,Hong Kong,APAC,Front Office,Discretionary,CRM,Low,Missing Mandatory Fields
+E0013549,Processing Error,2025-08-27,New York,Americas,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0013551,Data Quality Issue,2025-08-27,New York,Americas,Client Onboarding,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0013571,Limit Breach,2025-08-28,Zurich,EMEA,Front Office,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0013578,Processing Error,2025-08-28,Zurich,EMEA,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0013583,Data Quality Issue,2025-08-28,Geneva,EMEA,Front Office,Advisory,CRM,Low,Missing Mandatory Fields
+E0013610,Processing Error,2025-08-28,New York,Americas,Operations,Lombard Lending,Workflow,Medium,Missing Mandatory Fields
+E0013638,Processing Error,2025-08-28,Hong Kong,APAC,Front Office,Structured Products,Workflow,Medium,Missing Mandatory Fields
+E0013661,Processing Error,2025-08-29,London,EMEA,Front Office,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0013677,Data Quality Issue,2025-08-29,New York,Americas,Client Onboarding,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0013709,Incident,2025-08-30,New York,Americas,Operations,Advisory,Monitoring Tool,High,Missing Mandatory Fields
+E0013740,Data Quality Issue,2025-08-31,London,EMEA,Operations,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0013749,Data Quality Issue,2025-08-31,Singapore,APAC,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0013754,Data Quality Issue,2025-08-31,Hong Kong,APAC,Compliance & Controls,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0013770,Limit Breach,2025-09-01,Geneva,EMEA,Operations,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0013771,Processing Error,2025-09-01,Geneva,EMEA,Compliance & Controls,Advisory,Core Banking,High,Missing Mandatory Fields
+E0013792,Data Quality Issue,2025-09-01,London,EMEA,Front Office,Execution-only,Workflow,High,Missing Mandatory Fields
+E0013816,Data Quality Issue,2025-09-01,Hong Kong,APAC,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0013829,Data Quality Issue,2025-09-02,Zurich,EMEA,Operations,Structured Products,Email Intake,Critical,Missing Mandatory Fields
+E0013841,Data Quality Issue,2025-09-02,London,EMEA,Client Onboarding,Advisory,CRM,High,Missing Mandatory Fields
+E0013843,Processing Error,2025-09-02,London,EMEA,Operations,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0013857,High-Risk Transaction,2025-09-02,New York,Americas,Front Office,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0013877,Processing Error,2025-09-02,Hong Kong,APAC,Front Office,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0013885,Data Quality Issue,2025-09-02,Hong Kong,APAC,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0013889,Data Quality Issue,2025-09-03,Zurich,EMEA,Client Onboarding,Advisory,Core Banking,High,Missing Mandatory Fields
+E0013898,Reconciliation Break,2025-09-03,Zurich,EMEA,Operations,Structured Products,Monitoring Tool,High,Missing Mandatory Fields
+E0013904,High-Risk Transaction,2025-09-03,Geneva,EMEA,Front Office,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0013917,Data Quality Issue,2025-09-03,London,EMEA,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0013956,Data Quality Issue,2025-09-04,Geneva,EMEA,Operations,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0013958,High-Risk Transaction,2025-09-04,London,EMEA,Front Office,Advisory,Workflow,Low,Missing Mandatory Fields
+E0013963,High-Risk Transaction,2025-09-04,London,EMEA,Front Office,Structured Products,Core Banking,High,Missing Mandatory Fields
+E0013972,Processing Error,2025-09-04,New York,Americas,Operations,Structured Products,Monitoring Tool,High,Missing Mandatory Fields
+E0013985,Processing Error,2025-09-04,Hong Kong,APAC,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0014008,High-Risk Transaction,2025-09-05,Geneva,EMEA,Operations,Execution-only,Monitoring Tool,High,Missing Mandatory Fields
+E0014014,Data Quality Issue,2025-09-05,London,EMEA,Client Onboarding,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0014020,Data Quality Issue,2025-09-05,London,EMEA,Client Onboarding,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0014027,Processing Error,2025-09-05,Singapore,APAC,Front Office,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0014034,High-Risk Transaction,2025-09-05,Hong Kong,APAC,Front Office,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0014047,Data Quality Issue,2025-09-06,Geneva,EMEA,Compliance & Controls,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0014051,Reconciliation Break,2025-09-06,Geneva,EMEA,Front Office,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0014052,Incident,2025-09-06,Geneva,EMEA,Operations,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0014085,Data Quality Issue,2025-09-07,Zurich,EMEA,Operations,Execution-only,CRM,High,Missing Mandatory Fields
+E0014102,Data Quality Issue,2025-09-07,Singapore,APAC,Front Office,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0014133,Reconciliation Break,2025-09-08,London,EMEA,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0014151,Data Quality Issue,2025-09-08,Hong Kong,APAC,Operations,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0014202,Data Quality Issue,2025-09-09,New York,Americas,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0014216,Data Quality Issue,2025-09-09,Hong Kong,APAC,Client Onboarding,Advisory,CRM,Low,Missing Mandatory Fields
+E0014246,Incident,2025-09-10,London,EMEA,Operations,Structured Products,Core Banking,Medium,Missing Mandatory Fields
+E0014249,Incident,2025-09-10,New York,Americas,Front Office,Discretionary,CRM,High,Missing Mandatory Fields
+E0014275,Processing Error,2025-09-11,Zurich,EMEA,Operations,Structured Products,Core Banking,Low,Missing Mandatory Fields
+E0014289,Data Quality Issue,2025-09-11,London,EMEA,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0014321,High-Risk Transaction,2025-09-11,Hong Kong,APAC,Front Office,Lombard Lending,CRM,Medium,Missing Mandatory Fields
+E0014330,Processing Error,2025-09-12,Zurich,EMEA,Operations,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0014333,High-Risk Transaction,2025-09-12,Zurich,EMEA,Front Office,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0014340,Data Quality Issue,2025-09-12,,,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0014346,Processing Error,2025-09-12,London,EMEA,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0014368,Data Quality Issue,2025-09-12,New York,Americas,Client Onboarding,Structured Products,Workflow,Medium,Missing Mandatory Fields
+E0014384,Processing Error,2025-09-13,Geneva,EMEA,Operations,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0014393,Data Quality Issue,2025-09-13,New York,Americas,Front Office,Advisory,CRM,Medium,Missing Mandatory Fields
+E0014425,Processing Error,2025-09-14,London,EMEA,Operations,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0014442,Processing Error,2025-09-14,Singapore,APAC,Operations,Execution-only,Monitoring Tool,High,Missing Mandatory Fields
+E0014467,Data Quality Issue,2025-09-15,Geneva,EMEA,Operations,Execution-only,Monitoring Tool,High,Missing Mandatory Fields
+E0014500,Data Quality Issue,2025-09-15,Hong Kong,APAC,Client Onboarding,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0014535,Data Quality Issue,2025-09-16,New York,Americas,Client Onboarding,Structured Products,Core Banking,Low,Missing Mandatory Fields
+E0014557,Processing Error,2025-09-17,Geneva,EMEA,Operations,Structured Products,CRM,Low,Missing Mandatory Fields
+E0014565,Data Quality Issue,2025-09-17,London,EMEA,Front Office,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0014574,Incident,2025-09-17,New York,Americas,Operations,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0014583,Data Quality Issue,2025-09-17,Singapore,APAC,Client Onboarding,Discretionary,CRM,Low,Missing Mandatory Fields
+E0014603,Incident,2025-09-18,Zurich,EMEA,Operations,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0014616,Processing Error,2025-09-18,London,EMEA,Operations,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0014619,High-Risk Transaction,2025-09-18,London,EMEA,Front Office,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0014624,Incident,2025-09-18,London,EMEA,Compliance & Controls,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0014626,Incident,2025-09-18,New York,Americas,Front Office,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0014627,High-Risk Transaction,2025-09-18,New York,Americas,Compliance & Controls,Advisory,CRM,Medium,Missing Mandatory Fields
+E0014633,High-Risk Transaction,2025-09-18,New York,Americas,Client Onboarding,Discretionary,CRM,Low,Missing Mandatory Fields
+E0014639,Processing Error,2025-09-18,New York,Americas,Front Office,Lombard Lending,Monitoring Tool,High,Missing Mandatory Fields
+E0014651,Reconciliation Break,2025-09-18,Hong Kong,APAC,Operations,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0014673,Reconciliation Break,2025-09-19,London,EMEA,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0014680,Processing Error,2025-09-19,New York,Americas,Operations,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0014684,Complaint,2025-09-19,New York,Americas,Client Onboarding,Execution-only,CRM,Low,Missing Mandatory Fields
+E0014717,Data Quality Issue,2025-09-20,Geneva,EMEA,Operations,Execution-only,Workflow,High,Missing Mandatory Fields
+E0014732,Data Quality Issue,2025-09-20,Singapore,APAC,Client Onboarding,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0014737,Processing Error,2025-09-20,Hong Kong,APAC,Operations,Advisory,CRM,High,Missing Mandatory Fields
+E0014738,Incident,2025-09-20,Hong Kong,APAC,Operations,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0014757,Processing Error,2025-09-21,London,EMEA,Operations,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0014759,Data Quality Issue,2025-09-21,London,EMEA,Operations,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0014792,Data Quality Issue,2025-09-22,Zurich,EMEA,Operations,Structured Products,Workflow,High,Missing Mandatory Fields
+E0014795,Processing Error,2025-09-22,Geneva,EMEA,Operations,Advisory,Monitoring Tool,Critical,Missing Mandatory Fields
+E0014802,High-Risk Transaction,2025-09-22,Geneva,EMEA,Front Office,Lombard Lending,Core Banking,Critical,Missing Mandatory Fields
+E0014804,Processing Error,2025-09-22,London,EMEA,Operations,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0014815,High-Risk Transaction,2025-09-22,New York,Americas,Front Office,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0014824,Processing Error,2025-09-22,Singapore,APAC,Operations,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0014827,High-Risk Transaction,2025-09-22,Hong Kong,APAC,Front Office,Advisory,CRM,Critical,Missing Mandatory Fields
+E0014844,Data Quality Issue,2025-09-23,Zurich,EMEA,Client Onboarding,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0014847,Processing Error,2025-09-23,Zurich,EMEA,Operations,Lombard Lending,Core Banking,High,Missing Mandatory Fields
+E0014851,Data Quality Issue,2025-09-23,Geneva,EMEA,Client Onboarding,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0014903,Data Quality Issue,2025-09-24,Zurich,EMEA,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0014904,Limit Breach,2025-09-24,Zurich,EMEA,Front Office,Lombard Lending,Core Banking,Critical,Missing Mandatory Fields
+E0014915,Processing Error,2025-09-24,Geneva,EMEA,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0014947,Processing Error,2025-09-24,Singapore,APAC,Operations,Structured Products,Email Intake,Medium,Missing Mandatory Fields
+E0014987,Data Quality Issue,2025-09-25,London,EMEA,Compliance & Controls,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0015009,Processing Error,2025-09-25,Hong Kong,APAC,Operations,Discretionary,CRM,High,Missing Mandatory Fields
+E0015010,Processing Error,2025-09-25,Hong Kong,APAC,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0015019,Data Quality Issue,2025-09-26,Zurich,EMEA,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0015024,Data Quality Issue,2025-09-26,Geneva,EMEA,Front Office,Execution-only,CRM,Low,Missing Mandatory Fields
+E0015031,Data Quality Issue,2025-09-26,London,EMEA,Client Onboarding,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0015040,Processing Error,2025-09-26,New York,Americas,Operations,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0015053,Complaint,2025-09-26,Singapore,APAC,Client Onboarding,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0015079,High-Risk Transaction,2025-09-27,London,EMEA,Front Office,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0015088,Processing Error,2025-09-27,New York,Americas,Operations,Advisory,CRM,Medium,Missing Mandatory Fields
+E0015098,Processing Error,2025-09-27,Singapore,APAC,Operations,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0015111,Incident,2025-09-28,Zurich,EMEA,Compliance & Controls,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0015128,High-Risk Transaction,2025-09-28,London,EMEA,Front Office,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0015135,Processing Error,2025-09-28,New York,Americas,Operations,Execution-only,Monitoring Tool,High,Missing Mandatory Fields
+E0015144,Data Quality Issue,2025-09-28,Singapore,APAC,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0015146,Data Quality Issue,2025-09-28,Hong Kong,APAC,Operations,Advisory,CRM,Low,Missing Mandatory Fields
+E0015150,KYC Review Overdue,2025-09-28,Hong Kong,APAC,Client Onboarding,Lombard Lending,Monitoring Tool,Low,Missing Mandatory Fields
+E0015159,Processing Error,2025-09-29,Zurich,EMEA,Operations,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0015172,Processing Error,2025-09-29,London,EMEA,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0015173,KYC Review Overdue,2025-09-29,London,EMEA,Compliance & Controls,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0015198,Incident,2025-09-29,Singapore,APAC,Operations,Advisory,Monitoring Tool,High,Missing Mandatory Fields
+E0015207,Processing Error,2025-09-29,Hong Kong,APAC,Operations,Structured Products,Monitoring Tool,Low,Missing Mandatory Fields
+E0015222,Data Quality Issue,2025-09-30,Geneva,EMEA,Operations,Advisory,Workflow,Low,Missing Mandatory Fields
+E0015231,Processing Error,2025-09-30,London,EMEA,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0015242,Processing Error,2025-09-30,London,EMEA,Operations,Structured Products,CRM,Low,Missing Mandatory Fields
+E0015257,Data Quality Issue,2025-09-30,New York,Americas,Client Onboarding,Structured Products,Email Intake,High,Missing Mandatory Fields
+E0015270,Processing Error,2025-10-01,Zurich,EMEA,Operations,Discretionary,Core Banking,High,Missing Mandatory Fields
+E0015272,Data Quality Issue,2025-10-01,Zurich,EMEA,Compliance & Controls,Execution-only,Monitoring Tool,High,Missing Mandatory Fields
+E0015276,Data Quality Issue,2025-10-01,Geneva,EMEA,Front Office,Discretionary,CRM,Low,Missing Mandatory Fields
+E0015277,Data Quality Issue,2025-10-01,Geneva,EMEA,Front Office,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0015290,Data Quality Issue,2025-10-01,London,EMEA,Compliance & Controls,Structured Products,Monitoring Tool,Medium,Missing Mandatory Fields
+E0015304,Processing Error,2025-10-01,New York,Americas,Operations,Structured Products,Monitoring Tool,Low,Missing Mandatory Fields
+E0015308,Data Quality Issue,2025-10-01,Singapore,APAC,Client Onboarding,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0015309,Data Quality Issue,2025-10-01,Singapore,APAC,Front Office,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0015313,Processing Error,2025-10-01,Hong Kong,APAC,Operations,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0015327,High-Risk Transaction,2025-10-02,Zurich,EMEA,Front Office,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0015336,Processing Error,2025-10-02,Geneva,EMEA,Operations,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0015337,Data Quality Issue,2025-10-02,Geneva,EMEA,Operations,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0015367,Reconciliation Break,2025-10-02,Hong Kong,APAC,Operations,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0015378,Data Quality Issue,2025-10-02,Hong Kong,APAC,Operations,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0015380,Overdue Task,2025-10-03,Zurich,EMEA,Client Onboarding,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0015461,KYC Review Overdue,2025-10-04,Geneva,EMEA,Operations,,CRM,Low,Missing Mandatory Fields
+E0015468,Data Quality Issue,2025-10-04,London,EMEA,Client Onboarding,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0015472,Processing Error,2025-10-04,London,EMEA,Operations,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0015484,Data Quality Issue,2025-10-04,New York,Americas,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0015504,High-Risk Transaction,2025-10-05,Zurich,EMEA,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0015509,Data Quality Issue,2025-10-05,Zurich,EMEA,Client Onboarding,Structured Products,Core Banking,Medium,Missing Mandatory Fields
+E0015523,Data Quality Issue,2025-10-05,London,EMEA,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0015533,Data Quality Issue,2025-10-05,Singapore,APAC,Client Onboarding,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0015539,Limit Breach,2025-10-05,Hong Kong,APAC,Front Office,Structured Products,Workflow,Low,Missing Mandatory Fields
+E0015544,KYC Review Overdue,2025-10-06,Zurich,EMEA,Compliance & Controls,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0015551,Data Quality Issue,2025-10-06,Zurich,EMEA,Client Onboarding,Execution-only,CRM,Low,Missing Mandatory Fields
+E0015567,Data Quality Issue,2025-10-06,London,EMEA,Client Onboarding,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0015593,Incident,2025-10-06,Singapore,APAC,Operations,Structured Products,Email Intake,Medium,Missing Mandatory Fields
+E0015606,Processing Error,2025-10-07,Zurich,EMEA,Operations,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0015615,Data Quality Issue,2025-10-07,Geneva,EMEA,Operations,Advisory,Workflow,Low,Missing Mandatory Fields
+E0015635,Reconciliation Break,2025-10-07,New York,Americas,Client Onboarding,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0015649,Data Quality Issue,2025-10-07,Hong Kong,APAC,Operations,Advisory,CRM,Medium,Missing Mandatory Fields
+E0015657,Data Quality Issue,2025-10-07,Hong Kong,APAC,Front Office,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0015680,High-Risk Transaction,2025-10-08,Geneva,EMEA,Front Office,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0015736,High-Risk Transaction,2025-10-09,London,EMEA,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0015780,Processing Error,2025-10-10,London,EMEA,Client Onboarding,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0015786,Incident,2025-10-10,London,EMEA,Client Onboarding,Lombard Lending,CRM,Medium,Missing Mandatory Fields
+E0015787,Processing Error,2025-10-10,London,EMEA,Operations,Structured Products,Core Banking,High,Missing Mandatory Fields
+E0015799,High-Risk Transaction,2025-10-10,Singapore,APAC,Front Office,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0015809,Processing Error,2025-10-10,Hong Kong,APAC,Front Office,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0015816,Data Quality Issue,2025-10-11,Zurich,EMEA,Operations,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0015841,Incident,2025-10-11,New York,Americas,Operations,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0015859,Data Quality Issue,2025-10-12,Zurich,EMEA,Client Onboarding,Structured Products,Workflow,High,Missing Mandatory Fields
+E0015861,Data Quality Issue,2025-10-12,Geneva,EMEA,Client Onboarding,Advisory,Workflow,Low,Missing Mandatory Fields
+E0015874,Data Quality Issue,2025-10-12,London,EMEA,Operations,Execution-only,Monitoring Tool,High,Missing Mandatory Fields
+E0015899,Data Quality Issue,2025-10-13,Zurich,EMEA,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0015932,Processing Error,2025-10-13,New York,Americas,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0015938,Processing Error,2025-10-13,Singapore,APAC,Operations,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0015945,Data Quality Issue,2025-10-13,Singapore,APAC,Compliance & Controls,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0015947,Data Quality Issue,2025-10-13,Hong Kong,APAC,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0015956,Processing Error,2025-10-14,Zurich,EMEA,Operations,Discretionary,Workflow,Critical,Missing Mandatory Fields
+E0015971,Data Quality Issue,2025-10-14,Geneva,EMEA,Client Onboarding,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0015975,Processing Error,2025-10-14,London,EMEA,Client Onboarding,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0015977,Overdue Task,2025-10-14,London,EMEA,Client Onboarding,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0015990,Reconciliation Break,2025-10-14,New York,Americas,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0016002,Data Quality Issue,2025-10-14,Singapore,APAC,Client Onboarding,Lombard Lending,Monitoring Tool,Medium,Missing Mandatory Fields
+E0016041,Processing Error,2025-10-15,London,EMEA,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0016052,Data Quality Issue,2025-10-15,New York,Americas,Compliance & Controls,Discretionary,Workflow,High,Missing Mandatory Fields
+E0016069,Processing Error,2025-10-15,Hong Kong,APAC,Operations,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0016080,Data Quality Issue,2025-10-16,Zurich,EMEA,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0016082,Incident,2025-10-16,Zurich,EMEA,Operations,Execution-only,Workflow,High,Missing Mandatory Fields
+E0016099,Data Quality Issue,2025-10-16,London,EMEA,Front Office,Structured Products,Monitoring Tool,High,Missing Mandatory Fields
+E0016115,Incident,2025-10-17,Zurich,EMEA,Front Office,Execution-only,CRM,Low,Missing Mandatory Fields
+E0016126,Processing Error,2025-10-17,Geneva,EMEA,Operations,Structured Products,Monitoring Tool,Low,Missing Mandatory Fields
+E0016132,Limit Breach,2025-10-17,London,EMEA,Front Office,Lombard Lending,CRM,High,Missing Mandatory Fields
+E0016146,Processing Error,2025-10-17,New York,Americas,Operations,Structured Products,Core Banking,Low,Missing Mandatory Fields
+E0016170,Processing Error,2025-10-18,Geneva,EMEA,Operations,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0016182,Processing Error,2025-10-18,London,EMEA,Operations,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0016183,Processing Error,2025-10-18,London,EMEA,Operations,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0016186,Overdue Task,2025-10-18,London,EMEA,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0016190,Data Quality Issue,2025-10-18,London,EMEA,Operations,Lombard Lending,Core Banking,Low,Missing Mandatory Fields
+E0016194,Overdue Task,2025-10-18,New York,Americas,Compliance & Controls,Advisory,Workflow,Low,Missing Mandatory Fields
+E0016210,Data Quality Issue,2025-10-18,Hong Kong,APAC,Front Office,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0016255,Data Quality Issue,2025-10-20,Zurich,EMEA,Client Onboarding,Discretionary,Monitoring Tool,High,Missing Mandatory Fields
+E0016264,Processing Error,2025-10-20,Zurich,EMEA,Operations,Structured Products,Email Intake,Critical,Missing Mandatory Fields
+E0016274,Data Quality Issue,2025-10-20,London,EMEA,Operations,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0016276,High-Risk Transaction,2025-10-20,London,EMEA,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0016285,Data Quality Issue,2025-10-20,New York,Americas,Operations,Advisory,Workflow,Low,Missing Mandatory Fields
+E0016299,High-Risk Transaction,2025-10-20,Hong Kong,APAC,Front Office,Structured Products,Workflow,Low,Missing Mandatory Fields
+E0016304,Incident,2025-10-21,Zurich,EMEA,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0016307,Processing Error,2025-10-21,Zurich,EMEA,Operations,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0016311,Processing Error,2025-10-21,Zurich,EMEA,Operations,Structured Products,Core Banking,Medium,Missing Mandatory Fields
+E0016313,Processing Error,2025-10-21,Geneva,EMEA,Operations,Discretionary,Workflow,High,Missing Mandatory Fields
+E0016322,Data Quality Issue,2025-10-21,London,EMEA,Client Onboarding,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0016348,Processing Error,2025-10-22,Zurich,EMEA,Operations,Discretionary,CRM,High,Missing Mandatory Fields
+E0016352,High-Risk Transaction,2025-10-22,Zurich,EMEA,Front Office,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0016356,Data Quality Issue,2025-10-22,Zurich,EMEA,Operations,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0016368,Data Quality Issue,2025-10-22,Geneva,EMEA,Client Onboarding,Lombard Lending,Core Banking,Low,Missing Mandatory Fields
+E0016376,Data Quality Issue,2025-10-22,London,EMEA,Client Onboarding,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0016390,Processing Error,2025-10-22,New York,Americas,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0016412,Incident,2025-10-23,Zurich,EMEA,Compliance & Controls,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0016416,Data Quality Issue,2025-10-23,Geneva,EMEA,Front Office,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0016453,Data Quality Issue,2025-10-24,Zurich,EMEA,Client Onboarding,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0016463,Incident,2025-10-24,Geneva,EMEA,Operations,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0016472,KYC Review Overdue,2025-10-24,London,EMEA,Client Onboarding,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0016486,Data Quality Issue,2025-10-24,New York,Americas,Client Onboarding,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0016508,Data Quality Issue,2025-10-24,Hong Kong,APAC,Operations,Lombard Lending,Email Intake,Medium,Missing Mandatory Fields
+E0016530,Data Quality Issue,2025-10-25,New York,Americas,Front Office,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0016552,Processing Error,2025-10-26,Zurich,EMEA,Operations,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0016560,Overdue Task,2025-10-26,Geneva,EMEA,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0016561,Data Quality Issue,2025-10-26,Geneva,EMEA,Client Onboarding,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0016580,Reconciliation Break,2025-10-26,Singapore,APAC,Operations,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0016582,High-Risk Transaction,2025-10-26,Singapore,APAC,Front Office,Lombard Lending,Core Banking,Low,Missing Mandatory Fields
+E0016585,Processing Error,2025-10-26,Hong Kong,APAC,Operations,Advisory,Workflow,High,Missing Mandatory Fields
+E0016604,High-Risk Transaction,2025-10-27,London,EMEA,Front Office,Advisory,CRM,Low,Missing Mandatory Fields
+E0016605,Data Quality Issue,2025-10-27,London,EMEA,Front Office,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0016624,Complaint,2025-10-27,New York,Americas,Front Office,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0016629,Data Quality Issue,2025-10-27,New York,Americas,Client Onboarding,Execution-only,Workflow,High,Missing Mandatory Fields
+E0016633,Processing Error,2025-10-27,New York,Americas,Operations,Structured Products,CRM,High,Missing Mandatory Fields
+E0016637,Processing Error,2025-10-27,Singapore,APAC,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0016645,Processing Error,2025-10-27,Hong Kong,APAC,Operations,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0016648,Processing Error,2025-10-27,Hong Kong,APAC,Operations,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0016683,High-Risk Transaction,2025-10-28,New York,Americas,Front Office,,Core Banking,Low,Missing Mandatory Fields
+E0016687,Data Quality Issue,2025-10-28,New York,Americas,Operations,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0016711,High-Risk Transaction,2025-10-29,Zurich,EMEA,Front Office,Advisory,CRM,Low,Missing Mandatory Fields
+E0016718,Overdue Task,2025-10-29,Zurich,EMEA,Front Office,Lombard Lending,Workflow,Medium,Missing Mandatory Fields
+E0016719,High-Risk Transaction,2025-10-29,Zurich,EMEA,Front Office,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0016743,Processing Error,2025-10-29,New York,Americas,Operations,Lombard Lending,Monitoring Tool,Medium,Missing Mandatory Fields
+E0016745,Data Quality Issue,2025-10-29,Singapore,APAC,Front Office,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0016750,Data Quality Issue,2025-10-29,Singapore,APAC,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0016758,Incident,2025-10-30,Zurich,EMEA,Operations,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0016759,Data Quality Issue,2025-10-30,Zurich,EMEA,Client Onboarding,Discretionary,CRM,High,Missing Mandatory Fields
+E0016766,Overdue Task,2025-10-30,Zurich,EMEA,Front Office,Structured Products,Workflow,Medium,Missing Mandatory Fields
+E0016771,Data Quality Issue,2025-10-30,Geneva,EMEA,Front Office,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0016772,Processing Error,2025-10-30,Geneva,EMEA,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0016784,Reconciliation Break,2025-10-30,London,EMEA,Operations,Discretionary,Core Banking,Critical,Missing Mandatory Fields
+E0016788,Limit Breach,2025-10-30,London,EMEA,Front Office,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0016809,Processing Error,2025-10-30,Singapore,APAC,Operations,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0016810,Processing Error,2025-10-30,Singapore,APAC,Operations,Lombard Lending,Core Banking,High,Missing Mandatory Fields
+E0016848,Complaint,2025-10-31,London,EMEA,Front Office,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0016908,High-Risk Transaction,2025-11-01,New York,Americas,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0016920,Processing Error,2025-11-01,Hong Kong,APAC,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0016921,Reconciliation Break,2025-11-01,Hong Kong,APAC,Operations,Lombard Lending,CRM,High,Missing Mandatory Fields
+E0016922,Limit Breach,2025-11-02,Zurich,EMEA,Front Office,Advisory,Workflow,Low,Missing Mandatory Fields
+E0016930,Processing Error,2025-11-02,London,EMEA,Operations,Advisory,Email Intake,High,Missing Mandatory Fields
+E0016952,High-Risk Transaction,2025-11-02,Singapore,APAC,Front Office,Structured Products,CRM,Medium,Missing Mandatory Fields
+E0016955,Processing Error,2025-11-02,Hong Kong,APAC,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0016960,Processing Error,2025-11-03,Zurich,EMEA,Operations,Execution-only,Workflow,High,Missing Mandatory Fields
+E0016985,Data Quality Issue,2025-11-03,London,EMEA,Client Onboarding,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0016992,Processing Error,2025-11-03,London,EMEA,Client Onboarding,Structured Products,CRM,Low,Missing Mandatory Fields
+E0017002,Incident,2025-11-03,New York,Americas,Compliance & Controls,Lombard Lending,Monitoring Tool,Medium,Missing Mandatory Fields
+E0017003,High-Risk Transaction,2025-11-03,New York,Americas,Front Office,Structured Products,Email Intake,Medium,Missing Mandatory Fields
+E0017009,Processing Error,2025-11-03,Singapore,APAC,Compliance & Controls,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0017028,High-Risk Transaction,2025-11-04,Zurich,EMEA,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0017040,Data Quality Issue,2025-11-04,London,EMEA,Operations,Advisory,CRM,Medium,Missing Mandatory Fields
+E0017057,Incident,2025-11-04,Singapore,APAC,Front Office,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0017062,Data Quality Issue,2025-11-04,Singapore,APAC,Client Onboarding,Discretionary,CRM,Critical,Missing Mandatory Fields
+E0017063,High-Risk Transaction,2025-11-04,Singapore,APAC,Operations,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0017064,Data Quality Issue,2025-11-04,Singapore,APAC,Client Onboarding,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0017092,Processing Error,2025-11-05,Geneva,EMEA,Operations,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0017093,High-Risk Transaction,2025-11-05,Geneva,EMEA,Front Office,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0017097,Overdue Task,2025-11-05,Geneva,EMEA,Client Onboarding,Lombard Lending,Workflow,Medium,Missing Mandatory Fields
+E0017105,Data Quality Issue,2025-11-05,London,EMEA,Front Office,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0017120,Processing Error,2025-11-05,Singapore,APAC,Operations,Advisory,Core Banking,High,Missing Mandatory Fields
+E0017148,Processing Error,2025-11-06,Zurich,EMEA,Operations,Lombard Lending,Core Banking,Low,Missing Mandatory Fields
+E0017157,Processing Error,2025-11-06,London,EMEA,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0017163,Data Quality Issue,2025-11-06,London,EMEA,Operations,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0017172,High-Risk Transaction,2025-11-06,New York,Americas,Front Office,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0017174,Data Quality Issue,2025-11-06,New York,Americas,Operations,Lombard Lending,Email Intake,Medium,Missing Mandatory Fields
+E0017182,Processing Error,2025-11-06,Singapore,APAC,Operations,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0017209,Processing Error,2025-11-07,Zurich,EMEA,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0017215,Processing Error,2025-11-07,Geneva,EMEA,Operations,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0017225,Reconciliation Break,2025-11-07,London,EMEA,Compliance & Controls,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0017226,Overdue Task,2025-11-07,London,EMEA,Compliance & Controls,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0017248,Processing Error,2025-11-07,Singapore,APAC,Front Office,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0017252,High-Risk Transaction,2025-11-07,Singapore,APAC,Front Office,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0017270,Data Quality Issue,2025-11-08,Geneva,EMEA,Client Onboarding,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0017305,Data Quality Issue,2025-11-09,Zurich,EMEA,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0017320,High-Risk Transaction,2025-11-09,London,EMEA,Front Office,Execution-only,Workflow,High,Missing Mandatory Fields
+E0017347,Processing Error,2025-11-10,Geneva,EMEA,Client Onboarding,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0017365,Processing Error,2025-11-10,London,EMEA,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0017379,Processing Error,2025-11-10,Singapore,APAC,Front Office,Advisory,Core Banking,Critical,Missing Mandatory Fields
+E0017391,Processing Error,2025-11-10,Hong Kong,APAC,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0017403,Processing Error,2025-11-11,Zurich,EMEA,Operations,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0017410,Data Quality Issue,2025-11-11,Geneva,EMEA,Client Onboarding,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0017413,High-Risk Transaction,2025-11-11,Geneva,EMEA,Front Office,Lombard Lending,Email Intake,High,Missing Mandatory Fields
+E0017430,Processing Error,2025-11-11,New York,Americas,Operations,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0017444,Data Quality Issue,2025-11-11,New York,Americas,Compliance & Controls,Structured Products,Core Banking,Low,Missing Mandatory Fields
+E0017490,Incident,2025-11-12,New York,Americas,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0017499,Data Quality Issue,2025-11-12,Singapore,APAC,Operations,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0017505,Processing Error,2025-11-12,Hong Kong,APAC,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0017511,Processing Error,2025-11-13,Zurich,EMEA,Front Office,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0017512,High-Risk Transaction,2025-11-13,Zurich,EMEA,Front Office,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0017516,Processing Error,2025-11-13,Zurich,EMEA,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0017539,Incident,2025-11-13,Geneva,EMEA,Operations,Lombard Lending,Workflow,High,Missing Mandatory Fields
+E0017547,Reconciliation Break,2025-11-13,London,EMEA,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0017556,Data Quality Issue,2025-11-13,New York,Americas,Operations,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0017562,Processing Error,2025-11-13,Singapore,APAC,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0017564,Incident,2025-11-13,Singapore,APAC,Front Office,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0017568,Processing Error,2025-11-13,Singapore,APAC,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0017569,Processing Error,2025-11-13,Singapore,APAC,Front Office,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0017576,KYC Review Overdue,2025-11-13,Hong Kong,APAC,Client Onboarding,Execution-only,Workflow,High,Missing Mandatory Fields
+E0017602,Data Quality Issue,2025-11-14,Geneva,EMEA,Front Office,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0017611,Data Quality Issue,2025-11-14,London,EMEA,Compliance & Controls,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0017622,High-Risk Transaction,2025-11-14,New York,Americas,Client Onboarding,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0017628,Data Quality Issue,2025-11-14,New York,Americas,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0017631,Processing Error,2025-11-14,New York,Americas,Operations,Lombard Lending,Monitoring Tool,Low,Missing Mandatory Fields
+E0017687,Data Quality Issue,2025-11-16,Zurich,EMEA,Operations,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0017722,Processing Error,2025-11-16,Singapore,APAC,Front Office,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0017736,Data Quality Issue,2025-11-17,Geneva,EMEA,Front Office,Structured Products,CRM,Low,Missing Mandatory Fields
+E0017751,High-Risk Transaction,2025-11-17,New York,Americas,Operations,Lombard Lending,CRM,Low,Missing Mandatory Fields
+E0017761,Reconciliation Break,2025-11-17,Hong Kong,APAC,Operations,Advisory,Workflow,Low,Missing Mandatory Fields
+E0017779,High-Risk Transaction,2025-11-18,Zurich,EMEA,Front Office,Structured Products,Workflow,Medium,Missing Mandatory Fields
+E0017788,Processing Error,2025-11-18,Geneva,EMEA,Front Office,Structured Products,CRM,Low,Missing Mandatory Fields
+E0017793,Reconciliation Break,2025-11-18,London,EMEA,Operations,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0017800,High-Risk Transaction,2025-11-18,New York,Americas,Front Office,Discretionary,CRM,High,Missing Mandatory Fields
+E0017807,Reconciliation Break,2025-11-18,New York,Americas,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0017812,Reconciliation Break,2025-11-18,Singapore,APAC,Compliance & Controls,Discretionary,Monitoring Tool,High,Missing Mandatory Fields
+E0017837,Data Quality Issue,2025-11-19,Zurich,EMEA,Client Onboarding,Discretionary,CRM,Low,Missing Mandatory Fields
+E0017842,Processing Error,2025-11-19,Zurich,EMEA,Front Office,Lombard Lending,Email Intake,High,Missing Mandatory Fields
+E0017847,KYC Review Overdue,2025-11-19,Geneva,EMEA,Compliance & Controls,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0017862,Reconciliation Break,2025-11-19,London,EMEA,Compliance & Controls,Execution-only,CRM,Low,Missing Mandatory Fields
+E0017868,Incident,2025-11-19,New York,Americas,Operations,Discretionary,Core Banking,High,Missing Mandatory Fields
+E0017869,Processing Error,2025-11-19,New York,Americas,Operations,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0017870,Processing Error,2025-11-19,New York,Americas,Operations,Discretionary,Monitoring Tool,High,Missing Mandatory Fields
+E0017873,Data Quality Issue,2025-11-19,New York,Americas,Client Onboarding,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0017883,KYC Review Overdue,2025-11-19,Hong Kong,APAC,Client Onboarding,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0017927,Data Quality Issue,2025-11-20,Singapore,APAC,Operations,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0017929,Data Quality Issue,2025-11-20,Singapore,APAC,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0017930,Processing Error,2025-11-20,Singapore,APAC,Operations,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0017932,Overdue Task,2025-11-20,Singapore,APAC,Operations,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0017943,Data Quality Issue,2025-11-21,Zurich,EMEA,Front Office,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0017953,Processing Error,2025-11-21,Zurich,EMEA,Operations,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0017969,Processing Error,2025-11-21,London,EMEA,Operations,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0017985,Overdue Task,2025-11-21,Singapore,APAC,Operations,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0017999,Data Quality Issue,2025-11-22,Zurich,EMEA,Compliance & Controls,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0018009,Processing Error,2025-11-22,London,EMEA,Operations,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0018053,Data Quality Issue,2025-11-23,Geneva,EMEA,Client Onboarding,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0018070,Data Quality Issue,2025-11-23,New York,Americas,Client Onboarding,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0018075,High-Risk Transaction,2025-11-23,Singapore,APAC,Front Office,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0018078,Data Quality Issue,2025-11-23,Singapore,APAC,Operations,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0018089,Processing Error,2025-11-24,Zurich,EMEA,Operations,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0018095,Processing Error,2025-11-24,Zurich,EMEA,Front Office,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0018115,Overdue Task,2025-11-24,Geneva,EMEA,Front Office,Lombard Lending,Workflow,Medium,Missing Mandatory Fields
+E0018118,Processing Error,2025-11-24,London,EMEA,Client Onboarding,Advisory,Workflow,High,Missing Mandatory Fields
+E0018119,Processing Error,2025-11-24,London,EMEA,Operations,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0018122,Processing Error,2025-11-24,London,EMEA,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0018132,Incident,2025-11-24,New York,Americas,Client Onboarding,Discretionary,CRM,Low,Missing Mandatory Fields
+E0018157,Processing Error,2025-11-24,Hong Kong,APAC,Operations,Execution-only,Core Banking,Critical,Missing Mandatory Fields
+E0018161,Data Quality Issue,2025-11-25,Zurich,EMEA,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0018168,Data Quality Issue,2025-11-25,Zurich,EMEA,Client Onboarding,Discretionary,CRM,High,Missing Mandatory Fields
+E0018172,Data Quality Issue,2025-11-25,Geneva,EMEA,Client Onboarding,Advisory,Monitoring Tool,Medium,Missing Mandatory Fields
+E0018198,Data Quality Issue,2025-11-25,Singapore,APAC,Compliance & Controls,Structured Products,CRM,Medium,Missing Mandatory Fields
+E0018209,High-Risk Transaction,2025-11-26,Geneva,EMEA,Front Office,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0018213,High-Risk Transaction,2025-11-26,Geneva,EMEA,Front Office,Lombard Lending,CRM,Critical,Missing Mandatory Fields
+E0018221,High-Risk Transaction,2025-11-26,London,EMEA,Front Office,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0018227,Processing Error,2025-11-26,London,EMEA,Operations,Execution-only,Monitoring Tool,High,Missing Mandatory Fields
+E0018242,Reconciliation Break,2025-11-26,New York,Americas,Front Office,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0018261,Data Quality Issue,2025-11-27,Zurich,EMEA,Client Onboarding,Advisory,Email Intake,High,Missing Mandatory Fields
+E0018270,Data Quality Issue,2025-11-27,Zurich,EMEA,Operations,Structured Products,CRM,Low,Missing Mandatory Fields
+E0018348,Data Quality Issue,2025-11-28,New York,Americas,Operations,Discretionary,Core Banking,High,Missing Mandatory Fields
+E0018357,Limit Breach,2025-11-28,New York,Americas,Front Office,Structured Products,Monitoring Tool,Medium,Missing Mandatory Fields
+E0018366,Processing Error,2025-11-28,Hong Kong,APAC,Operations,Advisory,CRM,Low,Missing Mandatory Fields
+E0018385,Data Quality Issue,2025-11-29,Zurich,EMEA,Operations,Structured Products,Monitoring Tool,Medium,Missing Mandatory Fields
+E0018415,Data Quality Issue,2025-11-29,Singapore,APAC,Compliance & Controls,Structured Products,Monitoring Tool,Low,Missing Mandatory Fields
+E0018431,Reconciliation Break,2025-11-30,London,EMEA,Operations,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0018433,High-Risk Transaction,2025-11-30,London,EMEA,Front Office,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0018459,Reconciliation Break,2025-11-30,Hong Kong,APAC,Operations,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0018499,Processing Error,2025-12-01,New York,Americas,Operations,Advisory,Workflow,Low,Missing Mandatory Fields
+E0018522,Reconciliation Break,2025-12-01,Singapore,APAC,Front Office,Structured Products,Workflow,Medium,Missing Mandatory Fields
+E0018544,Processing Error,2025-12-02,London,EMEA,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0018553,Incident,2025-12-02,New York,Americas,Operations,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0018557,Incident,2025-12-02,New York,Americas,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0018611,KYC Review Overdue,2025-12-03,London,EMEA,Operations,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0018625,Data Quality Issue,2025-12-03,New York,Americas,Front Office,Lombard Lending,Workflow,Low,Missing Mandatory Fields
+E0018626,Data Quality Issue,2025-12-03,New York,Americas,Front Office,Lombard Lending,Email Intake,Medium,Missing Mandatory Fields
+E0018651,Processing Error,2025-12-04,Geneva,EMEA,Operations,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0018657,Processing Error,2025-12-04,London,EMEA,Operations,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0018664,Incident,2025-12-04,London,EMEA,Front Office,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0018666,High-Risk Transaction,2025-12-04,London,EMEA,Front Office,Lombard Lending,CRM,Critical,Missing Mandatory Fields
+E0018677,Incident,2025-12-04,New York,Americas,Operations,Lombard Lending,CRM,Medium,Missing Mandatory Fields
+E0018697,Data Quality Issue,2025-12-05,Zurich,EMEA,Client Onboarding,Advisory,Email Intake,High,Missing Mandatory Fields
+E0018698,Complaint,2025-12-05,Zurich,EMEA,Client Onboarding,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0018719,Processing Error,2025-12-05,London,EMEA,Operations,Advisory,Workflow,Low,Missing Mandatory Fields
+E0018724,High-Risk Transaction,2025-12-05,London,EMEA,Front Office,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0018741,Overdue Task,2025-12-05,Singapore,APAC,Front Office,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0018759,Data Quality Issue,2025-12-06,Geneva,EMEA,Front Office,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0018801,Incident,2025-12-07,Geneva,EMEA,Operations,Advisory,Core Banking,High,Missing Mandatory Fields
+E0018806,Processing Error,2025-12-07,Geneva,EMEA,Operations,Lombard Lending,Workflow,Medium,Missing Mandatory Fields
+E0018808,Overdue Task,2025-12-07,London,EMEA,Front Office,Advisory,Workflow,Low,Missing Mandatory Fields
+E0018813,Complaint,2025-12-07,London,EMEA,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0018816,Data Quality Issue,2025-12-07,London,EMEA,Client Onboarding,Execution-only,Core Banking,Critical,Missing Mandatory Fields
+E0018831,Reconciliation Break,2025-12-07,New York,Americas,Front Office,Structured Products,CRM,Medium,Missing Mandatory Fields
+E0018834,Overdue Task,2025-12-07,Singapore,APAC,Front Office,Lombard Lending,Email Intake,Medium,Missing Mandatory Fields
+E0018838,Data Quality Issue,2025-12-08,Zurich,EMEA,Front Office,Advisory,Workflow,High,Missing Mandatory Fields
+E0018847,Processing Error,2025-12-08,Zurich,EMEA,Operations,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0018852,Data Quality Issue,2025-12-08,Zurich,EMEA,Client Onboarding,Execution-only,Core Banking,Medium,Missing Mandatory Fields
+E0018877,Data Quality Issue,2025-12-08,Singapore,APAC,Front Office,Structured Products,Monitoring Tool,Medium,Missing Mandatory Fields
+E0018893,Data Quality Issue,2025-12-09,Geneva,EMEA,Operations,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0018897,Data Quality Issue,2025-12-09,Geneva,EMEA,Client Onboarding,Lombard Lending,Email Intake,High,Missing Mandatory Fields
+E0018900,Data Quality Issue,2025-12-09,London,EMEA,Operations,Advisory,CRM,Medium,Missing Mandatory Fields
+E0018904,Processing Error,2025-12-09,London,EMEA,Operations,Execution-only,Monitoring Tool,Low,Missing Mandatory Fields
+E0018928,Data Quality Issue,2025-12-09,Hong Kong,APAC,Compliance & Controls,Advisory,CRM,Low,Missing Mandatory Fields
+E0018947,Processing Error,2025-12-10,Geneva,EMEA,Operations,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0018959,Processing Error,2025-12-10,London,EMEA,Operations,Discretionary,Workflow,Medium,Missing Mandatory Fields
+E0018979,Data Quality Issue,2025-12-10,Singapore,APAC,Operations,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0019010,Data Quality Issue,2025-12-11,London,EMEA,Front Office,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0019015,Reconciliation Break,2025-12-11,London,EMEA,Operations,Execution-only,Monitoring Tool,Medium,Missing Mandatory Fields
+E0019021,Data Quality Issue,2025-12-11,New York,Americas,Operations,Advisory,Email Intake,Medium,Missing Mandatory Fields
+E0019025,Processing Error,2025-12-11,New York,Americas,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0019060,Processing Error,2025-12-12,Geneva,EMEA,Operations,Lombard Lending,CRM,Medium,Missing Mandatory Fields
+E0019061,Data Quality Issue,2025-12-12,London,EMEA,Front Office,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0019062,Processing Error,2025-12-12,London,EMEA,Operations,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0019074,Data Quality Issue,2025-12-12,London,EMEA,Client Onboarding,Execution-only,Monitoring Tool,High,Missing Mandatory Fields
+E0019130,Processing Error,2025-12-13,London,EMEA,Operations,Structured Products,Core Banking,Critical,Missing Mandatory Fields
+E0019135,Overdue Task,2025-12-13,New York,Americas,Front Office,Execution-only,Email Intake,Medium,Missing Mandatory Fields
+E0019144,Processing Error,2025-12-13,Hong Kong,APAC,Operations,Advisory,Workflow,High,Missing Mandatory Fields
+E0019163,Data Quality Issue,2025-12-14,Geneva,EMEA,Operations,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0019171,Data Quality Issue,2025-12-14,London,EMEA,Front Office,Discretionary,Email Intake,Medium,Missing Mandatory Fields
+E0019174,Overdue Task,2025-12-14,London,EMEA,Front Office,Lombard Lending,CRM,Medium,Missing Mandatory Fields
+E0019197,Incident,2025-12-15,Zurich,EMEA,Operations,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0019240,High-Risk Transaction,2025-12-15,London,EMEA,Front Office,Structured Products,CRM,High,Missing Mandatory Fields
+E0019242,Limit Breach,2025-12-15,New York,Americas,Front Office,Advisory,Workflow,High,Missing Mandatory Fields
+E0019290,Overdue Task,2025-12-16,London,EMEA,Client Onboarding,Discretionary,Email Intake,Low,Missing Mandatory Fields
+E0019294,Processing Error,2025-12-16,London,EMEA,Operations,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0019305,Processing Error,2025-12-16,New York,Americas,Front Office,Execution-only,Core Banking,Low,Missing Mandatory Fields
+E0019329,Data Quality Issue,2025-12-17,Zurich,EMEA,Operations,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0019348,Processing Error,2025-12-17,Geneva,EMEA,Operations,Structured Products,Monitoring Tool,Low,Missing Mandatory Fields
+E0019352,Data Quality Issue,2025-12-17,London,EMEA,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0019357,Data Quality Issue,2025-12-17,New York,Americas,Client Onboarding,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0019371,Complaint,2025-12-17,Singapore,APAC,Front Office,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0019387,Processing Error,2025-12-18,Zurich,EMEA,Operations,Advisory,CRM,Low,Missing Mandatory Fields
+E0019435,Data Quality Issue,2025-12-18,Singapore,APAC,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0019447,High-Risk Transaction,2025-12-18,Hong Kong,APAC,Front Office,Structured Products,Email Intake,Low,Missing Mandatory Fields
+E0019455,Data Quality Issue,2025-12-19,Zurich,EMEA,Client Onboarding,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0019465,Data Quality Issue,2025-12-19,Geneva,EMEA,Client Onboarding,Lombard Lending,CRM,Medium,Missing Mandatory Fields
+E0019476,Reconciliation Break,2025-12-19,New York,Americas,Front Office,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0019480,Overdue Task,2025-12-19,New York,Americas,Client Onboarding,Discretionary,Workflow,Low,Missing Mandatory Fields
+E0019484,Data Quality Issue,2025-12-19,Singapore,APAC,Client Onboarding,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0019516,Processing Error,2025-12-20,New York,Americas,Operations,Advisory,Core Banking,Critical,Missing Mandatory Fields
+E0019517,Processing Error,2025-12-20,New York,Americas,Operations,Discretionary,CRM,Critical,Missing Mandatory Fields
+E0019542,Incident,2025-12-21,Geneva,EMEA,Operations,Discretionary,Monitoring Tool,Low,Missing Mandatory Fields
+E0019572,Limit Breach,2025-12-21,Hong Kong,APAC,Front Office,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0019577,Data Quality Issue,2025-12-22,Zurich,EMEA,Client Onboarding,Advisory,Workflow,Low,Missing Mandatory Fields
+E0019585,High-Risk Transaction,2025-12-22,Geneva,EMEA,Front Office,Execution-only,Workflow,High,Missing Mandatory Fields
+E0019601,Data Quality Issue,2025-12-22,New York,Americas,Front Office,Advisory,CRM,Medium,Missing Mandatory Fields
+E0019605,Data Quality Issue,2025-12-22,New York,Americas,Front Office,Discretionary,Email Intake,High,Missing Mandatory Fields
+E0019617,Processing Error,2025-12-22,Singapore,APAC,Operations,Discretionary,CRM,Low,Missing Mandatory Fields
+E0019620,Complaint,2025-12-22,Singapore,APAC,Front Office,Structured Products,Email Intake,Medium,Missing Mandatory Fields
+E0019637,High-Risk Transaction,2025-12-23,Zurich,EMEA,Front Office,Lombard Lending,Email Intake,Medium,Missing Mandatory Fields
+E0019652,Data Quality Issue,2025-12-23,London,EMEA,Client Onboarding,Discretionary,CRM,Medium,Missing Mandatory Fields
+E0019655,Data Quality Issue,2025-12-23,London,EMEA,Operations,Execution-only,Workflow,Medium,Missing Mandatory Fields
+E0019656,Data Quality Issue,2025-12-23,London,EMEA,Operations,Execution-only,CRM,Low,Missing Mandatory Fields
+E0019665,Processing Error,2025-12-23,New York,Americas,Front Office,Advisory,Workflow,Medium,Missing Mandatory Fields
+E0019668,Data Quality Issue,2025-12-23,New York,Americas,Client Onboarding,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0019674,Complaint,2025-12-23,New York,Americas,Operations,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0019690,Data Quality Issue,2025-12-23,Hong Kong,APAC,Client Onboarding,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0019694,KYC Review Overdue,2025-12-23,Hong Kong,APAC,Compliance & Controls,Discretionary,CRM,Low,Missing Mandatory Fields
+E0019704,High-Risk Transaction,2025-12-24,Zurich,EMEA,Compliance & Controls,Advisory,Core Banking,Medium,Missing Mandatory Fields
+E0019707,Processing Error,2025-12-24,Zurich,EMEA,Operations,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0019729,Processing Error,2025-12-24,Geneva,EMEA,Operations,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0019737,Processing Error,2025-12-24,London,EMEA,Operations,Advisory,CRM,Low,Missing Mandatory Fields
+E0019738,Reconciliation Break,2025-12-24,London,EMEA,Operations,Advisory,Core Banking,Low,Missing Mandatory Fields
+E0019739,Data Quality Issue,2025-12-24,London,EMEA,Operations,Advisory,Monitoring Tool,Low,Missing Mandatory Fields
+E0019761,High-Risk Transaction,2025-12-24,Singapore,APAC,Front Office,Execution-only,Core Banking,Critical,Missing Mandatory Fields
+E0019776,Processing Error,2025-12-25,,,Operations,Discretionary,Monitoring Tool,Medium,Missing Mandatory Fields
+E0019828,High-Risk Transaction,2025-12-25,Hong Kong,APAC,Front Office,Advisory,Email Intake,Low,Missing Mandatory Fields
+E0019831,High-Risk Transaction,2025-12-25,Hong Kong,APAC,Compliance & Controls,Execution-only,Core Banking,High,Missing Mandatory Fields
+E0019865,Processing Error,2025-12-26,London,EMEA,Operations,Execution-only,Workflow,Low,Missing Mandatory Fields
+E0019879,Processing Error,2025-12-26,New York,Americas,Operations,Lombard Lending,Email Intake,Low,Missing Mandatory Fields
+E0019957,High-Risk Transaction,2025-12-28,London,EMEA,Front Office,Lombard Lending,Core Banking,Medium,Missing Mandatory Fields
+E0019985,KYC Review Overdue,2025-12-29,Zurich,EMEA,Front Office,Discretionary,Core Banking,Medium,Missing Mandatory Fields
+E0019986,Data Quality Issue,2025-12-29,Zurich,EMEA,Operations,Discretionary,Core Banking,Low,Missing Mandatory Fields
+E0019989,High-Risk Transaction,2025-12-29,Zurich,EMEA,Front Office,Execution-only,Email Intake,Low,Missing Mandatory Fields
+E0020030,Processing Error,2025-12-29,New York,Americas,Operations,Structured Products,Core Banking,High,Missing Mandatory Fields
+E0020085,High-Risk Transaction,2025-12-30,Hong Kong,APAC,Front Office,Execution-only,Email Intake,High,Missing Mandatory Fields
+E0020090,KYC Review Overdue,2025-12-30,Hong Kong,APAC,Client Onboarding,Lombard Lending,Workflow,Medium,Missing Mandatory Fields
+E0020129,Processing Error,2025-12-31,New York,Americas,Front Office,Execution-only,CRM,Medium,Missing Mandatory Fields
+E0020133,Reconciliation Break,2025-12-31,New York,Americas,Operations,Execution-only,Workflow,High,Missing Mandatory Fields

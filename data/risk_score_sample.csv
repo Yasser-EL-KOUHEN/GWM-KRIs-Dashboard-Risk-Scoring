@@ -1,0 +1,1441 @@
+YearMonth,Region,BookingLocation,Team,Product,RiskScore_0to100
+2025-01,APAC,Hong Kong,Client Onboarding,Advisory,19.545454545454543
+2025-01,APAC,Hong Kong,Client Onboarding,Discretionary,3.181818181818182
+2025-01,APAC,Hong Kong,Client Onboarding,Execution-only,24.545454545454547
+2025-01,APAC,Hong Kong,Client Onboarding,Lombard Lending,5.454545454545453
+2025-01,APAC,Hong Kong,Client Onboarding,Structured Products,20.454545454545453
+2025-01,APAC,Hong Kong,Compliance & Controls,Advisory,10.0
+2025-01,APAC,Hong Kong,Compliance & Controls,Discretionary,3.181818181818182
+2025-01,APAC,Hong Kong,Compliance & Controls,Execution-only,7.2727272727272725
+2025-01,APAC,Hong Kong,Compliance & Controls,Lombard Lending,5.454545454545453
+2025-01,APAC,Hong Kong,Compliance & Controls,Structured Products,5.454545454545453
+2025-01,APAC,Hong Kong,Front Office,Advisory,16.36363636363636
+2025-01,APAC,Hong Kong,Front Office,Discretionary,11.363636363636363
+2025-01,APAC,Hong Kong,Front Office,Execution-only,37.72727272727272
+2025-01,APAC,Hong Kong,Front Office,Lombard Lending,26.363636363636367
+2025-01,APAC,Hong Kong,Front Office,Structured Products,31.363636363636367
+2025-01,APAC,Hong Kong,Operations,Advisory,29.54545454545454
+2025-01,APAC,Hong Kong,Operations,Discretionary,30.000000000000004
+2025-01,APAC,Hong Kong,Operations,Execution-only,28.636363636363633
+2025-01,APAC,Hong Kong,Operations,Lombard Lending,21.36363636363636
+2025-01,APAC,Hong Kong,Operations,Structured Products,33.18181818181819
+2025-01,APAC,Singapore,Client Onboarding,Advisory,10.909090909090907
+2025-01,APAC,Singapore,Client Onboarding,Discretionary,24.545454545454547
+2025-01,APAC,Singapore,Client Onboarding,Execution-only,3.6363636363636362
+2025-01,APAC,Singapore,Client Onboarding,Lombard Lending,8.636363636363635
+2025-01,APAC,Singapore,Client Onboarding,Structured Products,0.0
+2025-01,APAC,Singapore,Compliance & Controls,Advisory,25.90909090909091
+2025-01,APAC,Singapore,Compliance & Controls,Discretionary,25.454545454545457
+2025-01,APAC,Singapore,Compliance & Controls,Execution-only,23.636363636363637
+2025-01,APAC,Singapore,Compliance & Controls,Lombard Lending,0.0
+2025-01,APAC,Singapore,Compliance & Controls,Structured Products,0.0
+2025-01,APAC,Singapore,Front Office,Advisory,17.727272727272727
+2025-01,APAC,Singapore,Front Office,Discretionary,31.818181818181824
+2025-01,APAC,Singapore,Front Office,Execution-only,13.181818181818183
+2025-01,APAC,Singapore,Front Office,Lombard Lending,15.909090909090908
+2025-01,APAC,Singapore,Front Office,Structured Products,20.454545454545453
+2025-01,APAC,Singapore,Operations,Advisory,30.000000000000004
+2025-01,APAC,Singapore,Operations,Discretionary,30.000000000000004
+2025-01,APAC,Singapore,Operations,Execution-only,21.818181818181813
+2025-01,APAC,Singapore,Operations,Lombard Lending,35.45454545454545
+2025-01,APAC,Singapore,Operations,Structured Products,17.727272727272727
+2025-01,Americas,New York,Client Onboarding,Advisory,18.636363636363637
+2025-01,Americas,New York,Client Onboarding,Discretionary,12.272727272727273
+2025-01,Americas,New York,Client Onboarding,Execution-only,16.818181818181817
+2025-01,Americas,New York,Client Onboarding,Lombard Lending,19.545454545454543
+2025-01,Americas,New York,Client Onboarding,Structured Products,14.545454545454545
+2025-01,Americas,New York,Compliance & Controls,Advisory,8.636363636363635
+2025-01,Americas,New York,Compliance & Controls,Discretionary,2.7272727272727266
+2025-01,Americas,New York,Compliance & Controls,Execution-only,19.09090909090909
+2025-01,Americas,New York,Compliance & Controls,Lombard Lending,3.6363636363636362
+2025-01,Americas,New York,Compliance & Controls,Structured Products,24.545454545454547
+2025-01,Americas,New York,Front Office,Advisory,23.18181818181818
+2025-01,Americas,New York,Front Office,Discretionary,6.363636363636364
+2025-01,Americas,New York,Front Office,Execution-only,24.09090909090909
+2025-01,Americas,New York,Front Office,Lombard Lending,21.36363636363636
+2025-01,Americas,New York,Front Office,Structured Products,15.909090909090908
+2025-01,Americas,New York,Operations,Advisory,30.454545454545457
+2025-01,Americas,New York,Operations,Discretionary,36.81818181818181
+2025-01,Americas,New York,Operations,Execution-only,24.545454545454547
+2025-01,Americas,New York,Operations,Lombard Lending,36.36363636363637
+2025-01,Americas,New York,Operations,Structured Products,11.818181818181818
+2025-01,EMEA,Geneva,Client Onboarding,Advisory,5.454545454545453
+2025-01,EMEA,Geneva,Client Onboarding,Discretionary,5.454545454545453
+2025-01,EMEA,Geneva,Client Onboarding,Execution-only,8.636363636363635
+2025-01,EMEA,Geneva,Client Onboarding,Lombard Lending,12.727272727272728
+2025-01,EMEA,Geneva,Client Onboarding,Structured Products,0.0
+2025-01,EMEA,Geneva,Compliance & Controls,Advisory,10.909090909090907
+2025-01,EMEA,Geneva,Compliance & Controls,Discretionary,5.454545454545453
+2025-01,EMEA,Geneva,Compliance & Controls,Execution-only,13.636363636363638
+2025-01,EMEA,Geneva,Compliance & Controls,Lombard Lending,7.2727272727272725
+2025-01,EMEA,Geneva,Compliance & Controls,Structured Products,7.2727272727272725
+2025-01,EMEA,Geneva,Front Office,Advisory,6.363636363636364
+2025-01,EMEA,Geneva,Front Office,Discretionary,19.545454545454543
+2025-01,EMEA,Geneva,Front Office,Execution-only,15.909090909090907
+2025-01,EMEA,Geneva,Front Office,Lombard Lending,10.454545454545453
+2025-01,EMEA,Geneva,Front Office,Structured Products,9.090909090909092
+2025-01,EMEA,Geneva,Operations,Advisory,23.636363636363637
+2025-01,EMEA,Geneva,Operations,Discretionary,23.636363636363637
+2025-01,EMEA,Geneva,Operations,Execution-only,25.0
+2025-01,EMEA,Geneva,Operations,Lombard Lending,17.27272727272727
+2025-01,EMEA,Geneva,Operations,Structured Products,23.636363636363637
+2025-01,EMEA,London,Client Onboarding,Advisory,23.18181818181818
+2025-01,EMEA,London,Client Onboarding,Discretionary,14.545454545454545
+2025-01,EMEA,London,Client Onboarding,Execution-only,18.181818181818183
+2025-01,EMEA,London,Client Onboarding,Lombard Lending,5.454545454545453
+2025-01,EMEA,London,Client Onboarding,Structured Products,13.18181818181818
+2025-01,EMEA,London,Compliance & Controls,Advisory,16.818181818181817
+2025-01,EMEA,London,Compliance & Controls,Discretionary,2.7272727272727266
+2025-01,EMEA,London,Compliance & Controls,Execution-only,38.63636363636363
+2025-01,EMEA,London,Compliance & Controls,Lombard Lending,16.818181818181817
+2025-01,EMEA,London,Compliance & Controls,Structured Products,5.454545454545453
+2025-01,EMEA,London,Front Office,Advisory,25.0
+2025-01,EMEA,London,Front Office,Discretionary,15.909090909090907
+2025-01,EMEA,London,Front Office,Execution-only,20.454545454545457
+2025-01,EMEA,London,Front Office,Lombard Lending,18.181818181818183
+2025-01,EMEA,London,Front Office,Structured Products,17.27272727272727
+2025-01,EMEA,London,Operations,Advisory,30.000000000000004
+2025-01,EMEA,London,Operations,Discretionary,27.727272727272723
+2025-01,EMEA,London,Operations,Execution-only,36.36363636363637
+2025-01,EMEA,London,Operations,Lombard Lending,21.36363636363636
+2025-01,EMEA,London,Operations,Structured Products,22.272727272727273
+2025-01,EMEA,Zurich,Client Onboarding,Advisory,20.909090909090907
+2025-01,EMEA,Zurich,Client Onboarding,Discretionary,21.818181818181813
+2025-01,EMEA,Zurich,Client Onboarding,Execution-only,16.36363636363636
+2025-01,EMEA,Zurich,Client Onboarding,Lombard Lending,19.545454545454543
+2025-01,EMEA,Zurich,Client Onboarding,Structured Products,19.545454545454543
+2025-01,EMEA,Zurich,Compliance & Controls,Advisory,8.18181818181818
+2025-01,EMEA,Zurich,Compliance & Controls,Discretionary,16.36363636363636
+2025-01,EMEA,Zurich,Compliance & Controls,Execution-only,8.636363636363635
+2025-01,EMEA,Zurich,Compliance & Controls,Lombard Lending,5.454545454545453
+2025-01,EMEA,Zurich,Compliance & Controls,Structured Products,7.2727272727272725
+2025-01,EMEA,Zurich,Front Office,Advisory,15.454545454545453
+2025-01,EMEA,Zurich,Front Office,Discretionary,26.363636363636367
+2025-01,EMEA,Zurich,Front Office,Execution-only,16.36363636363636
+2025-01,EMEA,Zurich,Front Office,Lombard Lending,8.636363636363635
+2025-01,EMEA,Zurich,Front Office,Structured Products,29.54545454545454
+2025-01,EMEA,Zurich,Operations,Advisory,19.09090909090909
+2025-01,EMEA,Zurich,Operations,Discretionary,22.727272727272727
+2025-01,EMEA,Zurich,Operations,Execution-only,23.636363636363637
+2025-01,EMEA,Zurich,Operations,Lombard Lending,13.636363636363635
+2025-01,EMEA,Zurich,Operations,Structured Products,24.09090909090909
+2025-02,APAC,Hong Kong,Client Onboarding,Advisory,10.0
+2025-02,APAC,Hong Kong,Client Onboarding,Discretionary,8.636363636363635
+2025-02,APAC,Hong Kong,Client Onboarding,Execution-only,19.545454545454543
+2025-02,APAC,Hong Kong,Client Onboarding,Lombard Lending,10.0
+2025-02,APAC,Hong Kong,Client Onboarding,Structured Products,10.909090909090907
+2025-02,APAC,Hong Kong,Compliance & Controls,Advisory,5.454545454545453
+2025-02,APAC,Hong Kong,Compliance & Controls,Discretionary,0.0
+2025-02,APAC,Hong Kong,Compliance & Controls,Execution-only,15.909090909090908
+2025-02,APAC,Hong Kong,Compliance & Controls,Lombard Lending,0.0
+2025-02,APAC,Hong Kong,Compliance & Controls,Structured Products,19.090909090909093
+2025-02,APAC,Hong Kong,Front Office,Advisory,9.090909090909092
+2025-02,APAC,Hong Kong,Front Office,Discretionary,26.818181818181813
+2025-02,APAC,Hong Kong,Front Office,Execution-only,39.54545454545455
+2025-02,APAC,Hong Kong,Front Office,Lombard Lending,3.6363636363636362
+2025-02,APAC,Hong Kong,Front Office,Structured Products,12.272727272727273
+2025-02,APAC,Hong Kong,Operations,Advisory,33.63636363636363
+2025-02,APAC,Hong Kong,Operations,Discretionary,22.727272727272727
+2025-02,APAC,Hong Kong,Operations,Execution-only,20.454545454545453
+2025-02,APAC,Hong Kong,Operations,Lombard Lending,19.545454545454543
+2025-02,APAC,Hong Kong,Operations,Structured Products,41.36363636363637
+2025-02,APAC,Singapore,Client Onboarding,Advisory,17.27272727272727
+2025-02,APAC,Singapore,Client Onboarding,Discretionary,6.363636363636364
+2025-02,APAC,Singapore,Client Onboarding,Execution-only,6.818181818181819
+2025-02,APAC,Singapore,Client Onboarding,Lombard Lending,6.363636363636364
+2025-02,APAC,Singapore,Client Onboarding,Structured Products,13.636363636363638
+2025-02,APAC,Singapore,Compliance & Controls,Advisory,16.36363636363636
+2025-02,APAC,Singapore,Compliance & Controls,Discretionary,0.0
+2025-02,APAC,Singapore,Compliance & Controls,Execution-only,23.636363636363637
+2025-02,APAC,Singapore,Compliance & Controls,Lombard Lending,0.0
+2025-02,APAC,Singapore,Compliance & Controls,Structured Products,11.818181818181818
+2025-02,APAC,Singapore,Front Office,Advisory,30.45454545454545
+2025-02,APAC,Singapore,Front Office,Discretionary,16.818181818181817
+2025-02,APAC,Singapore,Front Office,Execution-only,23.636363636363637
+2025-02,APAC,Singapore,Front Office,Lombard Lending,29.090909090909093
+2025-02,APAC,Singapore,Front Office,Structured Products,20.454545454545453
+2025-02,APAC,Singapore,Operations,Advisory,24.09090909090909
+2025-02,APAC,Singapore,Operations,Discretionary,23.636363636363637
+2025-02,APAC,Singapore,Operations,Execution-only,22.727272727272727
+2025-02,APAC,Singapore,Operations,Lombard Lending,19.09090909090909
+2025-02,APAC,Singapore,Operations,Structured Products,24.09090909090909
+2025-02,Americas,New York,Client Onboarding,Advisory,26.363636363636367
+2025-02,Americas,New York,Client Onboarding,Discretionary,21.818181818181813
+2025-02,Americas,New York,Client Onboarding,Execution-only,10.909090909090907
+2025-02,Americas,New York,Client Onboarding,Lombard Lending,2.7272727272727266
+2025-02,Americas,New York,Client Onboarding,Structured Products,19.545454545454543
+2025-02,Americas,New York,Compliance & Controls,Advisory,8.18181818181818
+2025-02,Americas,New York,Compliance & Controls,Discretionary,18.636363636363633
+2025-02,Americas,New York,Compliance & Controls,Execution-only,14.545454545454545
+2025-02,Americas,New York,Compliance & Controls,Lombard Lending,19.090909090909093
+2025-02,Americas,New York,Compliance & Controls,Structured Products,13.18181818181818
+2025-02,Americas,New York,Front Office,Advisory,24.09090909090909
+2025-02,Americas,New York,Front Office,Discretionary,19.545454545454543
+2025-02,Americas,New York,Front Office,Execution-only,15.909090909090907
+2025-02,Americas,New York,Front Office,Lombard Lending,19.545454545454543
+2025-02,Americas,New York,Front Office,Structured Products,20.909090909090907
+2025-02,Americas,New York,Operations,Advisory,22.727272727272727
+2025-02,Americas,New York,Operations,Discretionary,24.545454545454547
+2025-02,Americas,New York,Operations,Execution-only,41.81818181818181
+2025-02,Americas,New York,Operations,Lombard Lending,36.36363636363637
+2025-02,Americas,New York,Operations,Structured Products,36.36363636363637
+2025-02,EMEA,Geneva,Client Onboarding,Advisory,11.818181818181818
+2025-02,EMEA,Geneva,Client Onboarding,Discretionary,11.818181818181818
+2025-02,EMEA,Geneva,Client Onboarding,Execution-only,23.18181818181818
+2025-02,EMEA,Geneva,Client Onboarding,Lombard Lending,15.0
+2025-02,EMEA,Geneva,Client Onboarding,Structured Products,29.54545454545454
+2025-02,EMEA,Geneva,Compliance & Controls,Advisory,3.6363636363636362
+2025-02,EMEA,Geneva,Compliance & Controls,Discretionary,10.454545454545453
+2025-02,EMEA,Geneva,Compliance & Controls,Execution-only,5.909090909090909
+2025-02,EMEA,Geneva,Compliance & Controls,Lombard Lending,11.818181818181818
+2025-02,EMEA,Geneva,Compliance & Controls,Structured Products,13.18181818181818
+2025-02,EMEA,Geneva,Front Office,Advisory,16.818181818181817
+2025-02,EMEA,Geneva,Front Office,Discretionary,16.36363636363636
+2025-02,EMEA,Geneva,Front Office,Execution-only,25.454545454545457
+2025-02,EMEA,Geneva,Front Office,Lombard Lending,9.090909090909092
+2025-02,EMEA,Geneva,Front Office,Structured Products,10.454545454545453
+2025-02,EMEA,Geneva,Operations,Advisory,40.9090909090909
+2025-02,EMEA,Geneva,Operations,Discretionary,39.09090909090909
+2025-02,EMEA,Geneva,Operations,Execution-only,28.181818181818187
+2025-02,EMEA,Geneva,Operations,Lombard Lending,33.18181818181819
+2025-02,EMEA,Geneva,Operations,Structured Products,21.818181818181813
+2025-02,EMEA,London,Client Onboarding,Advisory,12.272727272727273
+2025-02,EMEA,London,Client Onboarding,Discretionary,21.818181818181817
+2025-02,EMEA,London,Client Onboarding,Execution-only,29.54545454545454
+2025-02,EMEA,London,Client Onboarding,Lombard Lending,22.272727272727273
+2025-02,EMEA,London,Client Onboarding,Structured Products,34.09090909090909
+2025-02,EMEA,London,Compliance & Controls,Advisory,23.636363636363637
+2025-02,EMEA,London,Compliance & Controls,Discretionary,11.363636363636363
+2025-02,EMEA,London,Compliance & Controls,Execution-only,30.909090909090907
+2025-02,EMEA,London,Compliance & Controls,Lombard Lending,10.909090909090907
+2025-02,EMEA,London,Compliance & Controls,Structured Products,20.454545454545453
+2025-02,EMEA,London,Front Office,Advisory,17.27272727272727
+2025-02,EMEA,London,Front Office,Discretionary,14.09090909090909
+2025-02,EMEA,London,Front Office,Execution-only,25.0
+2025-02,EMEA,London,Front Office,Lombard Lending,17.27272727272727
+2025-02,EMEA,London,Front Office,Structured Products,12.727272727272728
+2025-02,EMEA,London,Operations,Advisory,25.454545454545457
+2025-02,EMEA,London,Operations,Discretionary,16.36363636363636
+2025-02,EMEA,London,Operations,Execution-only,29.09090909090909
+2025-02,EMEA,London,Operations,Lombard Lending,31.818181818181813
+2025-02,EMEA,London,Operations,Structured Products,17.27272727272727
+2025-02,EMEA,Zurich,Client Onboarding,Advisory,6.818181818181819
+2025-02,EMEA,Zurich,Client Onboarding,Discretionary,25.90909090909091
+2025-02,EMEA,Zurich,Client Onboarding,Execution-only,29.09090909090909
+2025-02,EMEA,Zurich,Client Onboarding,Lombard Lending,5.454545454545453
+2025-02,EMEA,Zurich,Client Onboarding,Structured Products,8.636363636363635
+2025-02,EMEA,Zurich,Compliance & Controls,Advisory,6.818181818181819
+2025-02,EMEA,Zurich,Compliance & Controls,Discretionary,15.0
+2025-02,EMEA,Zurich,Compliance & Controls,Execution-only,3.6363636363636362
+2025-02,EMEA,Zurich,Compliance & Controls,Lombard Lending,12.727272727272728
+2025-02,EMEA,Zurich,Compliance & Controls,Structured Products,0.0
+2025-02,EMEA,Zurich,Front Office,Advisory,15.909090909090907
+2025-02,EMEA,Zurich,Front Office,Discretionary,23.636363636363637
+2025-02,EMEA,Zurich,Front Office,Execution-only,25.0
+2025-02,EMEA,Zurich,Front Office,Lombard Lending,10.454545454545453
+2025-02,EMEA,Zurich,Front Office,Structured Products,12.727272727272728
+2025-02,EMEA,Zurich,Operations,Advisory,27.727272727272727
+2025-02,EMEA,Zurich,Operations,Discretionary,32.727272727272734
+2025-02,EMEA,Zurich,Operations,Execution-only,30.909090909090914
+2025-02,EMEA,Zurich,Operations,Lombard Lending,17.27272727272727
+2025-02,EMEA,Zurich,Operations,Structured Products,27.27272727272727
+2025-03,APAC,Hong Kong,Client Onboarding,Advisory,11.363636363636363
+2025-03,APAC,Hong Kong,Client Onboarding,Discretionary,35.90909090909091
+2025-03,APAC,Hong Kong,Client Onboarding,Execution-only,33.63636363636364
+2025-03,APAC,Hong Kong,Client Onboarding,Lombard Lending,10.909090909090907
+2025-03,APAC,Hong Kong,Client Onboarding,Structured Products,15.454545454545451
+2025-03,APAC,Hong Kong,Compliance & Controls,Advisory,14.545454545454545
+2025-03,APAC,Hong Kong,Compliance & Controls,Discretionary,5.454545454545453
+2025-03,APAC,Hong Kong,Compliance & Controls,Execution-only,8.18181818181818
+2025-03,APAC,Hong Kong,Compliance & Controls,Lombard Lending,0.0
+2025-03,APAC,Hong Kong,Compliance & Controls,Structured Products,13.636363636363638
+2025-03,APAC,Hong Kong,Front Office,Advisory,20.0
+2025-03,APAC,Hong Kong,Front Office,Discretionary,14.545454545454545
+2025-03,APAC,Hong Kong,Front Office,Execution-only,28.636363636363637
+2025-03,APAC,Hong Kong,Front Office,Lombard Lending,23.636363636363637
+2025-03,APAC,Hong Kong,Front Office,Structured Products,19.09090909090909
+2025-03,APAC,Hong Kong,Operations,Advisory,42.72727272727272
+2025-03,APAC,Hong Kong,Operations,Discretionary,37.72727272727272
+2025-03,APAC,Hong Kong,Operations,Execution-only,56.81818181818181
+2025-03,APAC,Hong Kong,Operations,Lombard Lending,21.36363636363636
+2025-03,APAC,Hong Kong,Operations,Structured Products,35.90909090909091
+2025-03,APAC,Singapore,Client Onboarding,Advisory,14.09090909090909
+2025-03,APAC,Singapore,Client Onboarding,Discretionary,33.18181818181819
+2025-03,APAC,Singapore,Client Onboarding,Execution-only,16.818181818181817
+2025-03,APAC,Singapore,Client Onboarding,Lombard Lending,5.454545454545453
+2025-03,APAC,Singapore,Client Onboarding,Structured Products,6.363636363636364
+2025-03,APAC,Singapore,Compliance & Controls,Advisory,15.454545454545453
+2025-03,APAC,Singapore,Compliance & Controls,Discretionary,5.454545454545453
+2025-03,APAC,Singapore,Compliance & Controls,Execution-only,38.63636363636363
+2025-03,APAC,Singapore,Compliance & Controls,Lombard Lending,0.0
+2025-03,APAC,Singapore,Compliance & Controls,Structured Products,18.636363636363633
+2025-03,APAC,Singapore,Front Office,Advisory,36.81818181818181
+2025-03,APAC,Singapore,Front Office,Discretionary,44.54545454545455
+2025-03,APAC,Singapore,Front Office,Execution-only,21.818181818181813
+2025-03,APAC,Singapore,Front Office,Lombard Lending,10.0
+2025-03,APAC,Singapore,Front Office,Structured Products,30.45454545454545
+2025-03,APAC,Singapore,Operations,Advisory,19.09090909090909
+2025-03,APAC,Singapore,Operations,Discretionary,33.63636363636363
+2025-03,APAC,Singapore,Operations,Execution-only,27.272727272727277
+2025-03,APAC,Singapore,Operations,Lombard Lending,29.54545454545454
+2025-03,APAC,Singapore,Operations,Structured Products,19.545454545454543
+2025-03,Americas,New York,Client Onboarding,Advisory,11.818181818181818
+2025-03,Americas,New York,Client Onboarding,Discretionary,18.636363636363637
+2025-03,Americas,New York,Client Onboarding,Execution-only,22.727272727272727
+2025-03,Americas,New York,Client Onboarding,Lombard Lending,3.181818181818182
+2025-03,Americas,New York,Client Onboarding,Structured Products,0.0
+2025-03,Americas,New York,Compliance & Controls,Advisory,2.7272727272727266
+2025-03,Americas,New York,Compliance & Controls,Discretionary,29.54545454545454
+2025-03,Americas,New York,Compliance & Controls,Execution-only,24.09090909090909
+2025-03,Americas,New York,Compliance & Controls,Lombard Lending,10.909090909090907
+2025-03,Americas,New York,Compliance & Controls,Structured Products,0.0
+2025-03,Americas,New York,Front Office,Advisory,17.27272727272727
+2025-03,Americas,New York,Front Office,Discretionary,33.18181818181818
+2025-03,Americas,New York,Front Office,Execution-only,36.81818181818182
+2025-03,Americas,New York,Front Office,Lombard Lending,26.363636363636367
+2025-03,Americas,New York,Front Office,Structured Products,20.454545454545453
+2025-03,Americas,New York,Operations,Advisory,38.18181818181819
+2025-03,Americas,New York,Operations,Discretionary,37.27272727272727
+2025-03,Americas,New York,Operations,Execution-only,35.45454545454545
+2025-03,Americas,New York,Operations,Lombard Lending,42.272727272727266
+2025-03,Americas,New York,Operations,Structured Products,32.72727272727272
+2025-03,EMEA,Geneva,Client Onboarding,Advisory,21.363636363636363
+2025-03,EMEA,Geneva,Client Onboarding,Discretionary,31.818181818181817
+2025-03,EMEA,Geneva,Client Onboarding,Execution-only,14.545454545454545
+2025-03,EMEA,Geneva,Client Onboarding,Lombard Lending,17.727272727272727
+2025-03,EMEA,Geneva,Client Onboarding,Structured Products,13.636363636363638
+2025-03,EMEA,Geneva,Compliance & Controls,Advisory,19.09090909090909
+2025-03,EMEA,Geneva,Compliance & Controls,Discretionary,14.09090909090909
+2025-03,EMEA,Geneva,Compliance & Controls,Execution-only,0.0
+2025-03,EMEA,Geneva,Compliance & Controls,Lombard Lending,5.454545454545453
+2025-03,EMEA,Geneva,Compliance & Controls,Structured Products,0.0
+2025-03,EMEA,Geneva,Front Office,Advisory,18.636363636363637
+2025-03,EMEA,Geneva,Front Office,Discretionary,31.36363636363637
+2025-03,EMEA,Geneva,Front Office,Execution-only,16.818181818181817
+2025-03,EMEA,Geneva,Front Office,Lombard Lending,17.727272727272727
+2025-03,EMEA,Geneva,Front Office,Structured Products,20.454545454545453
+2025-03,EMEA,Geneva,Operations,Advisory,29.545454545454547
+2025-03,EMEA,Geneva,Operations,Discretionary,33.18181818181819
+2025-03,EMEA,Geneva,Operations,Execution-only,34.99999999999999
+2025-03,EMEA,Geneva,Operations,Lombard Lending,30.000000000000004
+2025-03,EMEA,Geneva,Operations,Structured Products,14.09090909090909
+2025-03,EMEA,London,Client Onboarding,Advisory,20.0
+2025-03,EMEA,London,Client Onboarding,Discretionary,14.09090909090909
+2025-03,EMEA,London,Client Onboarding,Execution-only,35.45454545454546
+2025-03,EMEA,London,Client Onboarding,Lombard Lending,6.363636363636364
+2025-03,EMEA,London,Client Onboarding,Structured Products,24.09090909090909
+2025-03,EMEA,London,Compliance & Controls,Advisory,19.545454545454543
+2025-03,EMEA,London,Compliance & Controls,Discretionary,0.0
+2025-03,EMEA,London,Compliance & Controls,Execution-only,16.36363636363636
+2025-03,EMEA,London,Compliance & Controls,Lombard Lending,18.636363636363633
+2025-03,EMEA,London,Compliance & Controls,Structured Products,17.27272727272727
+2025-03,EMEA,London,Front Office,Advisory,24.545454545454547
+2025-03,EMEA,London,Front Office,Discretionary,32.72727272727272
+2025-03,EMEA,London,Front Office,Execution-only,24.545454545454547
+2025-03,EMEA,London,Front Office,Lombard Lending,46.36363636363636
+2025-03,EMEA,London,Front Office,Structured Products,12.727272727272728
+2025-03,EMEA,London,Operations,Advisory,35.45454545454545
+2025-03,EMEA,London,Operations,Discretionary,19.09090909090909
+2025-03,EMEA,London,Operations,Execution-only,40.0
+2025-03,EMEA,London,Operations,Lombard Lending,24.545454545454547
+2025-03,EMEA,London,Operations,Structured Products,27.27272727272727
+2025-03,EMEA,Zurich,Client Onboarding,Advisory,14.545454545454545
+2025-03,EMEA,Zurich,Client Onboarding,Discretionary,26.81818181818182
+2025-03,EMEA,Zurich,Client Onboarding,Execution-only,36.81818181818181
+2025-03,EMEA,Zurich,Client Onboarding,Lombard Lending,3.6363636363636362
+2025-03,EMEA,Zurich,Client Onboarding,Structured Products,0.0
+2025-03,EMEA,Zurich,Compliance & Controls,Advisory,7.2727272727272725
+2025-03,EMEA,Zurich,Compliance & Controls,Discretionary,36.36363636363636
+2025-03,EMEA,Zurich,Compliance & Controls,Execution-only,8.636363636363635
+2025-03,EMEA,Zurich,Compliance & Controls,Lombard Lending,20.909090909090907
+2025-03,EMEA,Zurich,Compliance & Controls,Structured Products,25.0
+2025-03,EMEA,Zurich,Front Office,Advisory,19.545454545454543
+2025-03,EMEA,Zurich,Front Office,Discretionary,10.0
+2025-03,EMEA,Zurich,Front Office,Execution-only,24.545454545454547
+2025-03,EMEA,Zurich,Front Office,Lombard Lending,6.363636363636364
+2025-03,EMEA,Zurich,Front Office,Structured Products,26.81818181818182
+2025-03,EMEA,Zurich,Operations,Advisory,41.36363636363637
+2025-03,EMEA,Zurich,Operations,Discretionary,22.272727272727273
+2025-03,EMEA,Zurich,Operations,Execution-only,37.27272727272727
+2025-03,EMEA,Zurich,Operations,Lombard Lending,33.18181818181818
+2025-03,EMEA,Zurich,Operations,Structured Products,35.0
+2025-04,APAC,Hong Kong,Client Onboarding,Advisory,24.545454545454547
+2025-04,APAC,Hong Kong,Client Onboarding,Discretionary,28.636363636363637
+2025-04,APAC,Hong Kong,Client Onboarding,Execution-only,37.72727272727273
+2025-04,APAC,Hong Kong,Client Onboarding,Lombard Lending,19.545454545454543
+2025-04,APAC,Hong Kong,Client Onboarding,Structured Products,15.454545454545451
+2025-04,APAC,Hong Kong,Compliance & Controls,Advisory,6.363636363636364
+2025-04,APAC,Hong Kong,Compliance & Controls,Discretionary,40.0
+2025-04,APAC,Hong Kong,Compliance & Controls,Execution-only,20.454545454545453
+2025-04,APAC,Hong Kong,Compliance & Controls,Lombard Lending,5.454545454545453
+2025-04,APAC,Hong Kong,Compliance & Controls,Structured Products,13.636363636363638
+2025-04,APAC,Hong Kong,Front Office,Advisory,25.0
+2025-04,APAC,Hong Kong,Front Office,Discretionary,28.18181818181818
+2025-04,APAC,Hong Kong,Front Office,Execution-only,28.636363636363633
+2025-04,APAC,Hong Kong,Front Office,Lombard Lending,12.727272727272728
+2025-04,APAC,Hong Kong,Front Office,Structured Products,28.18181818181818
+2025-04,APAC,Hong Kong,Operations,Advisory,53.18181818181819
+2025-04,APAC,Hong Kong,Operations,Discretionary,41.81818181818182
+2025-04,APAC,Hong Kong,Operations,Execution-only,36.36363636363637
+2025-04,APAC,Hong Kong,Operations,Lombard Lending,47.27272727272727
+2025-04,APAC,Hong Kong,Operations,Structured Products,22.272727272727273
+2025-04,APAC,Singapore,Client Onboarding,Advisory,13.181818181818183
+2025-04,APAC,Singapore,Client Onboarding,Discretionary,14.545454545454545
+2025-04,APAC,Singapore,Client Onboarding,Execution-only,6.818181818181819
+2025-04,APAC,Singapore,Client Onboarding,Lombard Lending,13.18181818181818
+2025-04,APAC,Singapore,Client Onboarding,Structured Products,11.818181818181818
+2025-04,APAC,Singapore,Compliance & Controls,Advisory,7.2727272727272725
+2025-04,APAC,Singapore,Compliance & Controls,Discretionary,18.636363636363637
+2025-04,APAC,Singapore,Compliance & Controls,Execution-only,26.363636363636367
+2025-04,APAC,Singapore,Compliance & Controls,Lombard Lending,11.818181818181818
+2025-04,APAC,Singapore,Compliance & Controls,Structured Products,24.09090909090909
+2025-04,APAC,Singapore,Front Office,Advisory,30.909090909090903
+2025-04,APAC,Singapore,Front Office,Discretionary,35.45454545454545
+2025-04,APAC,Singapore,Front Office,Execution-only,39.09090909090908
+2025-04,APAC,Singapore,Front Office,Lombard Lending,15.454545454545453
+2025-04,APAC,Singapore,Front Office,Structured Products,24.09090909090909
+2025-04,APAC,Singapore,Operations,Advisory,35.0
+2025-04,APAC,Singapore,Operations,Discretionary,37.72727272727273
+2025-04,APAC,Singapore,Operations,Execution-only,43.63636363636364
+2025-04,APAC,Singapore,Operations,Lombard Lending,36.81818181818181
+2025-04,APAC,Singapore,Operations,Structured Products,9.090909090909092
+2025-04,Americas,New York,Client Onboarding,Advisory,22.272727272727273
+2025-04,Americas,New York,Client Onboarding,Discretionary,8.636363636363635
+2025-04,Americas,New York,Client Onboarding,Execution-only,40.0
+2025-04,Americas,New York,Client Onboarding,Lombard Lending,13.636363636363635
+2025-04,Americas,New York,Client Onboarding,Structured Products,15.454545454545451
+2025-04,Americas,New York,Compliance & Controls,Advisory,19.545454545454543
+2025-04,Americas,New York,Compliance & Controls,Discretionary,37.72727272727272
+2025-04,Americas,New York,Compliance & Controls,Execution-only,20.909090909090907
+2025-04,Americas,New York,Compliance & Controls,Lombard Lending,19.545454545454543
+2025-04,Americas,New York,Compliance & Controls,Structured Products,11.818181818181818
+2025-04,Americas,New York,Front Office,Advisory,42.727272727272734
+2025-04,Americas,New York,Front Office,Discretionary,34.54545454545454
+2025-04,Americas,New York,Front Office,Execution-only,31.363636363636367
+2025-04,Americas,New York,Front Office,Lombard Lending,36.81818181818181
+2025-04,Americas,New York,Front Office,Structured Products,22.727272727272727
+2025-04,Americas,New York,Operations,Advisory,31.818181818181824
+2025-04,Americas,New York,Operations,Discretionary,44.54545454545455
+2025-04,Americas,New York,Operations,Execution-only,37.27272727272727
+2025-04,Americas,New York,Operations,Lombard Lending,36.81818181818181
+2025-04,Americas,New York,Operations,Structured Products,38.18181818181817
+2025-04,EMEA,Geneva,Client Onboarding,Advisory,23.636363636363637
+2025-04,EMEA,Geneva,Client Onboarding,Discretionary,15.0
+2025-04,EMEA,Geneva,Client Onboarding,Execution-only,18.636363636363633
+2025-04,EMEA,Geneva,Client Onboarding,Lombard Lending,30.909090909090907
+2025-04,EMEA,Geneva,Client Onboarding,Structured Products,33.18181818181819
+2025-04,EMEA,Geneva,Compliance & Controls,Advisory,0.0
+2025-04,EMEA,Geneva,Compliance & Controls,Discretionary,16.36363636363636
+2025-04,EMEA,Geneva,Compliance & Controls,Execution-only,21.363636363636363
+2025-04,EMEA,Geneva,Compliance & Controls,Lombard Lending,25.90909090909091
+2025-04,EMEA,Geneva,Compliance & Controls,Structured Products,0.0
+2025-04,EMEA,Geneva,Front Office,Advisory,29.09090909090909
+2025-04,EMEA,Geneva,Front Office,Discretionary,25.90909090909091
+2025-04,EMEA,Geneva,Front Office,Execution-only,19.545454545454543
+2025-04,EMEA,Geneva,Front Office,Lombard Lending,9.090909090909092
+2025-04,EMEA,Geneva,Front Office,Structured Products,25.0
+2025-04,EMEA,Geneva,Operations,Advisory,28.636363636363637
+2025-04,EMEA,Geneva,Operations,Discretionary,22.727272727272727
+2025-04,EMEA,Geneva,Operations,Execution-only,40.45454545454545
+2025-04,EMEA,Geneva,Operations,Lombard Lending,26.36363636363636
+2025-04,EMEA,Geneva,Operations,Structured Products,22.727272727272727
+2025-04,EMEA,London,Client Onboarding,Advisory,17.27272727272727
+2025-04,EMEA,London,Client Onboarding,Discretionary,11.363636363636363
+2025-04,EMEA,London,Client Onboarding,Execution-only,46.818181818181806
+2025-04,EMEA,London,Client Onboarding,Lombard Lending,31.363636363636367
+2025-04,EMEA,London,Client Onboarding,Structured Products,30.0
+2025-04,EMEA,London,Compliance & Controls,Advisory,23.18181818181818
+2025-04,EMEA,London,Compliance & Controls,Discretionary,3.6363636363636362
+2025-04,EMEA,London,Compliance & Controls,Execution-only,27.727272727272727
+2025-04,EMEA,London,Compliance & Controls,Lombard Lending,29.09090909090909
+2025-04,EMEA,London,Compliance & Controls,Structured Products,21.818181818181813
+2025-04,EMEA,London,Front Office,Advisory,13.636363636363635
+2025-04,EMEA,London,Front Office,Discretionary,30.0
+2025-04,EMEA,London,Front Office,Execution-only,28.636363636363637
+2025-04,EMEA,London,Front Office,Lombard Lending,19.545454545454543
+2025-04,EMEA,London,Front Office,Structured Products,33.63636363636363
+2025-04,EMEA,London,Operations,Advisory,34.090909090909086
+2025-04,EMEA,London,Operations,Discretionary,35.45454545454545
+2025-04,EMEA,London,Operations,Execution-only,48.18181818181818
+2025-04,EMEA,London,Operations,Lombard Lending,35.90909090909091
+2025-04,EMEA,London,Operations,Structured Products,33.18181818181818
+2025-04,EMEA,Zurich,Client Onboarding,Advisory,19.545454545454543
+2025-04,EMEA,Zurich,Client Onboarding,Discretionary,23.18181818181818
+2025-04,EMEA,Zurich,Client Onboarding,Execution-only,21.363636363636363
+2025-04,EMEA,Zurich,Client Onboarding,Lombard Lending,0.0
+2025-04,EMEA,Zurich,Client Onboarding,Structured Products,8.636363636363635
+2025-04,EMEA,Zurich,Compliance & Controls,Advisory,37.27272727272727
+2025-04,EMEA,Zurich,Compliance & Controls,Discretionary,9.090909090909092
+2025-04,EMEA,Zurich,Compliance & Controls,Execution-only,25.454545454545457
+2025-04,EMEA,Zurich,Compliance & Controls,Lombard Lending,12.727272727272728
+2025-04,EMEA,Zurich,Compliance & Controls,Structured Products,20.909090909090907
+2025-04,EMEA,Zurich,Front Office,Advisory,12.272727272727273
+2025-04,EMEA,Zurich,Front Office,Discretionary,27.727272727272727
+2025-04,EMEA,Zurich,Front Office,Execution-only,30.454545454545457
+2025-04,EMEA,Zurich,Front Office,Lombard Lending,20.454545454545453
+2025-04,EMEA,Zurich,Front Office,Structured Products,24.545454545454547
+2025-04,EMEA,Zurich,Operations,Advisory,52.27272727272728
+2025-04,EMEA,Zurich,Operations,Discretionary,37.27272727272727
+2025-04,EMEA,Zurich,Operations,Execution-only,38.63636363636363
+2025-04,EMEA,Zurich,Operations,Lombard Lending,32.72727272727272
+2025-04,EMEA,Zurich,Operations,Structured Products,35.0
+2025-05,APAC,Hong Kong,Client Onboarding,Advisory,18.181818181818183
+2025-05,APAC,Hong Kong,Client Onboarding,Discretionary,28.181818181818187
+2025-05,APAC,Hong Kong,Client Onboarding,Execution-only,25.90909090909091
+2025-05,APAC,Hong Kong,Client Onboarding,Lombard Lending,10.0
+2025-05,APAC,Hong Kong,Client Onboarding,Structured Products,27.272727272727277
+2025-05,APAC,Hong Kong,Compliance & Controls,Advisory,12.272727272727273
+2025-05,APAC,Hong Kong,Compliance & Controls,Discretionary,19.09090909090909
+2025-05,APAC,Hong Kong,Compliance & Controls,Execution-only,21.818181818181813
+2025-05,APAC,Hong Kong,Compliance & Controls,Lombard Lending,7.2727272727272725
+2025-05,APAC,Hong Kong,Compliance & Controls,Structured Products,20.90909090909091
+2025-05,APAC,Hong Kong,Front Office,Advisory,27.272727272727266
+2025-05,APAC,Hong Kong,Front Office,Discretionary,24.09090909090909
+2025-05,APAC,Hong Kong,Front Office,Execution-only,34.54545454545454
+2025-05,APAC,Hong Kong,Front Office,Lombard Lending,27.272727272727277
+2025-05,APAC,Hong Kong,Front Office,Structured Products,16.36363636363636
+2025-05,APAC,Hong Kong,Operations,Advisory,41.81818181818182
+2025-05,APAC,Hong Kong,Operations,Discretionary,46.363636363636374
+2025-05,APAC,Hong Kong,Operations,Execution-only,38.18181818181819
+2025-05,APAC,Hong Kong,Operations,Lombard Lending,33.63636363636363
+2025-05,APAC,Hong Kong,Operations,Structured Products,28.636363636363637
+2025-05,APAC,Singapore,Client Onboarding,Advisory,18.636363636363633
+2025-05,APAC,Singapore,Client Onboarding,Discretionary,10.909090909090908
+2025-05,APAC,Singapore,Client Onboarding,Execution-only,19.090909090909093
+2025-05,APAC,Singapore,Client Onboarding,Lombard Lending,6.363636363636364
+2025-05,APAC,Singapore,Client Onboarding,Structured Products,5.454545454545453
+2025-05,APAC,Singapore,Compliance & Controls,Advisory,18.181818181818183
+2025-05,APAC,Singapore,Compliance & Controls,Discretionary,19.09090909090909
+2025-05,APAC,Singapore,Compliance & Controls,Execution-only,30.909090909090907
+2025-05,APAC,Singapore,Compliance & Controls,Lombard Lending,12.727272727272728
+2025-05,APAC,Singapore,Compliance & Controls,Structured Products,13.18181818181818
+2025-05,APAC,Singapore,Front Office,Advisory,15.909090909090907
+2025-05,APAC,Singapore,Front Office,Discretionary,33.63636363636363
+2025-05,APAC,Singapore,Front Office,Execution-only,40.45454545454546
+2025-05,APAC,Singapore,Front Office,Lombard Lending,41.36363636363636
+2025-05,APAC,Singapore,Front Office,Structured Products,9.090909090909092
+2025-05,APAC,Singapore,Operations,Advisory,33.18181818181819
+2025-05,APAC,Singapore,Operations,Discretionary,36.36363636363637
+2025-05,APAC,Singapore,Operations,Execution-only,40.454545454545446
+2025-05,APAC,Singapore,Operations,Lombard Lending,33.18181818181817
+2025-05,APAC,Singapore,Operations,Structured Products,39.09090909090908
+2025-05,Americas,New York,Client Onboarding,Advisory,12.727272727272728
+2025-05,Americas,New York,Client Onboarding,Discretionary,33.18181818181818
+2025-05,Americas,New York,Client Onboarding,Execution-only,35.90909090909091
+2025-05,Americas,New York,Client Onboarding,Lombard Lending,30.454545454545457
+2025-05,Americas,New York,Client Onboarding,Structured Products,15.454545454545453
+2025-05,Americas,New York,Compliance & Controls,Advisory,25.0
+2025-05,Americas,New York,Compliance & Controls,Discretionary,18.181818181818183
+2025-05,Americas,New York,Compliance & Controls,Execution-only,38.63636363636363
+2025-05,Americas,New York,Compliance & Controls,Lombard Lending,9.090909090909092
+2025-05,Americas,New York,Compliance & Controls,Structured Products,12.727272727272728
+2025-05,Americas,New York,Front Office,Advisory,14.545454545454545
+2025-05,Americas,New York,Front Office,Discretionary,37.72727272727273
+2025-05,Americas,New York,Front Office,Execution-only,37.72727272727272
+2025-05,Americas,New York,Front Office,Lombard Lending,30.0
+2025-05,Americas,New York,Front Office,Structured Products,30.0
+2025-05,Americas,New York,Operations,Advisory,36.36363636363637
+2025-05,Americas,New York,Operations,Discretionary,33.18181818181818
+2025-05,Americas,New York,Operations,Execution-only,34.09090909090909
+2025-05,Americas,New York,Operations,Lombard Lending,25.0
+2025-05,Americas,New York,Operations,Structured Products,41.81818181818181
+2025-05,EMEA,Geneva,Client Onboarding,Advisory,27.272727272727277
+2025-05,EMEA,Geneva,Client Onboarding,Discretionary,10.0
+2025-05,EMEA,Geneva,Client Onboarding,Execution-only,27.727272727272727
+2025-05,EMEA,Geneva,Client Onboarding,Lombard Lending,16.36363636363636
+2025-05,EMEA,Geneva,Client Onboarding,Structured Products,23.636363636363637
+2025-05,EMEA,Geneva,Compliance & Controls,Advisory,11.818181818181818
+2025-05,EMEA,Geneva,Compliance & Controls,Discretionary,15.454545454545453
+2025-05,EMEA,Geneva,Compliance & Controls,Execution-only,23.636363636363637
+2025-05,EMEA,Geneva,Compliance & Controls,Lombard Lending,6.363636363636364
+2025-05,EMEA,Geneva,Compliance & Controls,Structured Products,6.363636363636364
+2025-05,EMEA,Geneva,Front Office,Advisory,6.363636363636364
+2025-05,EMEA,Geneva,Front Office,Discretionary,20.454545454545453
+2025-05,EMEA,Geneva,Front Office,Execution-only,25.0
+2025-05,EMEA,Geneva,Front Office,Lombard Lending,12.272727272727273
+2025-05,EMEA,Geneva,Front Office,Structured Products,28.636363636363637
+2025-05,EMEA,Geneva,Operations,Advisory,51.36363636363637
+2025-05,EMEA,Geneva,Operations,Discretionary,22.727272727272723
+2025-05,EMEA,Geneva,Operations,Execution-only,38.18181818181819
+2025-05,EMEA,Geneva,Operations,Lombard Lending,33.18181818181819
+2025-05,EMEA,Geneva,Operations,Structured Products,22.727272727272727
+2025-05,EMEA,London,Client Onboarding,Advisory,20.0
+2025-05,EMEA,London,Client Onboarding,Discretionary,22.727272727272727
+2025-05,EMEA,London,Client Onboarding,Execution-only,30.909090909090903
+2025-05,EMEA,London,Client Onboarding,Lombard Lending,18.181818181818183
+2025-05,EMEA,London,Client Onboarding,Structured Products,16.36363636363636
+2025-05,EMEA,London,Compliance & Controls,Advisory,30.909090909090907
+2025-05,EMEA,London,Compliance & Controls,Discretionary,25.454545454545457
+2025-05,EMEA,London,Compliance & Controls,Execution-only,25.90909090909091
+2025-05,EMEA,London,Compliance & Controls,Lombard Lending,17.272727272727273
+2025-05,EMEA,London,Compliance & Controls,Structured Products,19.999999999999996
+2025-05,EMEA,London,Front Office,Advisory,25.454545454545457
+2025-05,EMEA,London,Front Office,Discretionary,38.63636363636363
+2025-05,EMEA,London,Front Office,Execution-only,40.45454545454546
+2025-05,EMEA,London,Front Office,Lombard Lending,6.818181818181819
+2025-05,EMEA,London,Front Office,Structured Products,32.27272727272728
+2025-05,EMEA,London,Operations,Advisory,31.36363636363636
+2025-05,EMEA,London,Operations,Discretionary,36.36363636363637
+2025-05,EMEA,London,Operations,Execution-only,33.18181818181819
+2025-05,EMEA,London,Operations,Lombard Lending,40.45454545454546
+2025-05,EMEA,London,Operations,Structured Products,47.27272727272727
+2025-05,EMEA,Zurich,Client Onboarding,Advisory,6.818181818181819
+2025-05,EMEA,Zurich,Client Onboarding,Discretionary,32.72727272727272
+2025-05,EMEA,Zurich,Client Onboarding,Execution-only,19.545454545454547
+2025-05,EMEA,Zurich,Client Onboarding,Lombard Lending,14.545454545454545
+2025-05,EMEA,Zurich,Client Onboarding,Structured Products,10.454545454545453
+2025-05,EMEA,Zurich,Compliance & Controls,Advisory,20.0
+2025-05,EMEA,Zurich,Compliance & Controls,Discretionary,20.909090909090907
+2025-05,EMEA,Zurich,Compliance & Controls,Execution-only,16.818181818181817
+2025-05,EMEA,Zurich,Compliance & Controls,Lombard Lending,9.090909090909092
+2025-05,EMEA,Zurich,Compliance & Controls,Structured Products,20.909090909090907
+2025-05,EMEA,Zurich,Front Office,Advisory,22.272727272727273
+2025-05,EMEA,Zurich,Front Office,Discretionary,13.181818181818183
+2025-05,EMEA,Zurich,Front Office,Execution-only,23.18181818181818
+2025-05,EMEA,Zurich,Front Office,Lombard Lending,25.90909090909091
+2025-05,EMEA,Zurich,Front Office,Structured Products,23.18181818181818
+2025-05,EMEA,Zurich,Operations,Advisory,32.727272727272734
+2025-05,EMEA,Zurich,Operations,Discretionary,23.18181818181818
+2025-05,EMEA,Zurich,Operations,Execution-only,46.36363636363636
+2025-05,EMEA,Zurich,Operations,Lombard Lending,35.9090909090909
+2025-05,EMEA,Zurich,Operations,Structured Products,38.63636363636363
+2025-06,APAC,Hong Kong,Client Onboarding,Advisory,20.454545454545453
+2025-06,APAC,Hong Kong,Client Onboarding,Discretionary,16.36363636363636
+2025-06,APAC,Hong Kong,Client Onboarding,Execution-only,40.9090909090909
+2025-06,APAC,Hong Kong,Client Onboarding,Lombard Lending,10.909090909090908
+2025-06,APAC,Hong Kong,Client Onboarding,Structured Products,5.454545454545453
+2025-06,APAC,Hong Kong,Compliance & Controls,Advisory,14.545454545454545
+2025-06,APAC,Hong Kong,Compliance & Controls,Discretionary,17.27272727272727
+2025-06,APAC,Hong Kong,Compliance & Controls,Execution-only,34.090909090909086
+2025-06,APAC,Hong Kong,Compliance & Controls,Lombard Lending,7.2727272727272725
+2025-06,APAC,Hong Kong,Compliance & Controls,Structured Products,31.818181818181817
+2025-06,APAC,Hong Kong,Front Office,Advisory,22.272727272727273
+2025-06,APAC,Hong Kong,Front Office,Discretionary,8.18181818181818
+2025-06,APAC,Hong Kong,Front Office,Execution-only,35.90909090909091
+2025-06,APAC,Hong Kong,Front Office,Lombard Lending,24.545454545454547
+2025-06,APAC,Hong Kong,Front Office,Structured Products,10.909090909090907
+2025-06,APAC,Hong Kong,Operations,Advisory,50.45454545454545
+2025-06,APAC,Hong Kong,Operations,Discretionary,41.81818181818182
+2025-06,APAC,Hong Kong,Operations,Execution-only,38.18181818181819
+2025-06,APAC,Hong Kong,Operations,Lombard Lending,30.45454545454545
+2025-06,APAC,Hong Kong,Operations,Structured Products,31.818181818181817
+2025-06,APAC,Singapore,Client Onboarding,Advisory,13.636363636363635
+2025-06,APAC,Singapore,Client Onboarding,Discretionary,33.18181818181819
+2025-06,APAC,Singapore,Client Onboarding,Execution-only,17.727272727272727
+2025-06,APAC,Singapore,Client Onboarding,Lombard Lending,3.6363636363636362
+2025-06,APAC,Singapore,Client Onboarding,Structured Products,6.363636363636364
+2025-06,APAC,Singapore,Compliance & Controls,Advisory,18.636363636363637
+2025-06,APAC,Singapore,Compliance & Controls,Discretionary,17.27272727272727
+2025-06,APAC,Singapore,Compliance & Controls,Execution-only,32.72727272727272
+2025-06,APAC,Singapore,Compliance & Controls,Lombard Lending,32.72727272727272
+2025-06,APAC,Singapore,Compliance & Controls,Structured Products,0.0
+2025-06,APAC,Singapore,Front Office,Advisory,30.0
+2025-06,APAC,Singapore,Front Office,Discretionary,25.0
+2025-06,APAC,Singapore,Front Office,Execution-only,29.09090909090909
+2025-06,APAC,Singapore,Front Office,Lombard Lending,33.18181818181818
+2025-06,APAC,Singapore,Front Office,Structured Products,11.818181818181818
+2025-06,APAC,Singapore,Operations,Advisory,25.909090909090903
+2025-06,APAC,Singapore,Operations,Discretionary,27.27272727272727
+2025-06,APAC,Singapore,Operations,Execution-only,52.27272727272727
+2025-06,APAC,Singapore,Operations,Lombard Lending,29.090909090909093
+2025-06,APAC,Singapore,Operations,Structured Products,20.909090909090907
+2025-06,Americas,New York,Client Onboarding,Advisory,30.909090909090907
+2025-06,Americas,New York,Client Onboarding,Discretionary,24.545454545454547
+2025-06,Americas,New York,Client Onboarding,Execution-only,23.636363636363637
+2025-06,Americas,New York,Client Onboarding,Lombard Lending,17.727272727272727
+2025-06,Americas,New York,Client Onboarding,Structured Products,22.727272727272727
+2025-06,Americas,New York,Compliance & Controls,Advisory,8.636363636363635
+2025-06,Americas,New York,Compliance & Controls,Discretionary,12.727272727272728
+2025-06,Americas,New York,Compliance & Controls,Execution-only,55.90909090909092
+2025-06,Americas,New York,Compliance & Controls,Lombard Lending,7.2727272727272725
+2025-06,Americas,New York,Compliance & Controls,Structured Products,6.363636363636364
+2025-06,Americas,New York,Front Office,Advisory,35.0
+2025-06,Americas,New York,Front Office,Discretionary,42.27272727272726
+2025-06,Americas,New York,Front Office,Execution-only,22.272727272727273
+2025-06,Americas,New York,Front Office,Lombard Lending,14.09090909090909
+2025-06,Americas,New York,Front Office,Structured Products,28.636363636363637
+2025-06,Americas,New York,Operations,Advisory,33.63636363636363
+2025-06,Americas,New York,Operations,Discretionary,38.18181818181818
+2025-06,Americas,New York,Operations,Execution-only,34.090909090909086
+2025-06,Americas,New York,Operations,Lombard Lending,46.363636363636374
+2025-06,Americas,New York,Operations,Structured Products,31.36363636363636
+2025-06,EMEA,Geneva,Client Onboarding,Advisory,26.363636363636367
+2025-06,EMEA,Geneva,Client Onboarding,Discretionary,18.636363636363637
+2025-06,EMEA,Geneva,Client Onboarding,Execution-only,35.0
+2025-06,EMEA,Geneva,Client Onboarding,Lombard Lending,12.727272727272728
+2025-06,EMEA,Geneva,Client Onboarding,Structured Products,20.0
+2025-06,EMEA,Geneva,Compliance & Controls,Advisory,33.18181818181819
+2025-06,EMEA,Geneva,Compliance & Controls,Discretionary,3.6363636363636362
+2025-06,EMEA,Geneva,Compliance & Controls,Execution-only,12.727272727272728
+2025-06,EMEA,Geneva,Compliance & Controls,Lombard Lending,16.36363636363636
+2025-06,EMEA,Geneva,Compliance & Controls,Structured Products,17.27272727272727
+2025-06,EMEA,Geneva,Front Office,Advisory,21.818181818181817
+2025-06,EMEA,Geneva,Front Office,Discretionary,21.818181818181813
+2025-06,EMEA,Geneva,Front Office,Execution-only,30.909090909090914
+2025-06,EMEA,Geneva,Front Office,Lombard Lending,22.272727272727273
+2025-06,EMEA,Geneva,Front Office,Structured Products,17.27272727272727
+2025-06,EMEA,Geneva,Operations,Advisory,41.36363636363637
+2025-06,EMEA,Geneva,Operations,Discretionary,52.72727272727272
+2025-06,EMEA,Geneva,Operations,Execution-only,57.72727272727273
+2025-06,EMEA,Geneva,Operations,Lombard Lending,42.72727272727272
+2025-06,EMEA,Geneva,Operations,Structured Products,32.72727272727272
+2025-06,EMEA,London,Client Onboarding,Advisory,34.090909090909086
+2025-06,EMEA,London,Client Onboarding,Discretionary,10.909090909090907
+2025-06,EMEA,London,Client Onboarding,Execution-only,48.63636363636363
+2025-06,EMEA,London,Client Onboarding,Lombard Lending,29.545454545454547
+2025-06,EMEA,London,Client Onboarding,Structured Products,19.090909090909093
+2025-06,EMEA,London,Compliance & Controls,Advisory,11.818181818181818
+2025-06,EMEA,London,Compliance & Controls,Discretionary,2.7272727272727266
+2025-06,EMEA,London,Compliance & Controls,Execution-only,48.63636363636363
+2025-06,EMEA,London,Compliance & Controls,Lombard Lending,25.454545454545457
+2025-06,EMEA,London,Compliance & Controls,Structured Products,7.2727272727272725
+2025-06,EMEA,London,Front Office,Advisory,38.63636363636363
+2025-06,EMEA,London,Front Office,Discretionary,40.9090909090909
+2025-06,EMEA,London,Front Office,Execution-only,43.18181818181818
+2025-06,EMEA,London,Front Office,Lombard Lending,31.818181818181817
+2025-06,EMEA,London,Front Office,Structured Products,32.272727272727266
+2025-06,EMEA,London,Operations,Advisory,58.63636363636364
+2025-06,EMEA,London,Operations,Discretionary,28.181818181818187
+2025-06,EMEA,London,Operations,Execution-only,60.45454545454544
+2025-06,EMEA,London,Operations,Lombard Lending,51.36363636363637
+2025-06,EMEA,London,Operations,Structured Products,28.18181818181818
+2025-06,EMEA,Zurich,Client Onboarding,Advisory,18.181818181818183
+2025-06,EMEA,Zurich,Client Onboarding,Discretionary,40.90909090909091
+2025-06,EMEA,Zurich,Client Onboarding,Execution-only,29.09090909090909
+2025-06,EMEA,Zurich,Client Onboarding,Lombard Lending,0.0
+2025-06,EMEA,Zurich,Client Onboarding,Structured Products,14.09090909090909
+2025-06,EMEA,Zurich,Compliance & Controls,Advisory,20.0
+2025-06,EMEA,Zurich,Compliance & Controls,Discretionary,20.0
+2025-06,EMEA,Zurich,Compliance & Controls,Execution-only,13.181818181818183
+2025-06,EMEA,Zurich,Compliance & Controls,Lombard Lending,13.18181818181818
+2025-06,EMEA,Zurich,Compliance & Controls,Structured Products,20.909090909090907
+2025-06,EMEA,Zurich,Front Office,Advisory,13.636363636363635
+2025-06,EMEA,Zurich,Front Office,Discretionary,24.09090909090909
+2025-06,EMEA,Zurich,Front Office,Execution-only,33.18181818181819
+2025-06,EMEA,Zurich,Front Office,Lombard Lending,20.0
+2025-06,EMEA,Zurich,Front Office,Structured Products,14.09090909090909
+2025-06,EMEA,Zurich,Operations,Advisory,35.0
+2025-06,EMEA,Zurich,Operations,Discretionary,34.54545454545454
+2025-06,EMEA,Zurich,Operations,Execution-only,46.36363636363636
+2025-06,EMEA,Zurich,Operations,Lombard Lending,38.63636363636363
+2025-06,EMEA,Zurich,Operations,Structured Products,37.72727272727273
+2025-07,APAC,Hong Kong,Client Onboarding,Advisory,31.363636363636367
+2025-07,APAC,Hong Kong,Client Onboarding,Discretionary,13.636363636363635
+2025-07,APAC,Hong Kong,Client Onboarding,Execution-only,46.36363636363636
+2025-07,APAC,Hong Kong,Client Onboarding,Lombard Lending,6.363636363636364
+2025-07,APAC,Hong Kong,Client Onboarding,Structured Products,18.181818181818183
+2025-07,APAC,Hong Kong,Compliance & Controls,Advisory,29.09090909090909
+2025-07,APAC,Hong Kong,Compliance & Controls,Discretionary,23.18181818181818
+2025-07,APAC,Hong Kong,Compliance & Controls,Execution-only,13.636363636363638
+2025-07,APAC,Hong Kong,Compliance & Controls,Lombard Lending,0.0
+2025-07,APAC,Hong Kong,Compliance & Controls,Structured Products,20.90909090909091
+2025-07,APAC,Hong Kong,Front Office,Advisory,25.90909090909091
+2025-07,APAC,Hong Kong,Front Office,Discretionary,26.81818181818182
+2025-07,APAC,Hong Kong,Front Office,Execution-only,30.000000000000004
+2025-07,APAC,Hong Kong,Front Office,Lombard Lending,17.727272727272727
+2025-07,APAC,Hong Kong,Front Office,Structured Products,30.0
+2025-07,APAC,Hong Kong,Operations,Advisory,48.63636363636363
+2025-07,APAC,Hong Kong,Operations,Discretionary,33.18181818181818
+2025-07,APAC,Hong Kong,Operations,Execution-only,54.545454545454554
+2025-07,APAC,Hong Kong,Operations,Lombard Lending,50.0
+2025-07,APAC,Hong Kong,Operations,Structured Products,33.18181818181818
+2025-07,APAC,Singapore,Client Onboarding,Advisory,13.181818181818183
+2025-07,APAC,Singapore,Client Onboarding,Discretionary,10.0
+2025-07,APAC,Singapore,Client Onboarding,Execution-only,22.727272727272727
+2025-07,APAC,Singapore,Client Onboarding,Lombard Lending,0.0
+2025-07,APAC,Singapore,Client Onboarding,Structured Products,0.0
+2025-07,APAC,Singapore,Compliance & Controls,Advisory,26.363636363636367
+2025-07,APAC,Singapore,Compliance & Controls,Discretionary,23.636363636363637
+2025-07,APAC,Singapore,Compliance & Controls,Execution-only,43.18181818181818
+2025-07,APAC,Singapore,Compliance & Controls,Lombard Lending,0.0
+2025-07,APAC,Singapore,Compliance & Controls,Structured Products,5.454545454545453
+2025-07,APAC,Singapore,Front Office,Advisory,20.909090909090907
+2025-07,APAC,Singapore,Front Office,Discretionary,22.727272727272727
+2025-07,APAC,Singapore,Front Office,Execution-only,40.909090909090914
+2025-07,APAC,Singapore,Front Office,Lombard Lending,34.09090909090909
+2025-07,APAC,Singapore,Front Office,Structured Products,25.90909090909091
+2025-07,APAC,Singapore,Operations,Advisory,30.454545454545457
+2025-07,APAC,Singapore,Operations,Discretionary,47.72727272727273
+2025-07,APAC,Singapore,Operations,Execution-only,49.54545454545454
+2025-07,APAC,Singapore,Operations,Lombard Lending,42.727272727272734
+2025-07,APAC,Singapore,Operations,Structured Products,43.18181818181817
+2025-07,Americas,New York,Client Onboarding,Advisory,26.81818181818182
+2025-07,Americas,New York,Client Onboarding,Discretionary,43.636363636363626
+2025-07,Americas,New York,Client Onboarding,Execution-only,31.36363636363636
+2025-07,Americas,New York,Client Onboarding,Lombard Lending,35.45454545454545
+2025-07,Americas,New York,Client Onboarding,Structured Products,25.454545454545457
+2025-07,Americas,New York,Compliance & Controls,Advisory,9.090909090909092
+2025-07,Americas,New York,Compliance & Controls,Discretionary,8.18181818181818
+2025-07,Americas,New York,Compliance & Controls,Execution-only,47.27272727272727
+2025-07,Americas,New York,Compliance & Controls,Lombard Lending,29.09090909090909
+2025-07,Americas,New York,Compliance & Controls,Structured Products,7.2727272727272725
+2025-07,Americas,New York,Front Office,Advisory,37.72727272727273
+2025-07,Americas,New York,Front Office,Discretionary,41.36363636363636
+2025-07,Americas,New York,Front Office,Execution-only,42.72727272727272
+2025-07,Americas,New York,Front Office,Lombard Lending,30.909090909090914
+2025-07,Americas,New York,Front Office,Structured Products,27.272727272727277
+2025-07,Americas,New York,Operations,Advisory,42.27272727272727
+2025-07,Americas,New York,Operations,Discretionary,47.27272727272728
+2025-07,Americas,New York,Operations,Execution-only,34.54545454545454
+2025-07,Americas,New York,Operations,Lombard Lending,44.54545454545455
+2025-07,Americas,New York,Operations,Structured Products,29.090909090909083
+2025-07,EMEA,Geneva,Client Onboarding,Advisory,20.909090909090907
+2025-07,EMEA,Geneva,Client Onboarding,Discretionary,21.363636363636363
+2025-07,EMEA,Geneva,Client Onboarding,Execution-only,35.0
+2025-07,EMEA,Geneva,Client Onboarding,Lombard Lending,10.454545454545453
+2025-07,EMEA,Geneva,Client Onboarding,Structured Products,33.18181818181819
+2025-07,EMEA,Geneva,Compliance & Controls,Advisory,12.272727272727273
+2025-07,EMEA,Geneva,Compliance & Controls,Discretionary,20.909090909090907
+2025-07,EMEA,Geneva,Compliance & Controls,Execution-only,25.454545454545457
+2025-07,EMEA,Geneva,Compliance & Controls,Lombard Lending,0.0
+2025-07,EMEA,Geneva,Compliance & Controls,Structured Products,35.90909090909091
+2025-07,EMEA,Geneva,Front Office,Advisory,31.36363636363637
+2025-07,EMEA,Geneva,Front Office,Discretionary,18.18181818181818
+2025-07,EMEA,Geneva,Front Office,Execution-only,38.18181818181819
+2025-07,EMEA,Geneva,Front Office,Lombard Lending,12.727272727272728
+2025-07,EMEA,Geneva,Front Office,Structured Products,11.818181818181818
+2025-07,EMEA,Geneva,Operations,Advisory,40.0
+2025-07,EMEA,Geneva,Operations,Discretionary,38.63636363636363
+2025-07,EMEA,Geneva,Operations,Execution-only,34.54545454545454
+2025-07,EMEA,Geneva,Operations,Lombard Lending,50.0
+2025-07,EMEA,Geneva,Operations,Structured Products,39.09090909090909
+2025-07,EMEA,London,Client Onboarding,Advisory,30.000000000000004
+2025-07,EMEA,London,Client Onboarding,Discretionary,10.909090909090907
+2025-07,EMEA,London,Client Onboarding,Execution-only,45.454545454545446
+2025-07,EMEA,London,Client Onboarding,Lombard Lending,30.454545454545457
+2025-07,EMEA,London,Client Onboarding,Structured Products,34.09090909090909
+2025-07,EMEA,London,Compliance & Controls,Advisory,19.090909090909093
+2025-07,EMEA,London,Compliance & Controls,Discretionary,22.727272727272727
+2025-07,EMEA,London,Compliance & Controls,Execution-only,16.363636363636363
+2025-07,EMEA,London,Compliance & Controls,Lombard Lending,24.545454545454547
+2025-07,EMEA,London,Compliance & Controls,Structured Products,0.0
+2025-07,EMEA,London,Front Office,Advisory,26.363636363636367
+2025-07,EMEA,London,Front Office,Discretionary,36.36363636363637
+2025-07,EMEA,London,Front Office,Execution-only,36.81818181818181
+2025-07,EMEA,London,Front Office,Lombard Lending,20.0
+2025-07,EMEA,London,Front Office,Structured Products,39.54545454545455
+2025-07,EMEA,London,Operations,Advisory,40.909090909090914
+2025-07,EMEA,London,Operations,Discretionary,42.72727272727272
+2025-07,EMEA,London,Operations,Execution-only,32.27272727272727
+2025-07,EMEA,London,Operations,Lombard Lending,50.909090909090914
+2025-07,EMEA,London,Operations,Structured Products,48.63636363636363
+2025-07,EMEA,Zurich,Client Onboarding,Advisory,27.272727272727277
+2025-07,EMEA,Zurich,Client Onboarding,Discretionary,45.90909090909091
+2025-07,EMEA,Zurich,Client Onboarding,Execution-only,39.090909090909086
+2025-07,EMEA,Zurich,Client Onboarding,Lombard Lending,31.363636363636367
+2025-07,EMEA,Zurich,Client Onboarding,Structured Products,29.545454545454547
+2025-07,EMEA,Zurich,Compliance & Controls,Advisory,20.454545454545453
+2025-07,EMEA,Zurich,Compliance & Controls,Discretionary,19.545454545454547
+2025-07,EMEA,Zurich,Compliance & Controls,Execution-only,21.36363636363636
+2025-07,EMEA,Zurich,Compliance & Controls,Lombard Lending,5.454545454545453
+2025-07,EMEA,Zurich,Compliance & Controls,Structured Products,20.909090909090907
+2025-07,EMEA,Zurich,Front Office,Advisory,10.909090909090907
+2025-07,EMEA,Zurich,Front Office,Discretionary,10.0
+2025-07,EMEA,Zurich,Front Office,Execution-only,41.36363636363637
+2025-07,EMEA,Zurich,Front Office,Lombard Lending,31.818181818181824
+2025-07,EMEA,Zurich,Front Office,Structured Products,35.0
+2025-07,EMEA,Zurich,Operations,Advisory,55.45454545454545
+2025-07,EMEA,Zurich,Operations,Discretionary,31.36363636363637
+2025-07,EMEA,Zurich,Operations,Execution-only,40.0
+2025-07,EMEA,Zurich,Operations,Lombard Lending,29.545454545454547
+2025-07,EMEA,Zurich,Operations,Structured Products,35.45454545454545
+2025-08,APAC,Hong Kong,Client Onboarding,Advisory,23.636363636363637
+2025-08,APAC,Hong Kong,Client Onboarding,Discretionary,34.090909090909086
+2025-08,APAC,Hong Kong,Client Onboarding,Execution-only,35.90909090909091
+2025-08,APAC,Hong Kong,Client Onboarding,Lombard Lending,29.54545454545454
+2025-08,APAC,Hong Kong,Client Onboarding,Structured Products,30.909090909090903
+2025-08,APAC,Hong Kong,Compliance & Controls,Advisory,30.909090909090907
+2025-08,APAC,Hong Kong,Compliance & Controls,Discretionary,10.0
+2025-08,APAC,Hong Kong,Compliance & Controls,Execution-only,43.636363636363626
+2025-08,APAC,Hong Kong,Compliance & Controls,Lombard Lending,0.0
+2025-08,APAC,Hong Kong,Compliance & Controls,Structured Products,24.545454545454547
+2025-08,APAC,Hong Kong,Front Office,Advisory,24.54545454545454
+2025-08,APAC,Hong Kong,Front Office,Discretionary,34.090909090909086
+2025-08,APAC,Hong Kong,Front Office,Execution-only,18.18181818181818
+2025-08,APAC,Hong Kong,Front Office,Lombard Lending,24.545454545454547
+2025-08,APAC,Hong Kong,Front Office,Structured Products,37.27272727272727
+2025-08,APAC,Hong Kong,Operations,Advisory,50.909090909090914
+2025-08,APAC,Hong Kong,Operations,Discretionary,49.54545454545454
+2025-08,APAC,Hong Kong,Operations,Execution-only,60.909090909090914
+2025-08,APAC,Hong Kong,Operations,Lombard Lending,48.63636363636365
+2025-08,APAC,Hong Kong,Operations,Structured Products,28.18181818181818
+2025-08,APAC,Singapore,Client Onboarding,Advisory,25.454545454545457
+2025-08,APAC,Singapore,Client Onboarding,Discretionary,16.36363636363636
+2025-08,APAC,Singapore,Client Onboarding,Execution-only,17.727272727272727
+2025-08,APAC,Singapore,Client Onboarding,Lombard Lending,21.818181818181813
+2025-08,APAC,Singapore,Client Onboarding,Structured Products,6.363636363636364
+2025-08,APAC,Singapore,Compliance & Controls,Advisory,15.454545454545453
+2025-08,APAC,Singapore,Compliance & Controls,Discretionary,11.818181818181818
+2025-08,APAC,Singapore,Compliance & Controls,Execution-only,34.54545454545455
+2025-08,APAC,Singapore,Compliance & Controls,Lombard Lending,0.0
+2025-08,APAC,Singapore,Compliance & Controls,Structured Products,0.0
+2025-08,APAC,Singapore,Front Office,Advisory,22.272727272727273
+2025-08,APAC,Singapore,Front Office,Discretionary,44.54545454545455
+2025-08,APAC,Singapore,Front Office,Execution-only,48.63636363636365
+2025-08,APAC,Singapore,Front Office,Lombard Lending,20.909090909090907
+2025-08,APAC,Singapore,Front Office,Structured Products,30.0
+2025-08,APAC,Singapore,Operations,Advisory,43.18181818181818
+2025-08,APAC,Singapore,Operations,Discretionary,45.45454545454546
+2025-08,APAC,Singapore,Operations,Execution-only,43.18181818181818
+2025-08,APAC,Singapore,Operations,Lombard Lending,46.36363636363636
+2025-08,APAC,Singapore,Operations,Structured Products,27.272727272727277
+2025-08,Americas,New York,Client Onboarding,Advisory,30.909090909090914
+2025-08,Americas,New York,Client Onboarding,Discretionary,47.27272727272727
+2025-08,Americas,New York,Client Onboarding,Execution-only,42.72727272727272
+2025-08,Americas,New York,Client Onboarding,Lombard Lending,33.18181818181818
+2025-08,Americas,New York,Client Onboarding,Structured Products,53.63636363636361
+2025-08,Americas,New York,Compliance & Controls,Advisory,30.454545454545457
+2025-08,Americas,New York,Compliance & Controls,Discretionary,15.909090909090908
+2025-08,Americas,New York,Compliance & Controls,Execution-only,32.72727272727272
+2025-08,Americas,New York,Compliance & Controls,Lombard Lending,28.18181818181818
+2025-08,Americas,New York,Compliance & Controls,Structured Products,16.36363636363636
+2025-08,Americas,New York,Front Office,Advisory,39.54545454545455
+2025-08,Americas,New York,Front Office,Discretionary,22.272727272727273
+2025-08,Americas,New York,Front Office,Execution-only,36.81818181818181
+2025-08,Americas,New York,Front Office,Lombard Lending,25.0
+2025-08,Americas,New York,Front Office,Structured Products,26.363636363636367
+2025-08,Americas,New York,Operations,Advisory,77.72727272727273
+2025-08,Americas,New York,Operations,Discretionary,37.72727272727272
+2025-08,Americas,New York,Operations,Execution-only,35.0
+2025-08,Americas,New York,Operations,Lombard Lending,44.99999999999999
+2025-08,Americas,New York,Operations,Structured Products,40.90909090909091
+2025-08,EMEA,Geneva,Client Onboarding,Advisory,20.909090909090907
+2025-08,EMEA,Geneva,Client Onboarding,Discretionary,8.18181818181818
+2025-08,EMEA,Geneva,Client Onboarding,Execution-only,39.54545454545455
+2025-08,EMEA,Geneva,Client Onboarding,Lombard Lending,20.909090909090907
+2025-08,EMEA,Geneva,Client Onboarding,Structured Products,24.545454545454547
+2025-08,EMEA,Geneva,Compliance & Controls,Advisory,26.363636363636367
+2025-08,EMEA,Geneva,Compliance & Controls,Discretionary,24.545454545454547
+2025-08,EMEA,Geneva,Compliance & Controls,Execution-only,31.818181818181817
+2025-08,EMEA,Geneva,Compliance & Controls,Lombard Lending,32.72727272727272
+2025-08,EMEA,Geneva,Compliance & Controls,Structured Products,24.545454545454547
+2025-08,EMEA,Geneva,Front Office,Advisory,13.636363636363635
+2025-08,EMEA,Geneva,Front Office,Discretionary,19.545454545454547
+2025-08,EMEA,Geneva,Front Office,Execution-only,25.454545454545457
+2025-08,EMEA,Geneva,Front Office,Lombard Lending,12.727272727272728
+2025-08,EMEA,Geneva,Front Office,Structured Products,13.636363636363635
+2025-08,EMEA,Geneva,Operations,Advisory,33.18181818181818
+2025-08,EMEA,Geneva,Operations,Discretionary,47.72727272727273
+2025-08,EMEA,Geneva,Operations,Execution-only,46.36363636363636
+2025-08,EMEA,Geneva,Operations,Lombard Lending,49.54545454545454
+2025-08,EMEA,Geneva,Operations,Structured Products,38.18181818181818
+2025-08,EMEA,London,Client Onboarding,Advisory,18.181818181818183
+2025-08,EMEA,London,Client Onboarding,Discretionary,27.727272727272727
+2025-08,EMEA,London,Client Onboarding,Execution-only,48.63636363636363
+2025-08,EMEA,London,Client Onboarding,Lombard Lending,28.181818181818187
+2025-08,EMEA,London,Client Onboarding,Structured Products,9.090909090909092
+2025-08,EMEA,London,Compliance & Controls,Advisory,17.727272727272727
+2025-08,EMEA,London,Compliance & Controls,Discretionary,8.636363636363635
+2025-08,EMEA,London,Compliance & Controls,Execution-only,33.18181818181818
+2025-08,EMEA,London,Compliance & Controls,Lombard Lending,45.90909090909091
+2025-08,EMEA,London,Compliance & Controls,Structured Products,7.2727272727272725
+2025-08,EMEA,London,Front Office,Advisory,33.18181818181818
+2025-08,EMEA,London,Front Office,Discretionary,40.45454545454546
+2025-08,EMEA,London,Front Office,Execution-only,32.27272727272728
+2025-08,EMEA,London,Front Office,Lombard Lending,33.63636363636363
+2025-08,EMEA,London,Front Office,Structured Products,29.545454545454547
+2025-08,EMEA,London,Operations,Advisory,29.545454545454547
+2025-08,EMEA,London,Operations,Discretionary,33.63636363636363
+2025-08,EMEA,London,Operations,Execution-only,40.0
+2025-08,EMEA,London,Operations,Lombard Lending,46.81818181818181
+2025-08,EMEA,London,Operations,Structured Products,44.090909090909086
+2025-08,EMEA,Zurich,Client Onboarding,Advisory,13.181818181818183
+2025-08,EMEA,Zurich,Client Onboarding,Discretionary,27.27272727272727
+2025-08,EMEA,Zurich,Client Onboarding,Execution-only,48.18181818181818
+2025-08,EMEA,Zurich,Client Onboarding,Lombard Lending,11.818181818181818
+2025-08,EMEA,Zurich,Client Onboarding,Structured Products,26.363636363636367
+2025-08,EMEA,Zurich,Compliance & Controls,Advisory,12.272727272727273
+2025-08,EMEA,Zurich,Compliance & Controls,Discretionary,25.90909090909091
+2025-08,EMEA,Zurich,Compliance & Controls,Execution-only,15.454545454545451
+2025-08,EMEA,Zurich,Compliance & Controls,Lombard Lending,11.818181818181818
+2025-08,EMEA,Zurich,Compliance & Controls,Structured Products,20.909090909090907
+2025-08,EMEA,Zurich,Front Office,Advisory,24.545454545454547
+2025-08,EMEA,Zurich,Front Office,Discretionary,15.0
+2025-08,EMEA,Zurich,Front Office,Execution-only,21.818181818181817
+2025-08,EMEA,Zurich,Front Office,Lombard Lending,15.454545454545453
+2025-08,EMEA,Zurich,Front Office,Structured Products,28.636363636363633
+2025-08,EMEA,Zurich,Operations,Advisory,39.54545454545455
+2025-08,EMEA,Zurich,Operations,Discretionary,28.636363636363637
+2025-08,EMEA,Zurich,Operations,Execution-only,43.18181818181818
+2025-08,EMEA,Zurich,Operations,Lombard Lending,34.54545454545454
+2025-08,EMEA,Zurich,Operations,Structured Products,29.545454545454547
+2025-09,APAC,Hong Kong,Client Onboarding,Advisory,23.636363636363637
+2025-09,APAC,Hong Kong,Client Onboarding,Discretionary,34.54545454545454
+2025-09,APAC,Hong Kong,Client Onboarding,Execution-only,31.818181818181813
+2025-09,APAC,Hong Kong,Client Onboarding,Lombard Lending,0.0
+2025-09,APAC,Hong Kong,Client Onboarding,Structured Products,10.909090909090908
+2025-09,APAC,Hong Kong,Compliance & Controls,Advisory,25.454545454545457
+2025-09,APAC,Hong Kong,Compliance & Controls,Discretionary,30.909090909090907
+2025-09,APAC,Hong Kong,Compliance & Controls,Execution-only,44.09090909090908
+2025-09,APAC,Hong Kong,Compliance & Controls,Lombard Lending,5.454545454545453
+2025-09,APAC,Hong Kong,Compliance & Controls,Structured Products,13.636363636363638
+2025-09,APAC,Hong Kong,Front Office,Advisory,35.90909090909091
+2025-09,APAC,Hong Kong,Front Office,Discretionary,10.909090909090907
+2025-09,APAC,Hong Kong,Front Office,Execution-only,34.54545454545454
+2025-09,APAC,Hong Kong,Front Office,Lombard Lending,20.909090909090907
+2025-09,APAC,Hong Kong,Front Office,Structured Products,15.909090909090908
+2025-09,APAC,Hong Kong,Operations,Advisory,47.727272727272734
+2025-09,APAC,Hong Kong,Operations,Discretionary,44.090909090909086
+2025-09,APAC,Hong Kong,Operations,Execution-only,55.45454545454545
+2025-09,APAC,Hong Kong,Operations,Lombard Lending,60.45454545454546
+2025-09,APAC,Hong Kong,Operations,Structured Products,30.909090909090903
+2025-09,APAC,Singapore,Client Onboarding,Advisory,24.545454545454547
+2025-09,APAC,Singapore,Client Onboarding,Discretionary,40.90909090909091
+2025-09,APAC,Singapore,Client Onboarding,Execution-only,17.727272727272727
+2025-09,APAC,Singapore,Client Onboarding,Lombard Lending,23.18181818181818
+2025-09,APAC,Singapore,Client Onboarding,Structured Products,11.818181818181818
+2025-09,APAC,Singapore,Compliance & Controls,Advisory,17.27272727272727
+2025-09,APAC,Singapore,Compliance & Controls,Discretionary,36.36363636363637
+2025-09,APAC,Singapore,Compliance & Controls,Execution-only,38.63636363636363
+2025-09,APAC,Singapore,Compliance & Controls,Lombard Lending,15.454545454545451
+2025-09,APAC,Singapore,Compliance & Controls,Structured Products,15.454545454545451
+2025-09,APAC,Singapore,Front Office,Advisory,38.63636363636363
+2025-09,APAC,Singapore,Front Office,Discretionary,22.727272727272727
+2025-09,APAC,Singapore,Front Office,Execution-only,43.63636363636363
+2025-09,APAC,Singapore,Front Office,Lombard Lending,17.27272727272727
+2025-09,APAC,Singapore,Front Office,Structured Products,13.636363636363635
+2025-09,APAC,Singapore,Operations,Advisory,54.090909090909086
+2025-09,APAC,Singapore,Operations,Discretionary,47.72727272727273
+2025-09,APAC,Singapore,Operations,Execution-only,64.0909090909091
+2025-09,APAC,Singapore,Operations,Lombard Lending,38.63636363636363
+2025-09,APAC,Singapore,Operations,Structured Products,35.45454545454545
+2025-09,Americas,New York,Client Onboarding,Advisory,16.818181818181817
+2025-09,Americas,New York,Client Onboarding,Discretionary,48.18181818181818
+2025-09,Americas,New York,Client Onboarding,Execution-only,58.18181818181819
+2025-09,Americas,New York,Client Onboarding,Lombard Lending,60.0
+2025-09,Americas,New York,Client Onboarding,Structured Products,64.54545454545453
+2025-09,Americas,New York,Compliance & Controls,Advisory,12.727272727272728
+2025-09,Americas,New York,Compliance & Controls,Discretionary,4.545454545454546
+2025-09,Americas,New York,Compliance & Controls,Execution-only,38.63636363636363
+2025-09,Americas,New York,Compliance & Controls,Lombard Lending,50.909090909090914
+2025-09,Americas,New York,Compliance & Controls,Structured Products,10.909090909090907
+2025-09,Americas,New York,Front Office,Advisory,48.63636363636363
+2025-09,Americas,New York,Front Office,Discretionary,37.72727272727272
+2025-09,Americas,New York,Front Office,Execution-only,44.54545454545455
+2025-09,Americas,New York,Front Office,Lombard Lending,19.545454545454543
+2025-09,Americas,New York,Front Office,Structured Products,27.272727272727277
+2025-09,Americas,New York,Operations,Advisory,45.90909090909091
+2025-09,Americas,New York,Operations,Discretionary,58.18181818181819
+2025-09,Americas,New York,Operations,Execution-only,48.18181818181818
+2025-09,Americas,New York,Operations,Lombard Lending,47.27272727272727
+2025-09,Americas,New York,Operations,Structured Products,35.45454545454545
+2025-09,EMEA,Geneva,Client Onboarding,Advisory,15.0
+2025-09,EMEA,Geneva,Client Onboarding,Discretionary,14.545454545454545
+2025-09,EMEA,Geneva,Client Onboarding,Execution-only,26.81818181818182
+2025-09,EMEA,Geneva,Client Onboarding,Lombard Lending,19.090909090909093
+2025-09,EMEA,Geneva,Client Onboarding,Structured Products,27.272727272727277
+2025-09,EMEA,Geneva,Compliance & Controls,Advisory,39.54545454545455
+2025-09,EMEA,Geneva,Compliance & Controls,Discretionary,9.090909090909092
+2025-09,EMEA,Geneva,Compliance & Controls,Execution-only,26.363636363636367
+2025-09,EMEA,Geneva,Compliance & Controls,Lombard Lending,11.818181818181818
+2025-09,EMEA,Geneva,Compliance & Controls,Structured Products,11.818181818181818
+2025-09,EMEA,Geneva,Front Office,Advisory,20.0
+2025-09,EMEA,Geneva,Front Office,Discretionary,44.54545454545455
+2025-09,EMEA,Geneva,Front Office,Execution-only,40.90909090909091
+2025-09,EMEA,Geneva,Front Office,Lombard Lending,15.454545454545453
+2025-09,EMEA,Geneva,Front Office,Structured Products,28.18181818181818
+2025-09,EMEA,Geneva,Operations,Advisory,51.36363636363637
+2025-09,EMEA,Geneva,Operations,Discretionary,48.18181818181818
+2025-09,EMEA,Geneva,Operations,Execution-only,46.36363636363636
+2025-09,EMEA,Geneva,Operations,Lombard Lending,55.00000000000001
+2025-09,EMEA,Geneva,Operations,Structured Products,28.18181818181818
+2025-09,EMEA,London,Client Onboarding,Advisory,48.63636363636363
+2025-09,EMEA,London,Client Onboarding,Discretionary,27.27272727272727
+2025-09,EMEA,London,Client Onboarding,Execution-only,42.272727272727266
+2025-09,EMEA,London,Client Onboarding,Lombard Lending,44.090909090909086
+2025-09,EMEA,London,Client Onboarding,Structured Products,43.63636363636363
+2025-09,EMEA,London,Compliance & Controls,Advisory,21.818181818181817
+2025-09,EMEA,London,Compliance & Controls,Discretionary,8.18181818181818
+2025-09,EMEA,London,Compliance & Controls,Execution-only,48.63636363636363
+2025-09,EMEA,London,Compliance & Controls,Lombard Lending,20.90909090909091
+2025-09,EMEA,London,Compliance & Controls,Structured Products,16.36363636363636
+2025-09,EMEA,London,Front Office,Advisory,30.000000000000004
+2025-09,EMEA,London,Front Office,Discretionary,45.00000000000001
+2025-09,EMEA,London,Front Office,Execution-only,40.909090909090914
+2025-09,EMEA,London,Front Office,Lombard Lending,24.545454545454547
+2025-09,EMEA,London,Front Office,Structured Products,25.454545454545457
+2025-09,EMEA,London,Operations,Advisory,49.0909090909091
+2025-09,EMEA,London,Operations,Discretionary,41.81818181818181
+2025-09,EMEA,London,Operations,Execution-only,38.18181818181819
+2025-09,EMEA,London,Operations,Lombard Lending,50.0
+2025-09,EMEA,London,Operations,Structured Products,46.36363636363636
+2025-09,EMEA,Zurich,Client Onboarding,Advisory,19.090909090909093
+2025-09,EMEA,Zurich,Client Onboarding,Discretionary,24.09090909090909
+2025-09,EMEA,Zurich,Client Onboarding,Execution-only,39.54545454545454
+2025-09,EMEA,Zurich,Client Onboarding,Lombard Lending,0.0
+2025-09,EMEA,Zurich,Client Onboarding,Structured Products,27.272727272727277
+2025-09,EMEA,Zurich,Compliance & Controls,Advisory,27.272727272727277
+2025-09,EMEA,Zurich,Compliance & Controls,Discretionary,30.000000000000004
+2025-09,EMEA,Zurich,Compliance & Controls,Execution-only,14.545454545454545
+2025-09,EMEA,Zurich,Compliance & Controls,Lombard Lending,29.09090909090909
+2025-09,EMEA,Zurich,Compliance & Controls,Structured Products,44.99999999999999
+2025-09,EMEA,Zurich,Front Office,Advisory,18.636363636363633
+2025-09,EMEA,Zurich,Front Office,Discretionary,30.909090909090907
+2025-09,EMEA,Zurich,Front Office,Execution-only,29.999999999999993
+2025-09,EMEA,Zurich,Front Office,Lombard Lending,26.363636363636367
+2025-09,EMEA,Zurich,Front Office,Structured Products,35.45454545454545
+2025-09,EMEA,Zurich,Operations,Advisory,42.27272727272728
+2025-09,EMEA,Zurich,Operations,Discretionary,39.54545454545455
+2025-09,EMEA,Zurich,Operations,Execution-only,47.27272727272727
+2025-09,EMEA,Zurich,Operations,Lombard Lending,37.27272727272727
+2025-09,EMEA,Zurich,Operations,Structured Products,44.090909090909086
+2025-10,APAC,Hong Kong,Client Onboarding,Advisory,20.454545454545453
+2025-10,APAC,Hong Kong,Client Onboarding,Discretionary,39.090909090909086
+2025-10,APAC,Hong Kong,Client Onboarding,Execution-only,39.54545454545455
+2025-10,APAC,Hong Kong,Client Onboarding,Lombard Lending,30.909090909090907
+2025-10,APAC,Hong Kong,Client Onboarding,Structured Products,17.27272727272727
+2025-10,APAC,Hong Kong,Compliance & Controls,Advisory,9.090909090909092
+2025-10,APAC,Hong Kong,Compliance & Controls,Discretionary,38.18181818181818
+2025-10,APAC,Hong Kong,Compliance & Controls,Execution-only,34.090909090909086
+2025-10,APAC,Hong Kong,Compliance & Controls,Lombard Lending,5.454545454545453
+2025-10,APAC,Hong Kong,Compliance & Controls,Structured Products,20.0
+2025-10,APAC,Hong Kong,Front Office,Advisory,26.81818181818182
+2025-10,APAC,Hong Kong,Front Office,Discretionary,27.272727272727277
+2025-10,APAC,Hong Kong,Front Office,Execution-only,40.909090909090914
+2025-10,APAC,Hong Kong,Front Office,Lombard Lending,21.36363636363636
+2025-10,APAC,Hong Kong,Front Office,Structured Products,30.909090909090903
+2025-10,APAC,Hong Kong,Operations,Advisory,59.09090909090909
+2025-10,APAC,Hong Kong,Operations,Discretionary,62.72727272727274
+2025-10,APAC,Hong Kong,Operations,Execution-only,51.36363636363637
+2025-10,APAC,Hong Kong,Operations,Lombard Lending,52.727272727272734
+2025-10,APAC,Hong Kong,Operations,Structured Products,43.636363636363626
+2025-10,APAC,Singapore,Client Onboarding,Advisory,31.818181818181817
+2025-10,APAC,Singapore,Client Onboarding,Discretionary,22.272727272727273
+2025-10,APAC,Singapore,Client Onboarding,Execution-only,20.909090909090907
+2025-10,APAC,Singapore,Client Onboarding,Lombard Lending,6.363636363636364
+2025-10,APAC,Singapore,Client Onboarding,Structured Products,4.545454545454546
+2025-10,APAC,Singapore,Compliance & Controls,Advisory,11.818181818181818
+2025-10,APAC,Singapore,Compliance & Controls,Discretionary,46.36363636363636
+2025-10,APAC,Singapore,Compliance & Controls,Execution-only,35.45454545454545
+2025-10,APAC,Singapore,Compliance & Controls,Lombard Lending,0.0
+2025-10,APAC,Singapore,Compliance & Controls,Structured Products,30.454545454545457
+2025-10,APAC,Singapore,Front Office,Advisory,27.727272727272727
+2025-10,APAC,Singapore,Front Office,Discretionary,38.63636363636363
+2025-10,APAC,Singapore,Front Office,Execution-only,32.272727272727266
+2025-10,APAC,Singapore,Front Office,Lombard Lending,35.0
+2025-10,APAC,Singapore,Front Office,Structured Products,13.636363636363638
+2025-10,APAC,Singapore,Operations,Advisory,40.0
+2025-10,APAC,Singapore,Operations,Discretionary,43.636363636363626
+2025-10,APAC,Singapore,Operations,Execution-only,49.54545454545454
+2025-10,APAC,Singapore,Operations,Lombard Lending,42.27272727272727
+2025-10,APAC,Singapore,Operations,Structured Products,40.9090909090909
+2025-10,Americas,New York,Client Onboarding,Advisory,11.363636363636363
+2025-10,Americas,New York,Client Onboarding,Discretionary,41.81818181818182
+2025-10,Americas,New York,Client Onboarding,Execution-only,50.45454545454545
+2025-10,Americas,New York,Client Onboarding,Lombard Lending,34.54545454545454
+2025-10,Americas,New York,Client Onboarding,Structured Products,46.36363636363636
+2025-10,Americas,New York,Compliance & Controls,Advisory,22.727272727272727
+2025-10,Americas,New York,Compliance & Controls,Discretionary,13.181818181818183
+2025-10,Americas,New York,Compliance & Controls,Execution-only,46.81818181818183
+2025-10,Americas,New York,Compliance & Controls,Lombard Lending,11.818181818181818
+2025-10,Americas,New York,Compliance & Controls,Structured Products,0.0
+2025-10,Americas,New York,Front Office,Advisory,49.54545454545454
+2025-10,Americas,New York,Front Office,Discretionary,35.45454545454545
+2025-10,Americas,New York,Front Office,Execution-only,39.090909090909086
+2025-10,Americas,New York,Front Office,Lombard Lending,14.545454545454545
+2025-10,Americas,New York,Front Office,Structured Products,30.0
+2025-10,Americas,New York,Operations,Advisory,44.0909090909091
+2025-10,Americas,New York,Operations,Discretionary,52.27272727272727
+2025-10,Americas,New York,Operations,Execution-only,53.18181818181819
+2025-10,Americas,New York,Operations,Lombard Lending,61.81818181818183
+2025-10,Americas,New York,Operations,Structured Products,40.0
+2025-10,EMEA,Geneva,Client Onboarding,Advisory,18.181818181818183
+2025-10,EMEA,Geneva,Client Onboarding,Discretionary,41.36363636363637
+2025-10,EMEA,Geneva,Client Onboarding,Execution-only,41.81818181818181
+2025-10,EMEA,Geneva,Client Onboarding,Lombard Lending,13.636363636363638
+2025-10,EMEA,Geneva,Client Onboarding,Structured Products,39.090909090909086
+2025-10,EMEA,Geneva,Compliance & Controls,Advisory,18.181818181818183
+2025-10,EMEA,Geneva,Compliance & Controls,Discretionary,3.181818181818182
+2025-10,EMEA,Geneva,Compliance & Controls,Execution-only,36.81818181818181
+2025-10,EMEA,Geneva,Compliance & Controls,Lombard Lending,16.36363636363636
+2025-10,EMEA,Geneva,Compliance & Controls,Structured Products,27.27272727272727
+2025-10,EMEA,Geneva,Front Office,Advisory,24.545454545454547
+2025-10,EMEA,Geneva,Front Office,Discretionary,25.90909090909091
+2025-10,EMEA,Geneva,Front Office,Execution-only,33.63636363636364
+2025-10,EMEA,Geneva,Front Office,Lombard Lending,16.36363636363636
+2025-10,EMEA,Geneva,Front Office,Structured Products,33.18181818181819
+2025-10,EMEA,Geneva,Operations,Advisory,48.63636363636363
+2025-10,EMEA,Geneva,Operations,Discretionary,46.36363636363636
+2025-10,EMEA,Geneva,Operations,Execution-only,42.72727272727272
+2025-10,EMEA,Geneva,Operations,Lombard Lending,50.45454545454544
+2025-10,EMEA,Geneva,Operations,Structured Products,53.63636363636364
+2025-10,EMEA,London,Client Onboarding,Advisory,35.45454545454545
+2025-10,EMEA,London,Client Onboarding,Discretionary,27.272727272727277
+2025-10,EMEA,London,Client Onboarding,Execution-only,44.54545454545455
+2025-10,EMEA,London,Client Onboarding,Lombard Lending,55.45454545454545
+2025-10,EMEA,London,Client Onboarding,Structured Products,20.909090909090907
+2025-10,EMEA,London,Compliance & Controls,Advisory,20.0
+2025-10,EMEA,London,Compliance & Controls,Discretionary,19.090909090909093
+2025-10,EMEA,London,Compliance & Controls,Execution-only,22.272727272727273
+2025-10,EMEA,London,Compliance & Controls,Lombard Lending,32.27272727272727
+2025-10,EMEA,London,Compliance & Controls,Structured Products,13.636363636363638
+2025-10,EMEA,London,Front Office,Advisory,14.545454545454545
+2025-10,EMEA,London,Front Office,Discretionary,35.9090909090909
+2025-10,EMEA,London,Front Office,Execution-only,41.36363636363637
+2025-10,EMEA,London,Front Office,Lombard Lending,42.27272727272728
+2025-10,EMEA,London,Front Office,Structured Products,37.27272727272727
+2025-10,EMEA,London,Operations,Advisory,40.909090909090914
+2025-10,EMEA,London,Operations,Discretionary,48.18181818181818
+2025-10,EMEA,London,Operations,Execution-only,44.54545454545455
+2025-10,EMEA,London,Operations,Lombard Lending,51.81818181818182
+2025-10,EMEA,London,Operations,Structured Products,48.63636363636363
+2025-10,EMEA,Zurich,Client Onboarding,Advisory,20.454545454545457
+2025-10,EMEA,Zurich,Client Onboarding,Discretionary,35.45454545454545
+2025-10,EMEA,Zurich,Client Onboarding,Execution-only,34.090909090909086
+2025-10,EMEA,Zurich,Client Onboarding,Lombard Lending,15.909090909090908
+2025-10,EMEA,Zurich,Client Onboarding,Structured Products,36.36363636363637
+2025-10,EMEA,Zurich,Compliance & Controls,Advisory,13.636363636363638
+2025-10,EMEA,Zurich,Compliance & Controls,Discretionary,35.45454545454545
+2025-10,EMEA,Zurich,Compliance & Controls,Execution-only,10.909090909090907
+2025-10,EMEA,Zurich,Compliance & Controls,Lombard Lending,15.454545454545453
+2025-10,EMEA,Zurich,Compliance & Controls,Structured Products,38.18181818181819
+2025-10,EMEA,Zurich,Front Office,Advisory,30.0
+2025-10,EMEA,Zurich,Front Office,Discretionary,32.27272727272728
+2025-10,EMEA,Zurich,Front Office,Execution-only,33.18181818181818
+2025-10,EMEA,Zurich,Front Office,Lombard Lending,33.18181818181818
+2025-10,EMEA,Zurich,Front Office,Structured Products,30.909090909090903
+2025-10,EMEA,Zurich,Operations,Advisory,48.63636363636363
+2025-10,EMEA,Zurich,Operations,Discretionary,38.63636363636363
+2025-10,EMEA,Zurich,Operations,Execution-only,55.00000000000001
+2025-10,EMEA,Zurich,Operations,Lombard Lending,41.36363636363636
+2025-10,EMEA,Zurich,Operations,Structured Products,48.18181818181818
+2025-11,APAC,Hong Kong,Client Onboarding,Advisory,20.454545454545453
+2025-11,APAC,Hong Kong,Client Onboarding,Discretionary,34.54545454545454
+2025-11,APAC,Hong Kong,Client Onboarding,Execution-only,29.999999999999993
+2025-11,APAC,Hong Kong,Client Onboarding,Lombard Lending,31.363636363636367
+2025-11,APAC,Hong Kong,Client Onboarding,Structured Products,4.545454545454546
+2025-11,APAC,Hong Kong,Compliance & Controls,Advisory,14.545454545454545
+2025-11,APAC,Hong Kong,Compliance & Controls,Discretionary,53.18181818181817
+2025-11,APAC,Hong Kong,Compliance & Controls,Execution-only,40.45454545454546
+2025-11,APAC,Hong Kong,Compliance & Controls,Lombard Lending,15.454545454545451
+2025-11,APAC,Hong Kong,Compliance & Controls,Structured Products,46.36363636363636
+2025-11,APAC,Hong Kong,Front Office,Advisory,43.18181818181818
+2025-11,APAC,Hong Kong,Front Office,Discretionary,31.36363636363637
+2025-11,APAC,Hong Kong,Front Office,Execution-only,39.54545454545455
+2025-11,APAC,Hong Kong,Front Office,Lombard Lending,22.727272727272727
+2025-11,APAC,Hong Kong,Front Office,Structured Products,25.90909090909091
+2025-11,APAC,Hong Kong,Operations,Advisory,47.72727272727273
+2025-11,APAC,Hong Kong,Operations,Discretionary,43.636363636363626
+2025-11,APAC,Hong Kong,Operations,Execution-only,56.363636363636374
+2025-11,APAC,Hong Kong,Operations,Lombard Lending,35.90909090909091
+2025-11,APAC,Hong Kong,Operations,Structured Products,40.0
+2025-11,APAC,Singapore,Client Onboarding,Advisory,36.81818181818182
+2025-11,APAC,Singapore,Client Onboarding,Discretionary,16.818181818181817
+2025-11,APAC,Singapore,Client Onboarding,Execution-only,33.63636363636363
+2025-11,APAC,Singapore,Client Onboarding,Lombard Lending,10.909090909090908
+2025-11,APAC,Singapore,Client Onboarding,Structured Products,11.818181818181818
+2025-11,APAC,Singapore,Compliance & Controls,Advisory,24.545454545454547
+2025-11,APAC,Singapore,Compliance & Controls,Discretionary,45.454545454545446
+2025-11,APAC,Singapore,Compliance & Controls,Execution-only,36.81818181818181
+2025-11,APAC,Singapore,Compliance & Controls,Lombard Lending,0.0
+2025-11,APAC,Singapore,Compliance & Controls,Structured Products,19.545454545454543
+2025-11,APAC,Singapore,Front Office,Advisory,26.81818181818182
+2025-11,APAC,Singapore,Front Office,Discretionary,31.818181818181824
+2025-11,APAC,Singapore,Front Office,Execution-only,30.000000000000004
+2025-11,APAC,Singapore,Front Office,Lombard Lending,22.727272727272727
+2025-11,APAC,Singapore,Front Office,Structured Products,34.090909090909086
+2025-11,APAC,Singapore,Operations,Advisory,35.45454545454545
+2025-11,APAC,Singapore,Operations,Discretionary,47.72727272727273
+2025-11,APAC,Singapore,Operations,Execution-only,55.454545454545446
+2025-11,APAC,Singapore,Operations,Lombard Lending,51.36363636363637
+2025-11,APAC,Singapore,Operations,Structured Products,37.272727272727266
+2025-11,Americas,New York,Client Onboarding,Advisory,30.000000000000004
+2025-11,Americas,New York,Client Onboarding,Discretionary,42.72727272727272
+2025-11,Americas,New York,Client Onboarding,Execution-only,50.909090909090914
+2025-11,Americas,New York,Client Onboarding,Lombard Lending,59.54545454545453
+2025-11,Americas,New York,Client Onboarding,Structured Products,41.81818181818181
+2025-11,Americas,New York,Compliance & Controls,Advisory,25.454545454545457
+2025-11,Americas,New York,Compliance & Controls,Discretionary,16.363636363636363
+2025-11,Americas,New York,Compliance & Controls,Execution-only,30.909090909090914
+2025-11,Americas,New York,Compliance & Controls,Lombard Lending,30.454545454545457
+2025-11,Americas,New York,Compliance & Controls,Structured Products,6.363636363636364
+2025-11,Americas,New York,Front Office,Advisory,37.72727272727271
+2025-11,Americas,New York,Front Office,Discretionary,43.18181818181818
+2025-11,Americas,New York,Front Office,Execution-only,37.72727272727273
+2025-11,Americas,New York,Front Office,Lombard Lending,17.727272727272727
+2025-11,Americas,New York,Front Office,Structured Products,24.545454545454547
+2025-11,Americas,New York,Operations,Advisory,53.63636363636364
+2025-11,Americas,New York,Operations,Discretionary,57.27272727272727
+2025-11,Americas,New York,Operations,Execution-only,55.45454545454545
+2025-11,Americas,New York,Operations,Lombard Lending,37.72727272727273
+2025-11,Americas,New York,Operations,Structured Products,40.454545454545446
+2025-11,EMEA,Geneva,Client Onboarding,Advisory,23.636363636363637
+2025-11,EMEA,Geneva,Client Onboarding,Discretionary,22.727272727272727
+2025-11,EMEA,Geneva,Client Onboarding,Execution-only,27.727272727272727
+2025-11,EMEA,Geneva,Client Onboarding,Lombard Lending,23.636363636363637
+2025-11,EMEA,Geneva,Client Onboarding,Structured Products,33.63636363636363
+2025-11,EMEA,Geneva,Compliance & Controls,Advisory,28.181818181818187
+2025-11,EMEA,Geneva,Compliance & Controls,Discretionary,3.6363636363636362
+2025-11,EMEA,Geneva,Compliance & Controls,Execution-only,39.09090909090909
+2025-11,EMEA,Geneva,Compliance & Controls,Lombard Lending,23.636363636363637
+2025-11,EMEA,Geneva,Compliance & Controls,Structured Products,11.818181818181818
+2025-11,EMEA,Geneva,Front Office,Advisory,9.090909090909092
+2025-11,EMEA,Geneva,Front Office,Discretionary,26.363636363636367
+2025-11,EMEA,Geneva,Front Office,Execution-only,31.36363636363636
+2025-11,EMEA,Geneva,Front Office,Lombard Lending,21.363636363636363
+2025-11,EMEA,Geneva,Front Office,Structured Products,24.09090909090909
+2025-11,EMEA,Geneva,Operations,Advisory,60.00000000000001
+2025-11,EMEA,Geneva,Operations,Discretionary,46.36363636363636
+2025-11,EMEA,Geneva,Operations,Execution-only,45.90909090909091
+2025-11,EMEA,Geneva,Operations,Lombard Lending,55.00000000000001
+2025-11,EMEA,Geneva,Operations,Structured Products,43.636363636363626
+2025-11,EMEA,London,Client Onboarding,Advisory,40.45454545454545
+2025-11,EMEA,London,Client Onboarding,Discretionary,11.363636363636363
+2025-11,EMEA,London,Client Onboarding,Execution-only,44.54545454545455
+2025-11,EMEA,London,Client Onboarding,Lombard Lending,40.909090909090914
+2025-11,EMEA,London,Client Onboarding,Structured Products,26.363636363636367
+2025-11,EMEA,London,Compliance & Controls,Advisory,19.090909090909093
+2025-11,EMEA,London,Compliance & Controls,Discretionary,25.454545454545457
+2025-11,EMEA,London,Compliance & Controls,Execution-only,30.454545454545457
+2025-11,EMEA,London,Compliance & Controls,Lombard Lending,19.090909090909093
+2025-11,EMEA,London,Compliance & Controls,Structured Products,5.454545454545453
+2025-11,EMEA,London,Front Office,Advisory,44.54545454545454
+2025-11,EMEA,London,Front Office,Discretionary,44.99999999999999
+2025-11,EMEA,London,Front Office,Execution-only,41.81818181818181
+2025-11,EMEA,London,Front Office,Lombard Lending,33.18181818181819
+2025-11,EMEA,London,Front Office,Structured Products,29.09090909090909
+2025-11,EMEA,London,Operations,Advisory,37.72727272727273
+2025-11,EMEA,London,Operations,Discretionary,38.63636363636363
+2025-11,EMEA,London,Operations,Execution-only,44.09090909090909
+2025-11,EMEA,London,Operations,Lombard Lending,62.72727272727274
+2025-11,EMEA,London,Operations,Structured Products,48.18181818181818
+2025-11,EMEA,Zurich,Client Onboarding,Advisory,27.727272727272727
+2025-11,EMEA,Zurich,Client Onboarding,Discretionary,35.0
+2025-11,EMEA,Zurich,Client Onboarding,Execution-only,48.63636363636363
+2025-11,EMEA,Zurich,Client Onboarding,Lombard Lending,5.454545454545453
+2025-11,EMEA,Zurich,Client Onboarding,Structured Products,37.72727272727272
+2025-11,EMEA,Zurich,Compliance & Controls,Advisory,13.636363636363638
+2025-11,EMEA,Zurich,Compliance & Controls,Discretionary,42.272727272727266
+2025-11,EMEA,Zurich,Compliance & Controls,Execution-only,15.909090909090908
+2025-11,EMEA,Zurich,Compliance & Controls,Lombard Lending,5.454545454545453
+2025-11,EMEA,Zurich,Compliance & Controls,Structured Products,20.909090909090907
+2025-11,EMEA,Zurich,Front Office,Advisory,19.545454545454543
+2025-11,EMEA,Zurich,Front Office,Discretionary,24.09090909090909
+2025-11,EMEA,Zurich,Front Office,Execution-only,37.72727272727273
+2025-11,EMEA,Zurich,Front Office,Lombard Lending,28.18181818181818
+2025-11,EMEA,Zurich,Front Office,Structured Products,27.272727272727277
+2025-11,EMEA,Zurich,Operations,Advisory,41.36363636363637
+2025-11,EMEA,Zurich,Operations,Discretionary,44.09090909090909
+2025-11,EMEA,Zurich,Operations,Execution-only,55.90909090909092
+2025-11,EMEA,Zurich,Operations,Lombard Lending,41.81818181818181
+2025-11,EMEA,Zurich,Operations,Structured Products,46.36363636363636
+2025-12,APAC,Hong Kong,Client Onboarding,Advisory,23.636363636363637
+2025-12,APAC,Hong Kong,Client Onboarding,Discretionary,47.27272727272727
+2025-12,APAC,Hong Kong,Client Onboarding,Execution-only,27.727272727272716
+2025-12,APAC,Hong Kong,Client Onboarding,Lombard Lending,23.636363636363637
+2025-12,APAC,Hong Kong,Client Onboarding,Structured Products,10.909090909090908
+2025-12,APAC,Hong Kong,Compliance & Controls,Advisory,15.454545454545453
+2025-12,APAC,Hong Kong,Compliance & Controls,Discretionary,45.0
+2025-12,APAC,Hong Kong,Compliance & Controls,Execution-only,49.09090909090909
+2025-12,APAC,Hong Kong,Compliance & Controls,Lombard Lending,5.454545454545453
+2025-12,APAC,Hong Kong,Compliance & Controls,Structured Products,18.181818181818183
+2025-12,APAC,Hong Kong,Front Office,Advisory,43.63636363636364
+2025-12,APAC,Hong Kong,Front Office,Discretionary,36.36363636363637
+2025-12,APAC,Hong Kong,Front Office,Execution-only,29.545454545454547
+2025-12,APAC,Hong Kong,Front Office,Lombard Lending,27.727272727272727
+2025-12,APAC,Hong Kong,Front Office,Structured Products,20.909090909090907
+2025-12,APAC,Hong Kong,Operations,Advisory,44.090909090909086
+2025-12,APAC,Hong Kong,Operations,Discretionary,45.90909090909091
+2025-12,APAC,Hong Kong,Operations,Execution-only,40.909090909090914
+2025-12,APAC,Hong Kong,Operations,Lombard Lending,39.09090909090908
+2025-12,APAC,Hong Kong,Operations,Structured Products,35.45454545454545
+2025-12,APAC,Singapore,Client Onboarding,Advisory,33.18181818181818
+2025-12,APAC,Singapore,Client Onboarding,Discretionary,22.727272727272727
+2025-12,APAC,Singapore,Client Onboarding,Execution-only,25.454545454545457
+2025-12,APAC,Singapore,Client Onboarding,Lombard Lending,6.363636363636364
+2025-12,APAC,Singapore,Client Onboarding,Structured Products,11.818181818181818
+2025-12,APAC,Singapore,Compliance & Controls,Advisory,20.909090909090907
+2025-12,APAC,Singapore,Compliance & Controls,Discretionary,58.63636363636362
+2025-12,APAC,Singapore,Compliance & Controls,Execution-only,34.54545454545454
+2025-12,APAC,Singapore,Compliance & Controls,Lombard Lending,13.636363636363638
+2025-12,APAC,Singapore,Compliance & Controls,Structured Products,4.545454545454546
+2025-12,APAC,Singapore,Front Office,Advisory,38.63636363636363
+2025-12,APAC,Singapore,Front Office,Discretionary,43.63636363636363
+2025-12,APAC,Singapore,Front Office,Execution-only,41.81818181818182
+2025-12,APAC,Singapore,Front Office,Lombard Lending,15.0
+2025-12,APAC,Singapore,Front Office,Structured Products,41.81818181818181
+2025-12,APAC,Singapore,Operations,Advisory,38.63636363636363
+2025-12,APAC,Singapore,Operations,Discretionary,42.27272727272727
+2025-12,APAC,Singapore,Operations,Execution-only,58.18181818181819
+2025-12,APAC,Singapore,Operations,Lombard Lending,39.54545454545455
+2025-12,APAC,Singapore,Operations,Structured Products,50.90909090909091
+2025-12,Americas,New York,Client Onboarding,Advisory,31.363636363636367
+2025-12,Americas,New York,Client Onboarding,Discretionary,41.36363636363637
+2025-12,Americas,New York,Client Onboarding,Execution-only,60.00000000000001
+2025-12,Americas,New York,Client Onboarding,Lombard Lending,34.54545454545454
+2025-12,Americas,New York,Client Onboarding,Structured Products,46.36363636363636
+2025-12,Americas,New York,Compliance & Controls,Advisory,20.0
+2025-12,Americas,New York,Compliance & Controls,Discretionary,40.45454545454545
+2025-12,Americas,New York,Compliance & Controls,Execution-only,51.36363636363637
+2025-12,Americas,New York,Compliance & Controls,Lombard Lending,25.454545454545457
+2025-12,Americas,New York,Compliance & Controls,Structured Products,18.181818181818183
+2025-12,Americas,New York,Front Office,Advisory,50.909090909090914
+2025-12,Americas,New York,Front Office,Discretionary,27.272727272727277
+2025-12,Americas,New York,Front Office,Execution-only,32.72727272727272
+2025-12,Americas,New York,Front Office,Lombard Lending,28.636363636363637
+2025-12,Americas,New York,Front Office,Structured Products,20.0
+2025-12,Americas,New York,Operations,Advisory,62.27272727272728
+2025-12,Americas,New York,Operations,Discretionary,51.81818181818183
+2025-12,Americas,New York,Operations,Execution-only,49.09090909090909
+2025-12,Americas,New York,Operations,Lombard Lending,47.27272727272727
+2025-12,Americas,New York,Operations,Structured Products,37.27272727272727
+2025-12,EMEA,Geneva,Client Onboarding,Advisory,23.18181818181818
+2025-12,EMEA,Geneva,Client Onboarding,Discretionary,48.63636363636363
+2025-12,EMEA,Geneva,Client Onboarding,Execution-only,49.09090909090908
+2025-12,EMEA,Geneva,Client Onboarding,Lombard Lending,30.909090909090907
+2025-12,EMEA,Geneva,Client Onboarding,Structured Products,39.090909090909086
+2025-12,EMEA,Geneva,Compliance & Controls,Advisory,31.818181818181813
+2025-12,EMEA,Geneva,Compliance & Controls,Discretionary,18.636363636363637
+2025-12,EMEA,Geneva,Compliance & Controls,Execution-only,31.818181818181813
+2025-12,EMEA,Geneva,Compliance & Controls,Lombard Lending,16.36363636363636
+2025-12,EMEA,Geneva,Compliance & Controls,Structured Products,18.181818181818183
+2025-12,EMEA,Geneva,Front Office,Advisory,17.727272727272727
+2025-12,EMEA,Geneva,Front Office,Discretionary,31.818181818181817
+2025-12,EMEA,Geneva,Front Office,Execution-only,32.72727272727272
+2025-12,EMEA,Geneva,Front Office,Lombard Lending,7.2727272727272725
+2025-12,EMEA,Geneva,Front Office,Structured Products,35.909090909090914
+2025-12,EMEA,Geneva,Operations,Advisory,45.909090909090914
+2025-12,EMEA,Geneva,Operations,Discretionary,54.090909090909086
+2025-12,EMEA,Geneva,Operations,Execution-only,38.18181818181819
+2025-12,EMEA,Geneva,Operations,Lombard Lending,62.272727272727266
+2025-12,EMEA,Geneva,Operations,Structured Products,33.18181818181819
+2025-12,EMEA,London,Client Onboarding,Advisory,28.18181818181818
+2025-12,EMEA,London,Client Onboarding,Discretionary,24.545454545454547
+2025-12,EMEA,London,Client Onboarding,Execution-only,51.36363636363637
+2025-12,EMEA,London,Client Onboarding,Lombard Lending,36.36363636363636
+2025-12,EMEA,London,Client Onboarding,Structured Products,15.454545454545453
+2025-12,EMEA,London,Compliance & Controls,Advisory,25.0
+2025-12,EMEA,London,Compliance & Controls,Discretionary,54.090909090909086
+2025-12,EMEA,London,Compliance & Controls,Execution-only,38.18181818181817
+2025-12,EMEA,London,Compliance & Controls,Lombard Lending,19.090909090909093
+2025-12,EMEA,London,Compliance & Controls,Structured Products,0.0
+2025-12,EMEA,London,Front Office,Advisory,40.0
+2025-12,EMEA,London,Front Office,Discretionary,37.272727272727266
+2025-12,EMEA,London,Front Office,Execution-only,44.54545454545455
+2025-12,EMEA,London,Front Office,Lombard Lending,28.18181818181818
+2025-12,EMEA,London,Front Office,Structured Products,42.27272727272727
+2025-12,EMEA,London,Operations,Advisory,40.45454545454545
+2025-12,EMEA,London,Operations,Discretionary,53.63636363636364
+2025-12,EMEA,London,Operations,Execution-only,44.0909090909091
+2025-12,EMEA,London,Operations,Lombard Lending,61.36363636363637
+2025-12,EMEA,London,Operations,Structured Products,44.54545454545455
+2025-12,EMEA,Zurich,Client Onboarding,Advisory,28.18181818181818
+2025-12,EMEA,Zurich,Client Onboarding,Discretionary,38.18181818181818
+2025-12,EMEA,Zurich,Client Onboarding,Execution-only,38.63636363636363
+2025-12,EMEA,Zurich,Client Onboarding,Lombard Lending,19.545454545454547
+2025-12,EMEA,Zurich,Client Onboarding,Structured Products,20.909090909090907
+2025-12,EMEA,Zurich,Compliance & Controls,Advisory,35.45454545454545
+2025-12,EMEA,Zurich,Compliance & Controls,Discretionary,44.99999999999999
+2025-12,EMEA,Zurich,Compliance & Controls,Execution-only,21.363636363636363
+2025-12,EMEA,Zurich,Compliance & Controls,Lombard Lending,13.636363636363638
+2025-12,EMEA,Zurich,Compliance & Controls,Structured Products,28.18181818181818
+2025-12,EMEA,Zurich,Front Office,Advisory,30.909090909090903
+2025-12,EMEA,Zurich,Front Office,Discretionary,23.18181818181818
+2025-12,EMEA,Zurich,Front Office,Execution-only,37.27272727272727
+2025-12,EMEA,Zurich,Front Office,Lombard Lending,25.0
+2025-12,EMEA,Zurich,Front Office,Structured Products,25.454545454545457
+2025-12,EMEA,Zurich,Operations,Advisory,58.18181818181819
+2025-12,EMEA,Zurich,Operations,Discretionary,44.54545454545455
+2025-12,EMEA,Zurich,Operations,Execution-only,45.00000000000001
+2025-12,EMEA,Zurich,Operations,Lombard Lending,35.00000000000001
+2025-12,EMEA,Zurich,Operations,Structured Products,39.54545454545455

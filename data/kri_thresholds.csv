@@ -1,0 +1,14 @@
+KRI_ID,KRI_Name,Frequency,SourceTables,Direction,GreenMax,AmberMax,Weight,Unit
+KRI_01,Incident rate per 1k transactions,Monthly,FactEvents + FactVolume,Higher is worse,0.0725295346314627,0.3014291142844045,0.12,rate
+KRI_02,Aged open incidents >30 days per 10k clients (month-end),Month-end,OpenSnapshot + FactVolume,Higher is worse,0.0,56.275536261491226,0.1,rate
+KRI_03,Client complaint rate per 10k clients,Monthly,FactEvents + FactVolume,Higher is worse,0.0,7.261654402586243,0.08,rate
+KRI_04,Substantiated complaints per 10k clients,Monthly,FactEvents + FactVolume,Higher is worse,0.0,8.217361385081128,0.08,rate
+KRI_05,Processing error rate per 1k transactions,Monthly,FactEvents + FactVolume,Higher is worse,0.17490161917755032,1.0881698535931852,0.12,rate
+KRI_06,Open items over SLA per 10k clients (month-end),Month-end,OpenSnapshot + FactVolume,Higher is worse,175.43859649122805,416.8756967670009,0.1,rate
+KRI_07,Overdue tasks per 10k clients (month-end),Month-end,OpenSnapshot + FactVolume,Higher is worse,0.0,46.00353669319184,0.08,rate
+KRI_08,KYC review overdue per 10k clients (month-end),Month-end,OpenSnapshot + FactVolume,Higher is worse,0.0,22.016418855265723,0.1,rate
+KRI_09,High-risk transactions per 1k transactions,Monthly,FactEvents + FactVolume,Higher is worse,0.08599196826586537,0.4819447827047793,0.08,rate
+KRI_10,Reconciliation breaks per 1k transactions,Monthly,FactEvents + FactVolume,Higher is worse,0.03609231817597523,0.3212984145702084,0.06,rate
+KRI_11,Limit breaches per 1k transactions,Monthly,FactEvents + FactVolume,Higher is worse,0.0,0.10464247728153989,0.06,rate
+KRI_12,Data quality issues per 1k transactions,Monthly,FactEvents + FactVolume,Higher is worse,0.07423088177482222,0.3663276054247466,0.07,rate
+KRI_13,Average incident closure time (days),Monthly,FactEvents,Higher is worse,4.75,17.631249999999994,0.05,days
