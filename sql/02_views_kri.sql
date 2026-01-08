@@ -2,7 +2,7 @@
 -- Note: This is written for PostgreSQL.
 
 -- 1) Clean events (basic DQ filtering)
-DROP VIEW IF EXISTS v_events_clean;
+DROP VIEW IF EXISTS v_events_clean CASCADE;
 CREATE VIEW v_events_clean AS
 SELECT *
 FROM fact_events_raw
